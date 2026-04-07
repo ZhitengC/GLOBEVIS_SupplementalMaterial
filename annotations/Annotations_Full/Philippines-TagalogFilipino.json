@@ -1,0 +1,821 @@
+[
+  {
+    "image": "IB_September5.jpg",
+    "source": "https://pidswebs.pids.gov.ph/CDN/featured-image/IB_September5.jpg",
+    "meta": {
+      "title": "INFOBITS",
+      "chart_type": [
+        "StackedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Filipino"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "PIDS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PIDS",
+        "INFOBITS",
+        "ALAM MO BA?",
+        "DPRM 2022 EDITION",
+        "Ang #PIDSInfoBits DPRM 2022 Edition ay",
+        "halaw sa paparating na pag-aaral ng PIDS",
+        "na pinamagatang \"Close the Gap:",
+        "Accelerating Post-pandemic Recovery",
+        "through Social Justice\".",
+        "Alam niyo ba na umakyat sa 17.7 na",
+        "porsyento ang unemployment rate",
+        "sa Pilipinas noong April 2020?",
+        "Ito ay base sa Labor Force Survey",
+        "ng Philippine Statistics Authority.",
+        "Sa mga empleyadong nanatiling",
+        "may trabaho noong pandemya,",
+        "may malaking pagkakaiba sa",
+        "kakayahang mag-work from",
+        "home. Base sa pagsusuri ng",
+        "World Bank, sa mga mahihirap",
+        "na empleyado, 21 na porsyento",
+        "lamang ang nakapag-work from",
+        "home, kumpara sa 46 na",
+        "porsyento ng mga empleyado",
+        "na may mataas na sahod.",
+        "100",
+        "percent",
+        "60",
+        "20",
+        "0",
+        "38",
+        "42",
+        "35",
+        "23",
+        "19",
+        "21",
+        "24",
+        "34",
+        "36",
+        "46",
+        "42",
+        "34",
+        "31",
+        "41",
+        "35",
+        "Poorest",
+        "2",
+        "3",
+        "4",
+        "Richest",
+        "able to work in the work place",
+        "able to work from home",
+        "not able able to work as usual",
+        "Source: Analysis of World Bank data from high-frequency",
+        "phone surveys (HFPS)",
+        "Visit https://dprm.pids.gov.ph/ to know more about the DPRM.",
+        "www.pids.gov.ph",
+        "f facebook.com/PIDS.PH",
+        "youtube.com/PIDSPHL",
+        "twitter.com/PIDS_PH",
+        "Philippine",
+        "Institute for",
+        "Development",
+        "Studies"
+      ]
+    }
+  },
+  {
+    "image": "IB_November28.jpg",
+    "source": "https://pidswebs.pids.gov.ph/CDN/featured-image/IB_November28.jpg",
+    "meta": {
+      "title": "INFOBITS",
+      "chart_type": [
+        "Other"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Filipino",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "The chart uses both full numbers (36.9) and fractions (dalawa sa limang - two out of five).",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "porsyento",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "PIDS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PIDS",
+        "INFOBITS",
+        "ALAM MO BA?",
+        "36.9 na porsyento ng mga Pilipinong senior citizen",
+        "ang walang pa ring kahit anong pensyon.",
+        "Ayon sa datos ng Philippine Statistics Authority, bagamat may tatlong uri ng",
+        "old-age pension sa bansa (GSIS, SSS, at SocPen ng DSWD),",
+        "dalawa sa limang senior citizen sa Pilipinas",
+        "ang hindi covered ng kahit alin dito.",
+        "P",
+        "P",
+        "P",
+        "PENSION",
+        "BENEFITS",
+        "Basahin ang ebalwasyon ng SocPen Program ng DSWD sa bansa sa isang pag-aaral ng PIDS na pinamagatang \"SocPen Beyond",
+        "Ten: A Process Evaluation of DSWD's SocPen Program amid the COVID-19 Pandemic\" sa link na ito: https://pids.gov.ph/publication/",
+        "research-paper-series/socpen-beyond-ten-a-process-evaluation-of-dswd-s-socpen-program-amid-the-covid-19-pandemic",
+        "PIDS",
+        "Philippine",
+        "Institute for",
+        "Development",
+        "Studies",
+        "www.pids.gov.ph",
+        "youtube.com/PIDSPHL",
+        "f|facebook.com/PIDS.PH",
+        "twitter.com/PIDS_PH"
+      ]
+    }
+  },
+  {
+    "image": "InfoBits_Aug14.jpg",
+    "source": "https://pidswebs.pids.gov.ph/CDN/featured-image/InfoBits_Aug14.jpg",
+    "meta": {
+      "title": "INFOBITS",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Filipino",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and full numbers are present.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "PIDS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PIDS",
+        "INFOBITS",
+        "ALAM MO BA?",
+        "Noong 2020, 90 porsyento ng mga nakapagtapos ng",
+        "technical and vocational education and training (TVET) ang",
+        "nakakuha ng trabaho sa kanilang mga lokalidad.",
+        "Mas mataas ang bilang na ito kaysa noong 2013,",
+        "kung saan mas mababa sa 80 porsyento ang",
+        "nakahanap ng trabaho sa kanilang mga probinsya.",
+        "Lugar ng pinagtatrabahuan ng mga nagtapos ng TVET, 2020 (%)",
+        "Naaayon ito sa resulta ng isang survey ng",
+        "Jobstreet.com Philippines noong 2016 na",
+        "nagsasabing tatlo sa kada apat na Pilipino ang",
+        "mas gustong magtrabaho sa kanilang mga",
+        "hometown o lokalidad. Ilan sa mga dahilang",
+        "nabanggit ay kanilang pamilya, working",
+        "environment, at work-life balance.",
+        "Sa ibang bansa (0.4%)",
+        "Sa labas ng kanilang probinsya",
+        "ngunit nasa parehong rehiyon (0.9%)",
+        "Sa labas ng kanilang rehiyon (3.2%)",
+        "Sa kanilang probinsya (95.5%)",
+        "Pinagmulan: Technical Education and Skills Development Authority (2021)",
+        "Para sa karagdagang kaalaman, basahin ang buong lathalain:",
+        "Responding to the Changing Needs of the Labor Market: Overview of the Country's TVET",
+        "https://pids.gov.ph/publication/policy-notes/responding-to-the-changing-needs-of-the-labor-market-overview-of-the-country-s-tvet",
+        "PIDS",
+        "Philippine",
+        "Institute for",
+        "Development",
+        "Studies",
+        "www.pids.gov.ph",
+        "youtube.com/PIDSPHL",
+        "f|facebook.com/PIDS.PH",
+        "twitter.com/PIDS_PH"
+      ]
+    }
+  },
+  {
+    "image": "InfoBits_March27.jpg",
+    "source": "https://pidswebs.pids.gov.ph/CDN/featured-image/InfoBits_March27.jpg",
+    "meta": {
+      "title": "Pinakamarami ang bilang ng Overseas Filipino Workers (OFWs) sa Asya.",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Filipino"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and full year numbers are present.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "PIDS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PIDS",
+        "INFOBITS",
+        "ALAM MO BA?",
+        "Pinakamarami ang bilang",
+        "ng Overseas Filipino",
+        "Workers (OFWs) sa Asya.",
+        "Ayon sa Philippine Statistics Authority,",
+        "83.6 na porsyento ng mga OFWs noong",
+        "2020 ay nagtatrabaho sa Asya, mas",
+        "marami pa sa pinagsama-samang",
+        "bilang ng mga OFWs sa ibang",
+        "bahagi ng mundo. Karamihan sa",
+        "kanila ay nasa Silangang Asya",
+        "(e.g., Japan, Hong Kong, at Singapore).",
+        "Distribusyon ng mga OFW ayon sa kontinente, 2020",
+        "Africa (1.1%)",
+        "Australia (3.4%)",
+        "North and South",
+        "America (5.2%)",
+        "Europe (6.7%)",
+        "Asia (83.6%)",
+        "Pinagmulan: Philippine Statistics Authority (2022)",
+        "Alamin ang antas ng kaalaman ukol sa health and social security systems ng mga Filipino migrant workers sa Silangang Asya sa",
+        "isang pag-aaral ng PIDS na pinamagatang \"Scoping Study on Health and Social Security Systems Literacy of Filipino Migrant",
+        "Workers in East Asia\" sa link na ito: https://pids.gov.ph/publication/discussion-papers/scoping-study-on-health-and-social-security-",
+        "systems-literacy-of-filipino-migrant-workers-in-east-asia",
+        "PIUS",
+        "Philippine",
+        "Institute for",
+        "Development",
+        "Studies",
+        "www",
+        "www.pids.gov.ph",
+        "youtube.com/PIDSPHL",
+        "f|facebook.com/PIDS.PH",
+        "twitter.com/PIDS_PH"
+      ]
+    }
+  },
+  {
+    "image": "InfoBits_June19.jpg",
+    "source": "https://pidswebs.pids.gov.ph/CDN/featured-image/InfoBits_June19.jpg",
+    "meta": {
+      "title": "INFOBITS",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Filipino"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "porsyento",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "PIDS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PIDS",
+        "INFOBITS",
+        "ALAM MO BA?",
+        "51 porsyento lang ng mga pampublikong ospital sa Pilipinas",
+        "noong 2021 ang nakasunod sa itinakdang gastusin",
+        "para sa pagkain ng bawat pasyente.",
+        "Ilan sa mga dahilang napag-alaman sa isang pag-aaral ng PIDS ay ang kawalan ng sapat na budget para",
+        "sa nutrition and dietetics service (NDS) at ang mataas na presyo ng mga bilihin sa kanilang lugar.",
+        "Ayon sa administrative order ng Department of Health, ang daily meal allowance budget para sa",
+        "bawat pasyente ay hindi dapat bababa sa PHP 150 upang matugunan ang kanilang dietary requirements.",
+        "Porsyento ng mga pampublikong ospital na nakasunod sa PHP 150 na meal budget allowance para sa bawat pasyente kada araw, 2015-2021",
+        "100",
+        "75",
+        "50",
+        "25",
+        "51",
+        "43",
+        "34",
+        "25",
+        "19",
+        "14",
+        "10",
+        "0",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "Pinagmulan: 2021 Online Facility Survey para sa National Dietetics Service",
+        "Para sa karagdagang kaalaman, basahin ang buong lathalain:",
+        "An Assessment of the Quality of Inpatient Meals and Nutrition and Dietetics Processes in Select Public Hospitals in the Philippines",
+        "https://pids.gov.ph/publication/discussion-papers/an-assessment-of-the-quality-of-inpatient-meals-and-nutrition-and-dietetics-processes-in-select-public-hospitals-in-the-philippines",
+        "PIDS",
+        "Philippine",
+        "Institute for",
+        "Development",
+        "Studies",
+        "www.pids.gov.ph",
+        "youtube.com/PIDSPHL",
+        "facebook.com/PIDS.PH",
+        "twitter.com/PIDS_PH"
+      ]
+    }
+  },
+  {
+    "image": "P200-umento.jpg",
+    "source": "https://eiler.ph/wp-content/uploads/2025/06/P200-umento.jpg",
+    "meta": {
+      "title": "Bahagi ng tubo na mababawas bunga ng PhP 200 umento sa sahod",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Filipino",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "B",
+          "T"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages, full numbers, and abbreviated numbers (B, T) are used.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Pesos",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "eiler memo"
+      },
+      "notes": [],
+      "extracted_text": [
+        "PhP 200",
+        "umento",
+        "sa sahod,",
+        "hindi",
+        "ikalulugi",
+        "ng mga",
+        "negosyo",
+        "SOURCE: Pagtataya ng EILER gamit ang datos mula sa",
+        "Annual Survey of Philippine Business and Industry 2022",
+        "ng Philippine Statistics Authority",
+        "NOTES:",
+        "Micro - Establishments with Total Employment of 1 to 9",
+        "Small - Establishments with Total Employment of 10 to 99",
+        "Medium - Establishments with Total Employment of 100",
+        "to 199",
+        "Large - Establishments with Total Employment of 200 and",
+        "over",
+        "M - Million Pesos",
+        "B - Billion Pesos",
+        "T - Trillion Pesos",
+        "Bahagi ng tubo na",
+        "mababawas bunga ng",
+        "PhP 200 umento sa sahod",
+        "17%",
+        "of Php 302.5B",
+        "15%",
+        "of Php 822.6B",
+        "Micro",
+        "enterprises",
+        "11%",
+        "of Php 285.5B",
+        "Medium",
+        "enterprises",
+        "Small",
+        "enterprises",
+        "13%",
+        "of Php 1.6T",
+        "Large",
+        "enterprises",
+        "eiler memo",
+        "@eilerinc",
+        "@eilerincph",
+        "www.eiler.ph"
+      ]
+    }
+  }
+]

@@ -1,0 +1,979 @@
+[
+  {
+    "image": "2023_Karnataka_Election_Result_2023.svg.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Karnataka_Election_Result_2023.svg/500px-2023_Karnataka_Election_Result_2023.svg.png",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "215",
+        "13",
+        "15",
+        "14",
+        "76",
+        "83",
+        "24",
+        "25",
+        "36",
+        "85",
+        "55",
+        "57",
+        "123",
+        "97",
+        "116",
+        "50H",
+        "147",
+        "108",
+        "115",
+        "110",
+        "99",
+        "137",
+        "117",
+        "109",
+        "102",
+        "100",
+        "112",
+        "118",
+        "154",
+        "136",
+        "120",
+        "119",
+        "123",
+        "128",
+        "139",
+        "134",
+        "125",
+        "135",
+        "201",
+        "2",
+        "104",
+        "129",
+        "195",
+        "180",
+        "179",
+        "130",
+        "062",
+        "190",
+        "199",
+        "197",
+        "131",
+        "191",
+        "182",
+        "153",
+        "137",
+        "1",
+        "155",
+        "200",
+        "198",
+        "152",
+        "189",
+        "188",
+        "187",
+        "251",
+        "210",
+        "190",
+        "156",
+        "157",
+        "158",
+        "160",
+        "216",
+        "186",
+        "212",
+        "209",
+        "154",
+        "162",
+        "219",
+        "219",
+        "161",
+        "220",
+        "214",
+        "222",
+        "221",
+        "167",
+        "169",
+        "163",
+        "213",
+        "223",
+        "224",
+        "175"
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp-Image-2023-12-03-at-10.18.58-AM.jpeg",
+    "source": "https://s3.ap-south-2.amazonaws.com/cdn.vvimgs.com/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-03-at-10.18.58-AM.jpeg",
+    "meta": {
+      "title": "10:15am",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Kannada",
+          "secondary_languages": [
+            "Kannada"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": true,
+        "time_format": "12H"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "symbol",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "ವಿಜಯವಾಣಿ"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ನಂ1",
+        "ವಿಜಯವಾಣಿ",
+        "ಹಿಂದೆ/ಮುಂದೆ",
+        "90/90",
+        "ಕನ್ನಡ ದಿನಪತ್ರಿಕೆ",
+        "10:15am",
+        "ಛತ್ತೀಸ್‌ಗಢ",
+        "ಒಟ್ಟು ಸ್ಥಾನ",
+        "ಬಹುಮತ",
+        "90",
+        "46",
+        "ಬಿಜೆಪಿ",
+        "43",
+        "ಕಾಂಗ್ರೆಸ್",
+        "46",
+        "ಇತರೆ",
+        "01"
+      ]
+    }
+  },
+  {
+    "image": "prajavani_2023-05_1f4f9c36-7324-42af-8a70-d5cf47a6ac8c_Web_capture_14_5_2023_10346_.avif",
+    "source": "https://media.assettype.com/prajavani%2F2023-05%2F1f4f9c36-7324-42af-8a70-d5cf47a6ac8c%2FWeb_capture_14_5_2023_10346_.jpeg?w=1300&auto=format%2Ccompress&fit=max&q=70",
+    "meta": {
+      "title": "ಯಾವ ಪಕ್ಷಕ್ಕೆ ಎಷ್ಟು ಮತ?",
+      "chart_type": [
+        "WaffleChart",
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Kannada",
+          "primary_script": "Kannada",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Indian3-2-2",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as full values and also as counts in parentheses.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ಮತ",
+            "count"
+          ],
+          [
+            "ಸ್ಥಾನಗಳು",
+            "count"
+          ],
+          [
+            "ಕ್ಷೇತ್ರ",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ಯಾವ ಪಕ್ಷಕ್ಕೆ ಎಷ್ಟು ಮತ?",
+        "ಪಡೆದ ಒಟ್ಟು ಮತ",
+        "ಕಾಂಗ್ರೆಸ್",
+        "1,67,89,272",
+        "ಬಿಜೆಪಿ",
+        "1,40,96,529",
+        "(ಆವರಣದಲ್ಲಿರುವುದು 2018 ವಿವರ)",
+        "ಜೆಡಿಎಸ್",
+        "52,05,489",
+        "ಗೆದ್ದ ಸ್ಥಾನಗಳು",
+        "135",
+        "(80)",
+        "66",
+        "(104)",
+        "19",
+        "(37)",
+        "ಒಟ್ಟು ಕ್ಷೇತ್ರ",
+        "224",
+        "ಇತರೆ",
+        "4",
+        "(3)",
+        "ನೋಟಾ",
+        "2,69,755",
+        "ಇತರೆ: ಕೆಆರ್‌ಪಿಪಿ, ಸರ್ವೋದಯ ಕರ್ನಾಟಕ, ಪಕ್ಷೇತರ"
+      ]
+    }
+  },
+  {
+    "image": "prajavani_2023-05_daf0140c-1df2-442c-b590-b41df34fcea7_Web_capture_14_5_2023_102933_.avif",
+    "source": "https://media.assettype.com/prajavani%2F2023-05%2Fdaf0140c-1df2-442c-b590-b41df34fcea7%2FWeb_capture_14_5_2023_102933_.jpeg?w=1300&auto=format%2Ccompress&fit=max&q=70",
+    "meta": {
+      "title": "ಕಿತ್ತೂರು ಕರ್ನಾಟಕ",
+      "chart_type": [
+        "Table",
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Kannada",
+          "primary_script": "Kannada",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 3,
+          "value_progression": "decreasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ಕಿತ್ತೂರು ಕರ್ನಾಟಕ",
+        "7",
+        "56",
+        "ಜಿಲ್ಲೆಗಳು",
+        "ಒಟ್ಟು ಕ್ಷೇತ್ರಗಳು",
+        "ಕಾಂಗ್ರೆಸ್",
+        "37",
+        "ಜಿಲ್ಲೆ",
+        "ಒಟ್ಟು",
+        "ಕಾಂಗ್ರೆಸ್",
+        "ಬಿಜೆಪಿ",
+        "ಜೆಡಿಎಸ್",
+        "ಬಿಜೆಪಿ",
+        "ಬೆಳಗಾವಿ",
+        "18",
+        "11",
+        "7",
+        "0",
+        "18",
+        "ವಿಜಯಪುರ",
+        "8",
+        "6",
+        "1",
+        "1",
+        "ಧಾರವಾಡ",
+        "7",
+        "4",
+        "3",
+        "0",
+        "ಹಾವೇರಿ",
+        "6",
+        "5",
+        "1",
+        "0",
+        "ಗದಗ",
+        "4",
+        "2",
+        "2",
+        "0",
+        "ಉತ್ತರ ಕನ್ನಡ",
+        "6",
+        "4",
+        "2",
+        "0",
+        "ಜೆಡಿಎಸ್",
+        "ಬಾಗಲಕೋಟೆ",
+        "7",
+        "5",
+        "2",
+        "0",
+        "1"
+      ]
+    }
+  },
+  {
+    "image": "prajavani_2023-05_8363b61d-fb36-472d-9331-2236f932bd4f_Web_capture_14_5_2023_102830_.avif",
+    "source": "https://media.assettype.com/prajavani%2F2023-05%2F8363b61d-fb36-472d-9331-2236f932bd4f%2FWeb_capture_14_5_2023_102830_.jpeg?w=1300&auto=format%2Ccompress&fit=max&q=70",
+    "meta": {
+      "title": "ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Kannada",
+          "primary_script": "Kannada",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ",
+        "ಜಿಲ್ಲೆ",
+        "ಒಟ್ಟು",
+        "ಬಿಜೆಪಿ",
+        "ಕಾಂಗ್ರೆಸ್",
+        "ಜೆಡಿಎಸ್",
+        "ಇತರೆ",
+        "ಬಳ್ಳಾರಿ",
+        "5",
+        "0",
+        "5",
+        "0",
+        "0",
+        "ಯಾದಗಿರಿ",
+        "4",
+        "0",
+        "3",
+        "1",
+        "0",
+        "ಕೊಪ್ಪಳ",
+        "5",
+        "1",
+        "3",
+        "0",
+        "1",
+        "ಕಲಬುರಗಿ",
+        "9",
+        "2",
+        "7",
+        "0",
+        "0",
+        "ರಾಯಚೂರು",
+        "7",
+        "2",
+        "4",
+        "1",
+        "0",
+        "ಬೀದರ್",
+        "6",
+        "4",
+        "2",
+        "0",
+        "0",
+        "ಒಟ್ಟು",
+        "36",
+        "9",
+        "24",
+        "2",
+        "1"
+      ]
+    }
+  },
+  {
+    "image": "21635789__winningcandidates-2.png",
+    "source": "https://imgs.etvbharat.com/etvbharat/prod-images/04-06-2024/21635789__winningcandidates-2.png",
+    "meta": {
+      "title": "ಲೋಕಸಭಾ ಚುನಾವಣೆ 2024 ಕರ್ನಾಟಕ",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Kannada",
+          "primary_script": "Kannada",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "ETV ಭಾರತ"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ಲೋಕಸಭಾ ಚುನಾವಣೆ 2024",
+        "ಕರ್ನಾಟಕ",
+        "ಕ್ಷೇತ್ರ",
+        "ಗೆಲುವು",
+        "ಪಕ್ಷ",
+        "ಹಾಸನ",
+        "ಶ್ರೇಯಸ್‌ ಪಟೇಲ್",
+        "ಕಾಂಗ್ರೆಸ್",
+        "ಉಡುಪಿ ಚಿಕ್ಕಮಗಳೂರು",
+        "ಕೋಟಾ ಶ್ರೀನಿವಾಸ್‌ ಪೂಜಾರಿ",
+        "ಬಿಜೆಪಿ",
+        "ದಕ್ಷಿಣ ಕನ್ನಡ",
+        "ಕ್ಯಾ.ಬ್ರಜೇಸ್ ಚೌಟ್",
+        "ಬಿಜೆಪಿ",
+        "ಉತ್ತರ ಕನ್ನಡ",
+        "ವಿಶ್ವೇಶ್ವರ ಹೆಗಡೆ ಕಾಗೇರಿ",
+        "ಬಿಜೆಪಿ",
+        "ಶಿವಮೊಗ್ಗ",
+        "ಬಿ.ವೈ.ರಾಘವೇಂದ್ರ",
+        "ಬಿಜೆಪಿ",
+        "ಚಿತ್ರದುರ್ಗ",
+        "ಗೋವಿಂದ್ ಕಾರಜೋಳ",
+        "ಬಿಜೆಪಿ",
+        "ದಾವಣಗೆರೆ",
+        "ಪ್ರಭಾ ಮಲ್ಲಿಕಾರ್ಜುನ್",
+        "ಕಾಂಗ್ರೆಸ್",
+        "ಹಾವೇರಿ",
+        "ಬಸವರಾಜ್‌ ಬೊಮ್ಮಾಯಿ",
+        "ಬಿಜೆಪಿ",
+        "ಧಾರವಾಡ",
+        "ಪ್ರಹ್ಲಾದ್ ಜೋಶಿ",
+        "ಬಿಜೆಪಿ",
+        "ಬೆಳಗಾವಿ",
+        "ಜಗದೀಶ್ ಶೆಟ್ಟ‌ರ್",
+        "ಬೆಜೆಪಿ",
+        "ಭಾರತ"
+      ]
+    }
+  },
+  {
+    "image": "prajavani_2023-05_80db97aa-7dd8-4313-b500-d86271059057_Web_capture_14_5_2023_10282_.avif",
+    "source": "https://media.assettype.com/prajavani%2F2023-05%2F80db97aa-7dd8-4313-b500-d86271059057%2FWeb_capture_14_5_2023_10282_.jpeg?w=1300&auto=format%2Ccompress&fit=max&q=70",
+    "meta": {
+      "title": "ಮಧ್ಯಕರ್ನಾಟಕ, ಹಾಸನ, ರಾಮನಗರ",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Kannada",
+          "primary_script": "Kannada",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ಮಧ್ಯಕರ್ನಾಟಕ, ಹಾಸನ,ರಾಮನಗರ",
+        "ಜಿಲ್ಲೆ",
+        "ಒಟ್ಟು",
+        "ಬಿಜೆಪಿ",
+        "ಕಾಂಗ್ರೆಸ್",
+        "ಜೆಡಿಎಸ್",
+        "ಇತರೆ",
+        "ಚಿತ್ರದುರ್ಗ",
+        "6",
+        "1",
+        "5",
+        "0",
+        "0",
+        "ದಾವಣಗೆರೆ",
+        "7",
+        "1",
+        "6",
+        "0",
+        "0",
+        "ವಿಜಯನಗರ",
+        "5",
+        "1",
+        "2",
+        "1",
+        "1",
+        "ಶಿವಮೊಗ್ಗ",
+        "7",
+        "3",
+        "3",
+        "1",
+        "0",
+        "ತುಮಕೂರು",
+        "11",
+        "2",
+        "7",
+        "2",
+        "0",
+        "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+        "5",
+        "0",
+        "3",
+        "1",
+        "1",
+        "ಕೋಲಾರ",
+        "6",
+        "0",
+        "4",
+        "2",
+        "0",
+        "ರಾಮನಗರ",
+        "4",
+        "0",
+        "3",
+        "1",
+        "0",
+        "ಹಾಸನ",
+        "7",
+        "2",
+        "1",
+        "4",
+        "0"
+      ]
+    }
+  }
+]

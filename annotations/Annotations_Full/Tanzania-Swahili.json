@@ -1,0 +1,4265 @@
+[
+  {
+    "image": "_126170950_4b833b7c-6417-4be0-980b-8d3b5727edb8.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/1713/production/_126170950_4b833b7c-6417-4be0-980b-8d3b5727edb8.jpg.webp",
+    "meta": {
+      "title": "Jinsi gharama ya chakula imebadilika nchini Kenya katika mwaka uliopita",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "kg",
+            "weight"
+          ],
+          [
+            "Kilo",
+            "volume"
+          ],
+          [
+            "g",
+            "currency"
+          ],
+          [
+            "Lita",
+            "currency"
+          ],
+          [
+            "Ksh",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#E60000",
+            "meaning": "increase"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Jinsi gharama ya chakula imebadilika nchini",
+        "Kenya katika mwaka uliopita",
+        "Bei ya wastani mwezi Juni (Ksh)",
+        "Mabadiliko",
+        "2021",
+        "2022",
+        "Ksh",
+        "%",
+        "Unga wa mahindi* (2kg)",
+        "119",
+        "148",
+        "29",
+        "• 24%",
+        "Sukuma wiki (Kilo 1)",
+        "54",
+        "60",
+        "6",
+        "• 12%",
+        "Mkate (400g)",
+        "54",
+        "61",
+        "7",
+        "• 12%",
+        "Nyama ya ng'ombe yenye mifupa*",
+        "470",
+        "513",
+        "43",
+        "• 9%",
+        "(kilo 1)",
+        "Viazi(Viazi)",
+        "70",
+        "85",
+        "15",
+        "• 21%",
+        "mafuta ya kupika(Lita 10)",
+        "256",
+        "388",
+        "132",
+        "• 52%",
+        "Maziwa (lita 1)",
+        "49",
+        "58",
+        "9",
+        "• 19%",
+        "Mafuta ya taa (lita 1)",
+        "99",
+        "129",
+        "30",
+        "• 30%",
+        "Kikapu cha vitu 8",
+        "1,171",
+        "1,442",
+        "271",
+        "• 23%",
+        "Kikapu kina vyakula vya kimsingi nchini Kenya",
+        "*Bei ya mahindi, sukuma wiki na nyama ya ng'ombe ni kuanzia",
+        "Mei 2021 na Mei 2022",
+        "Chanzo: Shirika la Takwimu Kenya",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126170952_c49c5192-20c0-41fb-b98a-ab301967e11f.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/6533/production/_126170952_c49c5192-20c0-41fb-b98a-ab301967e11f.jpg.webp",
+    "meta": {
+      "title": "Ukubwa wa uchumi wa Kenya",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "bn"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as full values on the x-axis, but abbreviated with 'bn' next to the bars.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "bn",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Ukubwa wa uchumi wa Kenya",
+        "Pato la Taifa($bn)",
+        "Ethiopia",
+        "$111bn",
+        "Kenya",
+        "$110bn",
+        "Tanzania",
+        "$68bn",
+        "DR Congo",
+        "$54 bn",
+        "Uganda",
+        "$40 bn",
+        "Rwanda",
+        "$11 bn",
+        "★ Somalia",
+        "$7bn",
+        "Burundi",
+        "$3bn",
+        "Djibouti",
+        "$3bn",
+        "0",
+        "20",
+        "40",
+        "60",
+        "80",
+        "100",
+        "120",
+        "Chanzo: Benki ya Dunia, 2021",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126170954_cdc5814a-749d-4266-8571-781c02d7ec51.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/B353/production/_126170954_cdc5814a-749d-4266-8571-781c02d7ec51.jpg.webp",
+    "meta": {
+      "title": "Deni la umma la Kenya",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "bn"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": "$",
+        "currency_symbol_placement": [
+          "prefix"
+        ],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Full numbers on y-axis, abbreviated numbers with 'bn' in annotations.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "bilioni",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Deni la umma la Kenya",
+        "$ bilioni",
+        "80",
+        "70",
+        "60",
+        "50",
+        "40",
+        "Muhula wa kwanza",
+        "wa Rais Uhuru",
+        "Kenyatta waanza",
+        "30",
+        "20",
+        "10",
+        "$6bn",
+        "0",
+        "1991",
+        "$72.6 bn",
+        "2013",
+        "2021",
+        "Mwaka",
+        "Chanzo: Benki Kuu ya Kenya",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126170956_642dbcd7-fc19-47eb-b5e6-9a5155f858a8.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/10173/production/_126170956_642dbcd7-fc19-47eb-b5e6-9a5155f858a8.jpg.webp",
+    "meta": {
+      "title": "Idadi ya watu wa umri mdogo Kenya",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "m",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "decreasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Idadi ya watu wa umri mdogo Kenya",
+        "22m",
+        "15m",
+        "7m",
+        "3m",
+        "1m",
+        "0.2m",
+        "0-17",
+        "18-35",
+        "36-52",
+        "53-69",
+        "70-86",
+        "87+",
+        "Kikundi cha umri",
+        "Chanzo: Sensa ya watu na nyumba 2019",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126170958_82043a1c-fd66-45fd-b83c-465ea43a8b5c.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/14F93/production/_126170958_82043a1c-fd66-45fd-b83c-465ea43a8b5c.jpg.webp",
+    "meta": {
+      "title": "Elimu nchini Kenya",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Elimu nchini Kenya",
+        "(%)",
+        "100",
+        "90",
+        "80",
+        "70",
+        "60",
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "0",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018",
+        "2020",
+        "Chanzo: Utafiti wa Uchumi wa Kenya 2006-2022",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126171645_a4cfd8a9-44a1-475d-ad6d-877cc64033cb.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/D559/production/_126171645_a4cfd8a9-44a1-475d-ad6d-877cc64033cb.jpg.webp",
+    "meta": {
+      "title": "Wastani wa umri wa kuishi katika kaunti nchini Kenya",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Wastani wa umri wa kuishi katika kaunti",
+        "nchini Kenya",
+        "55 - 59",
+        "60 - 64",
+        "65 - 69",
+        "70+",
+        "Chanzo: Shirika la Takwimu Kenya",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126171647_60fe1f96-2e36-4881-9d6f-1b46b2dde34e.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/12379/production/_126171647_60fe1f96-2e36-4881-9d6f-1b46b2dde34e.jpg.webp",
+    "meta": {
+      "title": "Ufikiaji wa mtandao na umeme Kenya",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 7,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Ufikiaji wa mtandao na umeme Kenya",
+        "Asilimia ya watu wanaopata umeme",
+        "Asilimia ya watu wanaotumia mtandao",
+        "80",
+        "71",
+        "70",
+        "60",
+        "47",
+        "50",
+        "42",
+        "40",
+        "40",
+        "30",
+        "27",
+        "30",
+        "20",
+        "22",
+        "19",
+        "20-",
+        "10",
+        "0",
+        "Kenya",
+        "14",
+        "12",
+        "DR Congo",
+        "Burundi",
+        "9",
+        "7",
+        "7",
+        "Sudan Kusini",
+        "Rwanda",
+        "Uganda",
+        "Tanzania",
+        "Chanzo: Benki ya Dunia",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126171651_7e6fe39d-198d-4ee8-bf95-45042bf58030.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/3D01/production/_126171651_7e6fe39d-198d-4ee8-bf95-45042bf58030.jpg.webp",
+    "meta": {
+      "title": "Wapiga kura waliosajiliwa nchini Kenya katika kila kaunti",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as full values and abbreviated with 'm'.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Wapiga kura waliosajiliwa nchini",
+        "Kenya katika kila kaunti",
+        "<0.6m",
+        ">0.6-1m",
+        ">1-1.5m",
+        ">1.5-1.9m",
+        ">1.9m",
+        "Kakamega",
+        "844551",
+        "Nakuru",
+        "1054856",
+        "Kiambu",
+        "1275008",
+        "Nairobi",
+        "2415310",
+        "Chanzo: Tume Huru ya uchaguzi na Mipaka Kenya",
+        "Meru",
+        "772139",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126171649_fd690654-bdb6-417b-80cb-3bee10741409.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/17199/production/_126171649_fd690654-bdb6-417b-80cb-3bee10741409.jpg.webp",
+    "meta": {
+      "title": "Karibu robo ya Wakenya wanaoishi ng'ambo wako Marekani",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 12,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Karibu robo ya Wakenya wanaoishi",
+        "ng'ambo wako Marekani",
+        "Marekani",
+        "23%",
+        "Uingereza",
+        "7%",
+        "Ufalme wa",
+        "6%",
+        "Milki za Kiarabu",
+        "Canada",
+        "4%",
+        "Australia",
+        "3%",
+        "Africa Kusini",
+        "3%",
+        "Ubelgiji",
+        "3%",
+        "Ujerumani",
+        "3%",
+        "Qatar",
+        "2%",
+        "Italia",
+        "2%",
+        "Uturuki",
+        "2%",
+        "Uswizi",
+        "2%",
+        "0",
+        "10",
+        "20",
+        "30",
+        "Chanzo: Benki kuu ya Kenya",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "160118095925_world_wealth_disparity_624_swahili.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/amz/worldservice/live/assets/images/2016/01/18/160118095925_world_wealth_disparity_624_swahili.png.webp",
+    "meta": {
+      "title": "Watu 62 tajiri zaidi duniani wanamiliki mali zaidi kushinda watu",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and abbreviated currency values are present.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "$bn",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 16,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Watu 62 tajiri zaidi duniani wanamiliki mali zaidi kushinda watu",
+        "50% maskini zaidi",
+        "Jumla ya utajiri $bn",
+        "3,000",
+        "2,500",
+        "2,000",
+        "Utajiri wa 50% maskini zaidi",
+        "1,500",
+        "1,000",
+        "500",
+        "0",
+        "Utajiri wa watu 62 tajiri zaidi",
+        "2000",
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "Chanzo: Oxfam/Forbes",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_128694547_nigeria_food_inflation_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/12335/production/_128694547_nigeria_food_inflation_640-nc.png.webp",
+    "meta": {
+      "title": "mabadiliko",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are present.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "g",
+            "weight"
+          ],
+          [
+            "pc",
+            "count"
+          ],
+          [
+            "Kilo",
+            "volume"
+          ],
+          [
+            "Lita",
+            "volume"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#66BB6A",
+            "meaning": "increase"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "2021",
+        "2022",
+        "mabadiliko",
+        "Maziwa ya",
+        "mkebe",
+        "170g",
+        "233",
+        "327",
+        "41%",
+        "Mayai",
+        "1pc",
+        "57",
+        "81",
+        "41%",
+        "Mkate wa",
+        "boflo",
+        "500g",
+        "366",
+        "492",
+        "34%",
+        "Nyanya",
+        "Kilo",
+        "moja",
+        "350",
+        "455",
+        "30%",
+        "Mafuta ya",
+        "Mawese",
+        "Lita",
+        "moja",
+        "775",
+        "1,007",
+        "30%",
+        "Mafuta ya",
+        "mboga",
+        "Lita",
+        "moja",
+        "876",
+        "1,143",
+        "30%",
+        "Nyama isio",
+        "na mfupa",
+        "Kilo",
+        "moja",
+        "1,812",
+        "2,337",
+        "29%",
+        "Viazi",
+        "Kilo",
+        "moja",
+        "326",
+        "421",
+        "29%",
+        "Vitunguu",
+        "Kilo",
+        "moja",
+        "337",
+        "426",
+        "26%",
+        "Mchele",
+        "Kilo",
+        "moja",
+        "470",
+        "576",
+        "23%",
+        "Maharagwe",
+        "Kilo",
+        "moja",
+        "490",
+        "579",
+        "18%",
+        "Unga wa"
+      ]
+    }
+  },
+  {
+    "image": "_128694549_nigeria_public_debt_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/17155/production/_128694549_nigeria_public_debt_640-nc.png.webp",
+    "meta": {
+      "title": "Deni la taifa la Nigeria",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Full numbers on y-axis, abbreviated numbers with 'bn' on data points.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "billion",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Deni la taifa la Nigeria",
+        "$ billion",
+        "120",
+        "100",
+        "80",
+        "60",
+        "$49bn",
+        "40",
+        "20",
+        "0",
+        "2012",
+        "Mei 29, 2015",
+        "Muhula wa kwanza wa rais",
+        "Muhammadu Buhari",
+        "kinaanza",
+        "$102bn",
+        "2014",
+        "2016",
+        "2018",
+        "2020",
+        "2022*",
+        "*Mpaka Septemba 2022"
+      ]
+    }
+  },
+  {
+    "image": "_128694551_nigeria_oil_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/3CBD/production/_128694551_nigeria_oil_640-nc.png.webp",
+    "meta": {
+      "title": "Mafuta yanayozalishwa Nigeria",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Mapipa",
+            "count"
+          ],
+          [
+            "siku",
+            "time"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Mafuta yanayozalishwa Nigeria",
+        "Mapipa milioni kwa siku",
+        "30",
+        "29",
+        "26",
+        "26",
+        "28",
+        "25",
+        "26",
+        "23",
+        "23",
+        "20",
+        "21",
+        "15",
+        "10",
+        "5",
+        "0",
+        "24",
+        "21",
+        "16",
+        "12*",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "*Disemba haijajumuishwa"
+      ]
+    }
+  },
+  {
+    "image": "_128694552_nigeria_population_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/63CD/production/_128694552_nigeria_population_640-nc.png.webp",
+    "meta": {
+      "title": "Vijana wa Nigeria",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Mamilioni",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "other",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": null,
+        "annotation_present": false,
+        "gridlines": null,
+        "label_overlap": null,
+        "facet_or_paneling": null
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Vijana wa Nigeria",
+        "Mamilioni",
+        "120",
+        "100",
+        "107",
+        "80",
+        "60",
+        "59",
+        "40",
+        "32",
+        "20",
+        "13",
+        "3",
+        "0",
+        "0-17",
+        "18-35",
+        "36-53",
+        "54-71",
+        "72-89",
+        "0.3",
+        "90+",
+        "Kundi rika",
+        "Chanzo: UN Population Division 2022",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_128694554_nigeria_unemploment_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/B1ED/production/_128694554_nigeria_unemploment_640-nc.png.webp",
+    "meta": {
+      "title": "Kiwango cha ukosefu wa ajira Nigeria",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kiwango cha ukosefu wa ajira Nigeria",
+        "(%)",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "5",
+        "6",
+        "10",
+        "11",
+        "8",
+        "9",
+        "13",
+        "18",
+        "23",
+        "33",
+        "33",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018",
+        "2020",
+        "Chapzey Shirika la takwimu la taifa Nigeria 2000-2021",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_128694576_nigeria_online_access_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/107DD/production/_128694576_nigeria_online_access_640-nc.png.webp",
+    "meta": {
+      "title": "Kuingia mtandaoni",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 15,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kuingia mtandaoni",
+        "mgao wa idadi ya watu wanaotumia intaneti",
+        "0%",
+        "50%",
+        "100%",
+        "Cape Verde",
+        "65%",
+        "Gabon",
+        "62%",
+        "Ghana",
+        "58%",
+        "Senegal",
+        "43%",
+        "Gambia",
+        "37%",
+        "Ivory Coast",
+        "36%",
+        "Nigeria",
+        "36%",
+        "Mali",
+        "27%",
+        "Benin",
+        "26%",
+        "Guinea",
+        "26%",
+        "Liberia",
+        "26%",
+        "Guinea-Bissau",
+        "23%",
+        "Burkina Faso",
+        "22%",
+        "Sierra Leone",
+        "18%"
+      ]
+    }
+  },
+  {
+    "image": "816.png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/408d2e1c-8366-429c-ac5f-19c0df7134af/image/816",
+    "meta": {
+      "title": "Kiwango cha ukosefu wa usawa Afrika Kusini kiko juu",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Gini",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 14,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kiwango cha ukosefu wa usawa Afrika Kusini kiko juu",
+        "Kiwango cha Gini",
+        "65",
+        "60",
+        "55",
+        "50",
+        "45",
+        "40",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "Afrika Kusini",
+        "Namibia",
+        "Msumbiji",
+        "Brazil",
+        "Marekani",
+        "Urusi",
+        "China",
+        "Uingereza",
+        "Norway",
+        "Takwimu za 2014 bila Namibia (2015) na US (2013)",
+        "Chanzo: takwimu za Benki ya Dunia",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "816 (1).png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/f7baead2-4379-4022-b275-31ee7c769b00/image/816",
+    "meta": {
+      "title": "Kiwango cha ukosefu wa usawa hakijabadilika sana",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Gini",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 14,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kiwango cha ukosefu wa usawa hakijabadilika sana",
+        "Kiwango cha Gini",
+        "65",
+        "60",
+        "55",
+        "50",
+        "45",
+        "40",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "1,993",
+        "1,996",
+        "2,000",
+        "2,005",
+        "2,008",
+        "2,010",
+        "2,014",
+        "Chanzo: Takwimu za Benki ya Dunia",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "816 (2).png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/7fc29215-f3f2-4ac0-9320-84808a9bc82a/image/816",
+    "meta": {
+      "title": "Kiwango cha ukosefu wa ajira kimeanza kupanda",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kiwango cha ukosefu wa ajira kimeanza kupanda",
+        "Ukuaji wa mchango wa GDP kwa kil...",
+        "Ukosefu wa ajira",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "-5",
+        "2,007",
+        "2,008",
+        "2,009",
+        "2,010",
+        "2,011",
+        "2,012",
+        "2,013",
+        "2,014",
+        "2,015",
+        "2,016",
+        "2,017",
+        "2,018",
+        "Chanzo: Benki ya Dunia",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "816 (3).png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/2039a5e2-cd29-4a13-94ff-f42e77a458b3/image/816",
+    "meta": {
+      "title": "Umasiki na asili Afrika Kusini",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Umasiki na asili Afrika Kusini",
+        "Asilimia ya wanaoishi katika umaskini",
+        "Weusi",
+        "Asili mchanganyiko",
+        "Kutoka Asia",
+        "Wazungu",
+        "55",
+        "50",
+        "45",
+        "40",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "2,006",
+        "2,009",
+        "2,011",
+        "2,015",
+        "Chanzo: Idara ta takwimu Afrika Kusini",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_102035402_2e520785-f79e-4862-b30e-8e0e8c9866b2.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/4FE5/production/_102035402_2e520785-f79e-4862-b30e-8e0e8c9866b2.jpg.webp",
+    "meta": {
+      "title": "Kulinganisha bajeti ya Kenya na Tanzania, Uganda na Rwanda",
+      "chart_type": [
+        "TextTable"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": "$",
+        "currency_symbol_placement": [
+          "prefix"
+        ],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Full numbers and abbreviated numbers (bn) are used.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "$",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "AFP/Getty Images"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kulinganisha bajeti ya Kenya",
+        "na Tanzania, Uganda na Rwanda",
+        "2018/19",
+        "$30bn",
+        "bajeti ya Kenya",
+        "$25.6bn jumla ya bajeti za",
+        "Tanzania, Uganda na Rwanda",
+        "$14.3bn bajeti ya Tanzania",
+        "$8.5bn bajeti ya Uganda",
+        "$2.8bn bajeti ya Rwanda",
+        "HARAMBEE",
+        "AFP/Getty Images"
+      ]
+    }
+  },
+  {
+    "image": "b6300b50-95e7-11ee-b9a7-c91b9dfa91e5.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/82fa/live/b6300b50-95e7-11ee-b9a7-c91b9dfa91e5.jpg.webp",
+    "meta": {
+      "title": "South Korea has the highest suicide",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "persons",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 12,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "South Korea has the highest suicide",
+        "rate among OECD countries",
+        "Suicide deaths per 100,000 persons",
+        "OECD countries",
+        "average: 11.1",
+        "South Korea",
+        "23.6",
+        "Lithuania",
+        "20.3",
+        "Slovenia",
+        "15.7",
+        "Estonia",
+        "15.2",
+        "Belgium",
+        "15.2",
+        "Latvia",
+        "14.9",
+        "Hungary",
+        "14.8",
+        "Japan",
+        "14.6",
+        "Finland",
+        "14.4",
+        "United States",
+        "14.1",
+        "Iceland",
+        "12.7",
+        "France",
+        "12.7",
+        "0",
+        "10",
+        "20",
+        "30",
+        "Top 12 shown among 38 member countries. Source: Statistics Korea",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_102035403_d4083dbc-e658-4974-a51d-8aa99f71ddfd.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/76F5/production/_102035403_d4083dbc-e658-4974-a51d-8aa99f71ddfd.jpg.webp",
+    "meta": {
+      "title": "Kulinganisha bajeti za Kenya, Rwanda, Tanzania na Uganda",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "mabilioni ya dola za Marekani",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 4,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Kulinganisha bajeti za Kenya, Rwanda, Tanzania na Uganda",
+        "Bajeti kwa mabilioni ya dola za Marekani",
+        "2018/2019",
+        "2018/2017",
+        "Ongezeko (%)",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "Kenya",
+        "Rwanda",
+        "Tanzania",
+        "Uganda",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "9b91bcd1-544f-4972-94e2-535923b981e5.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/793/cpsprodpb/vivo/live/images/2025/10/29/9b91bcd1-544f-4972-94e2-535923b981e5.jpg.webp",
+    "meta": {
+      "title": "Network Connectivity - Tanzania: 2025-10-20 to 2025-10-29 UTC",
+      "chart_type": [
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MDY",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "NETBLOCKS.ORG"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Network Connectivity - Tanzania: 2025-10-20 to 2025-10-29 UTC",
+        "Connectivity (normalized)",
+        "100%",
+        "80%",
+        "60%",
+        "40%",
+        "20%",
+        "NETBLOCKS.ORG",
+        "MAPPING INTERNET FREEDOM",
+        "0%",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/24",
+        "10/25",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "2025",
+        "Tanzania",
+        "min",
+        "current",
+        "8%",
+        "8%"
+      ]
+    }
+  },
+  {
+    "image": "e32dd62e-785d-4e18-a8f5-900029804027.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/vivo/live/images/2025/10/29/e32dd62e-785d-4e18-a8f5-900029804027.jpg.webp",
+    "meta": {
+      "title": "Takwimu za uchaguzi wa Tanzania",
+      "chart_type": [
+        "BarChart",
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as full values, percentages, and with a word abbreviation 'milioni'.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Takwimu za uchaguzi wa Tanzania",
+        "Wapiga kura",
+        "milioni 37.7",
+        "Wanawake",
+        "49.7%",
+        "Wanaume",
+        "50.3%",
+        "Karibu nusu ya wapiga kura",
+        "wana umri wa chini ya miaka 36",
+        "18-35",
+        "48%",
+        "Juu ya",
+        "miaka 36",
+        "52%",
+        "Wapiga kura",
+        "waliojitokeza kwa",
+        "uchaguzi wa rais",
+        "77%",
+        "84%",
+        "72%",
+        "43%",
+        "65%",
+        "51%",
+        "1995",
+        "2000",
+        "2005",
+        "2010",
+        "2015",
+        "2020",
+        "Nafasi zinazoshindaniwa",
+        "17",
+        "Wagombea",
+        "wanaowania",
+        "nafasi ya urais",
+        "Watatu ni",
+        "wanawake",
+        "272",
+        "Idadi ya viti vinavyowaniwa",
+        "Tanzania bara - 222",
+        "Zanzibar - 50",
+        "3,960",
+        "Idadi ya nafasi za wadi",
+        "zinazowaniwa",
+        "Chanzo: INEC Tanzania & Taasisi ya Kimataifa ya Mfumo wa Uchaguzi",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "140825082525_ebola_yaua_watu_wawili_drc__512x288_bbc_nocredit.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/512/amz/worldservice/live/assets/images/2014/08/25/140825082525_ebola_yaua_watu_wawili_drc__512x288_bbc_nocredit.jpg.webp",
+    "meta": {
+      "title": "GUINEA",
+      "chart_type": [
+        "SymbolMap",
+        "Map"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "GUINEA",
+        "NIGERIA",
+        "SUDAN",
+        "KUSINI",
+        "SIERRA",
+        "LEONE",
+        "LIBERIA",
+        "UGANDA",
+        "GUINEA",
+        "AFRIKA",
+        "MAGHARIBI",
+        "GABON",
+        "DR CONGO",
+        "CONGO",
+        "SIERRA",
+        "LEONE",
+        "LIBERIA",
+        "Rangi iliyokolea inaonesha",
+        "milipuko zaidi ya moja",
+        "2014",
+        "1976-2013",
+        "Vifo:",
+        "200",
+        "100",
+        "50",
+        "Idadi chini",
+        "ya 10",
+        "Vifo vilivyothibitishwa",
+        "kufikia tarehe 18 Agosti",
+        "AFRIKA",
+        "KUSINI",
+        "Chanzo WHO HPA CDC"
+      ]
+    }
+  },
+  {
+    "image": "140825082416_serikali_ya_drc__imesema_watu_wawili_wamekufa_kutokana_na_ugonjwa_wa_ebola_512x288_bbc_nocredit.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/512/amz/worldservice/live/assets/images/2014/08/25/140825082416_serikali_ya_drc__imesema_watu_wawili_wamekufa_kutokana_na_ugonjwa_wa_ebola_512x288_bbc_nocredit.jpg.webp",
+    "meta": {
+      "title": "Mlipuko wa Ebola",
+      "chart_type": [
+        "StackedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 20,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "WHO"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Mlipuko wa Ebola",
+        "Idadi ya walioambukizwa kwa mwaka",
+        "Vifo",
+        "Hakuna aliyeambukizwa",
+        "2,500",
+        "2,000",
+        "1,500",
+        "1,000",
+        "Walioambukizwa: 2473",
+        "500",
+        "Walioaga: 1350",
+        "0",
+        "1976",
+        "78",
+        "80",
+        "82",
+        "84",
+        "86",
+        "88",
+        "90",
+        "92",
+        "94",
+        "96",
+        "98",
+        "00",
+        "02",
+        "04",
+        "06",
+        "08",
+        "10",
+        "12",
+        "2014*",
+        "Chanzo WHO",
+        "*Takwimu kufikia 18Agosti 2014"
+      ]
+    }
+  },
+  {
+    "image": "062c7410-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/5071/live/062c7410-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "60% wanahisi Iraq ni ipo hali mbaya zaidi leo ikilinganishwa na jinsi ilivyokuwa kabla ya 2003",
+      "chart_type": [
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "60% wanahisi Iraq ni ipo hali mbaya zaidi leo",
+        "ikilinganishwa na jinsi ilivyokuwa kabla ya",
+        "2003",
+        "Imeboreka",
+        "Imekuwa mbaya",
+        "60%",
+        "40%",
+        "Chanzo: Gallup Poll",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "23fc2300-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/5c3b/live/23fc2300-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "Sababu za Wairaqi kuamini Marekani ilivamia nchi yao",
+      "chart_type": [
+        "Marimekko"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Sababu za Wairaqi kuamini Marekani ilivamia",
+        "nchi yao",
+        "51%",
+        "Kuiba rasilimali za Iraqi",
+        "(k.m. mafuta)",
+        "29%",
+        "Kupindua utawala wa zamani",
+        "8%",
+        "Kutumikia",
+        "maslahi ya",
+        "wanakandarasi",
+        "wa Marekani",
+        "6%",
+        "Kupambana",
+        "na ugaidi",
+        "5% Kuleta demokrasia nchini Iraq",
+        "Chanzo: Gallup Poll",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "3ecaee00-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/08a2/live/3ecaee00-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "47% ya waliojibu wanaamini kwamba Marekani inapaswa kuondoka mara moja",
+      "chart_type": [
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages are used alongside full numbers.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "47% ya waliojibu wanaamini kwamba",
+        "Marekani inapaswa kuondoka mara moja",
+        "Iwapo Marekani itaondoka",
+        "sasa ISIS itaerejea",
+        "6%",
+        "Vitisho dhidi ya mamlaka",
+        "ya Iraq vitaongezeka",
+        "5%",
+        "Marekani inapaswa",
+        "kuondoka mara",
+        "moja",
+        "47%",
+        "Wanapendelea",
+        "ratiba ya",
+        "Marekani",
+        "kuondoka",
+        "12%",
+        "Marekani inapaswa kubaki hadi vikosi vya",
+        "usalama visiwahitaji tena",
+        "17%",
+        "Chanzo: Gallup Poll",
+        "Wanapendelea",
+        "Marekani",
+        "kusalia bila",
+        "ratiba ya",
+        "kuondoka",
+        "13%",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "57e5a060-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/9312/live/57e5a060-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "Marekani bado inapendelewa kisiasa na usalama, isipokuwa kwa Wairaqi wa Shia",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Marekani bado inapendelewa kisiasa na",
+        "usalama, isipokuwa kwa Wairaqi wa Shia",
+        "Wahojiwa walipendelea washirika wa kisiasa na usalama (%)",
+        "Kisiasa (%)",
+        "Usalama (%)",
+        "Marekani",
+        "Urusi",
+        "China",
+        "Uturuki",
+        "Iran",
+        "37",
+        "37",
+        "22",
+        "27",
+        "20",
+        "15",
+        "12",
+        "11",
+        "9",
+        "10",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "Chanzo: Gallup Poll",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "772aff60-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7837/live/772aff60-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "China ilipendelewa kama mshirika wa kiuchumi",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "China ilipendelewa kama mshirika wa",
+        "kiuchumi",
+        "Washiriki walipendelea washirika wa kiuchumi (%)",
+        "China",
+        "39%",
+        "Marekan",
+        "27%",
+        "Uturuki",
+        "13%",
+        "Urusi",
+        "13%",
+        "Iran",
+        "8%",
+        "Chanzo: Gallup Poll",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "8f55ac70-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/27e6/live/8f55ac70-d467-11ed-aa8e-31a9f3ff4e07.png.webp",
+    "meta": {
+      "title": "Wairaqi chipukizi hawana nia ya kujenga mustakabali bora wa nchi",
+      "chart_type": [
+        "StackedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Wairaqi chipukizi hawana nia ya kujenga",
+        "mustakabali bora wa nchi",
+        "Data kutoka kwa waliojibu inayoonyeshwa kwenyevitengo",
+        "vya umri",
+        "55+",
+        "45-54",
+        "35-44",
+        "25-34",
+        "18-24",
+        "59",
+        "14",
+        "12",
+        "15",
+        "51",
+        "17",
+        "18",
+        "14",
+        "52",
+        "17",
+        "20",
+        "11",
+        "46",
+        "16",
+        "26",
+        "12",
+        "41",
+        "18",
+        "32",
+        "9",
+        "Wanataka kukaa Iraq na kusaidia kujenga nchi bora (%)",
+        "Nitasalia Iraq lakini singependa kuwa na wasi wasi kuhusu nchi",
+        "na kuzingatia ukuaji wa kibinafsi na ustawi (%).",
+        "Nataka kuondoka nchini (%)",
+        "Wataishi siku baada ya nyingine (%)",
+        "Chanzo: Gallup Poll",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_118664310_seychelles_daily_cases20may_swahili-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/0542/production/_118664310_seychelles_daily_cases20may_swahili-nc.png.webp",
+    "meta": {
+      "title": "Visa vya maambukizi ya corona Ushelisheli",
+      "chart_type": [
+        "BarChart",
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Visa vya maambukizi ya corona Ushelisheli",
+        "2,000",
+        "1,500",
+        "1,000",
+        "500",
+        "0",
+        "4 Jan",
+        "31 Jan",
+        "27 Feb",
+        "26 Mar",
+        "22 Apr",
+        "19 Mei",
+        "Wastani",
+        "wa siku",
+        "saba: 227",
+        "Chanzo: Chuo Kikuu cha Johns Hopkins, takwimu za hadi 19 Mei",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_118664159_ushelisheli.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/173AA/production/_118664159_ushelisheli.png.webp",
+    "meta": {
+      "title": "Sehemu ya raia waliopokea dozi moja ya chanjo",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Swahili",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 8,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Sehemu ya raia waliopokea dozi moja ya chanjo",
+        "%",
+        "Ushelisheli",
+        "Israel",
+        "Mongolia",
+        "UK",
+        "Bahrain",
+        "Hungary",
+        "Chile",
+        "US",
+        "0",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50",
+        "60",
+        "70",
+        "80",
+        "Kufikia 17 Mei",
+        "Chanzo: Our World in Data",
+        "BBC"
+      ]
+    }
+  }
+]

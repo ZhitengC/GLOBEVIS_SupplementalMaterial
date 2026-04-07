@@ -1,0 +1,5843 @@
+[
+  {
+    "image": "_124281390_1.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/2466/production/_124281390_1.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ 'ਚ ਫ਼ਿਰਕੂ ਦੰਗੇ",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "other",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ 'ਚ ਫ਼ਿਰਕੂ ਦੰਗੇ",
+        "ਕੁੱਲ ਘਟਨਾਵਾਂ",
+        "ਕੁੱਲ ਪੀੜਤ",
+        "2,200",
+        "2,000",
+        "1,800",
+        "1,600",
+        "1,400",
+        "1,200",
+        "1,000",
+        "800",
+        "600",
+        "400",
+        "200",
+        "0",
+        "2,014.0",
+        "2,015.0",
+        "2,016.0",
+        "2,017.0",
+        "2,018.0",
+        "2,019.0",
+        "2,020.0",
+        "Source: National Crime Records Bureau",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124281392_2..png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7286/production/_124281392_2..png.webp",
+    "meta": {
+      "title": "ਭਾਜਪਾ ਤੇ ਕਾਂਗਰਸ ਸਰਕਾਰ ਦੇ ਰਾਜ ਦੌਰਾਨ ਫ਼ਿਰਕੂ ਦੰਗੇ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 2,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਜਪਾ ਤੇ ਕਾਂਗਰਸ ਸਰਕਾਰ ਦੇ ਰਾਜ ਦੌਰਾਨ ਫ਼ਿਰਕੂ ਦੰਗੇ",
+        "2006-2012",
+        "ਅਤੇ",
+        "2014-2020",
+        "ਦਰਮਿਆਨ",
+        "ਭਾਜਪਾ +",
+        "ਕਾਂਗਰਸ +",
+        "0",
+        "500",
+        "1,000",
+        "1,500",
+        "2,000",
+        "2,500",
+        "3,000",
+        "3,500",
+        "4,000",
+        "4,500",
+        "5,000",
+        "5,500",
+        "Source: Ministry of Home Affairs, National Crime Records Bureau",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "54157810-7003-11ee-a503-4588075e3427.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/0178/live/54157810-7003-11ee-a503-4588075e3427.jpg.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਵੱਖ-ਵੱਖ ਧਰਮਾਂ ਖ਼ਿਲਾਫ਼ ਨਫ਼ਰਤੀ ਹਿੰਸਾ ਦੇ ਅੰਕੜੇ",
+        "ਜਵਰੀ",
+        "ਸਿੱਖ",
+        "ਇਸਲਾਮ",
+        "ਕੈਥੋਲਿਕ",
+        "ਹਿੰਦੂ",
+        "ਬੁੱਧ ਮਤ",
+        "25",
+        "20",
+        "107",
+        "158",
+        "181",
+        "1,124",
+        "Source: FBI",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124719847_whatsappimage2022-05-13at1.10.49pm.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/1248B/production/_124719847_whatsappimage2022-05-13at1.10.49pm.jpg.webp",
+    "meta": {
+      "title": "1961 'ਚ ਵੱਖ-ਵੱਖ ਧਰਮਾਂ 'ਚ ਬਹੁ-ਪਤਨੀ ਪ੍ਰਥਾ ਦੇ ਅੰਕੜੇ (ਫ਼ੀਸਦੀ ਵਿੱਚ)",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਫ਼ੀਸਦੀ",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "1961 'ਚ ਵੱਖ-ਵੱਖ ਧਰਮਾਂ 'ਚ ਬਹੁ-ਪਤਨੀ ਪ੍ਰਥਾ ਦੇ ਅੰਕੜੇ (ਫ਼ੀਸਦੀ ਵਿੱਚ)",
+        "ਕਬੀਲੇ",
+        "ਬੋਧੀ",
+        "ਜੈਨ",
+        "ਹਿੰਦੂ",
+        "ਮੁਸਲਮਾਨ",
+        "0",
+        "2",
+        "4",
+        "6",
+        "8",
+        "10",
+        "12",
+        "14",
+        "16",
+        "ਨੋਟ: ਬਹੁ-ਪਤਨੀ ਪ੍ਰਥਾ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ ਇਸ ਸਰਵੇਖਣ ਵਿੱਚ 100,000 ਵਿਆਹਾਂ ਦਾ ਡੇਟਾ ਲਿਆ ਗਿਆ ਹੈ",
+        "ਸਰੋਤ: 1961 ਦੀ ਜਨਗਣਨਾ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124719853_whatsappimage2022-05-13at1.14.34pm-1.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8C33/production/_124719853_whatsappimage2022-05-13at1.14.34pm-1.jpg.webp",
+    "meta": {
+      "title": "ਸਾਰੇ ਧਰਮਾਂ ਵਿੱਚ ਬਹੁ-ਪਤਨੀ ਪ੍ਰਥਾ ਵਿੱਚ ਦਰਜ ਹੋਈ ਗਿਰਾਵਟ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਸਾਰੇ ਧਰਮਾਂ ਵਿੱਚ ਬਹੁ-ਪਤਨੀ ਪ੍ਰਥਾ ਵਿੱਚ ਦਰਜ ਹੋਈ ਗਿਰਾਵਟ",
+        "ਕਬੀਲੇ",
+        "ਬੋਧੀ",
+        "ਜੈਨ",
+        "ਹਿੰਦੂ",
+        "ਮੁਸਲਮਾਨ",
+        "0",
+        "2",
+        "4",
+        "6",
+        "8",
+        "10",
+        "12",
+        "14",
+        "16",
+        "ਸਰੋਤ: ਭਾਰਤ ਦਾ ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰ ਸਿਹਤ ਸਰਵੇਖਣ 2005-06 (ਐੱਨਐੱਫਐੱਚਐੱਸ-3)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "75e49a30-1f52-11ef-80aa-699d54c46324.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/593/cpsprodpb/b1f2/live/75e49a30-1f52-11ef-80aa-699d54c46324.jpg.webp",
+    "meta": {
+      "title": "ਕਿਹੜੇ ਦੇਸ਼ਾਂ ਨੇ ਸਭ ਤੋਂ ਵੱਧ ਮੌਤ ਦੀ ਸਜ਼ਾ ਦਿੱਤੀ",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਕਿਹੜੇ ਦੇਸ਼ਾਂ ਨੇ ਸਭ ਤੋਂ ਵੱਧ ਮੌਤ ਦੀ ਸਜ਼ਾ ਦਿੱਤੀ",
+        "ਫਾਂਸੀ",
+        "ਮੌਤ ਦੀ ਸਜਾ",
+        "2,015",
+        "2,016",
+        "2,017",
+        "2,018",
+        "2,019",
+        "2,020",
+        "2,021",
+        "2,022",
+        "2,023",
+        "0",
+        "500",
+        "1,000",
+        "1,500",
+        "2,000",
+        "2,500",
+        "3,000",
+        "3,500",
+        "ਸਰੋਤ: ਐਮਨੈਸਟੀ ਇੰਟਰਨੈਸ਼ਨਲ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "85cdefa0-1f52-11ef-baa7-25d483663b8e.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/639/cpsprodpb/6b5d/live/85cdefa0-1f52-11ef-baa7-25d483663b8e.jpg.webp",
+    "meta": {
+      "title": "ਸਾਲ 2023 'ਚ ਦਿੱਤੀਆਂ ਗਈਆਂ ਫ਼ਾਂਸੀਆਂ",
+      "chart_type": [
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਸਾਲ 2023 'ਚ ਦਿੱਤੀਆਂ ਗਈਆਂ ਫ਼ਾਂਸੀਆਂ",
+        "ਇਰਾਨ",
+        "ਸਾਊਦੀ ਅਰਬ",
+        "ਸੋਮਾਲੀਆ",
+        "ਅਮਰੀਕਾ",
+        "ਈਰਾਕ",
+        "ਬਾਕੀ ਦੁਨੀਆਂ",
+        "172",
+        "38",
+        "24",
+        "16",
+        "38",
+        "853",
+        "ਨੋਟ: ਅਫ਼ਗਾਨਿਸਤਾਨ, ਚੀਨ, ਉੱਤਰੀ ਕੋਰੀਆ, ਸੀਰੀਆ ਤੇ ਵੀਅਤਨਾਮ ਦੇ ਅਧਿਕਾਰਿਤ ਅੰਕੜੇ ਮੌਜੂਦ ਨਹੀਂ ਹਨ",
+        "ਸਰੋਤ: ਐਮਨੈਸਟੀ ਇੰਟਰਨੈਸ਼ਨਲ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "e86d6f00-1f52-11ef-a13a-0b8c563da930.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/0e28/live/e86d6f00-1f52-11ef-a13a-0b8c563da930.png.webp",
+    "meta": {
+      "title": "ਉਹ ਮੁਲਕ ਜਿੱਥੇ 2018 ਤੋਂ 2022 ਵਿੱਚ ਮੌਤ ਦੀ ਸਜ਼ਾ ਦਿੱਤੀ ਗਈ",
+      "chart_type": [
+        "Map"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਉਹ ਮੁਲਕ ਜਿੱਥੇ 2018 ਤੋਂ 2022 ਵਿੱਚ ਮੌਤ ਦੀ ਸਜ਼ਾ ਦਿੱਤੀ ਗਈ",
+        "ਅਮਰੀਕਾ",
+        "ਇਰਾਕ",
+        "ਈਰਾਨ",
+        "ਚੀਨ",
+        "ਸਾਊਦੀ ਅਰਬ",
+        "ਮਿਸਰ",
+        "ਦੱਖਣੀ ਕੋਰੀਆ",
+        "ਯਮਨ",
+        "ਦੱਖਣੀ ਸੁਡਾਨ",
+        "ਵੀਅਤਨਾਮ",
+        "ਸੋਮਾਲੀਆ",
+        "ਸਰੋਤ- ਐਮਨੈਸਟੀ ਇੰਟਰਨੈਸ਼ਨਲ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_102586297_capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/622/cpsprodpb/135A4/production/_102586297_capture.jpg.webp",
+    "meta": {
+      "title": "ਕੁੜੀਆਂ ਅਤੇ ਮੁੰਡਿਆਂ ਦੀ ਸਕੂਲਾਂ ਵਿੱਚ ਗਿਣਤੀ (ਮਿਲੀਅਨ ਵਿੱਚ)",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਮਿਲੀਅਨ",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਕੁੜੀਆਂ ਅਤੇ ਮੁੰਡਿਆਂ ਦੀ ਸਕੂਲਾਂ ਵਿੱਚ ਗਿਣਤੀ (ਮਿਲੀਅਨ ਵਿੱਚ)",
+        "2016-2017 ਦੇ ਸਰਕਾਰੀ ਸਕੂਲ ਦੇ ਅੰਕੜੇ",
+        "ਮੁੰਡੇ",
+        "ਕੁੜੀਆਂ",
+        "7",
+        "6",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1",
+        "0",
+        "ਪ੍ਰੀ-ਪ੍ਰਾਇਮਰੀ",
+        "ਪ੍ਰਾਇਮਰੀ",
+        "ਮਿਡਲ ਸਕੂਲ",
+        "ਹਾਈ ਸਕੂਲ",
+        "ਹਾਈ ਸਕੈਂਡਰੀ ਸਕੂਲ",
+        "ਸਿੱਖਿਆ ਵਿਭਾਗ, ਪਾਕਿਸਤਾਨ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_114203033_copyofindia_sgdp_comparison.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8106/production/_114203033_copyofindia'sgdp_comparison.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਦੀ ਤਿਮਾਹੀ GDP ਦਾ ਪਿਛਲੇ ਸਾਲ ਦੇ ਮੁਕਾਬਲੇ ਅੰਤਰ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 8,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "decreasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਦੀ ਤਿਮਾਹੀ GDP ਦਾ",
+        "ਪਿਛਲੇ ਸਾਲ ਦੇ ਮੁਕਾਬਲੇ ਅੰਤਰ",
+        "GDP comparison of 2020-21 Q1 with 2019-20 Q1",
+        "0.0",
+        "-5.0",
+        "-10.0",
+        "-15.0",
+        "-20.0",
+        "-25.0",
+        "-23.9",
+        "-22.1",
+        "-21.7",
+        "-18.9",
+        "-17.7",
+        "-11.3",
+        "-9.1",
+        "ਭਾਰਤ",
+        "मथेत",
+        "जुवे",
+        "ਫਰਾਂਸ",
+        "ਇਟਲੀ",
+        "ਜਰਮਨੀ",
+        "ਅਮਰੀਕਾ",
+        "Source: OECD, Indian Ministry of Statistics"
+      ]
+    }
+  },
+  {
+    "image": "_105015170_sachharcomittee.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/1BEF/production/_105015170_sachharcomittee.jpg.webp",
+    "meta": {
+      "title": "ਸੂਬਾ ਪੱਧਰੀ ਸਾਖਰਤਾ ਦਰ",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers on y-axis and decimals in parentheses for x-axis labels.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 11,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": true,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਸੂਬਾ ਪੱਧਰੀ ਸਾਖਰਤਾ ਦਰ",
+        "ਕੁੱਲ੍ਹ",
+        "ਹਿੰਦੂ",
+        "ਮੁਸਲਮਾਨ",
+        "100",
+        "90",
+        "80",
+        "70",
+        "60",
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "0",
+        "ਡਾਵਡ (13.4)",
+        "ਵੇਵਲ (24.7)",
+        "ਵਿਗਤ (16.5)",
+        "ਸੰਭੂ-ਵਸਭੀਠ (67.0)",
+        "ਕਰਨਾਟਕ (12.2)",
+        "ਹਿੰਲੀ (11.7)",
+        "ਆਂਧਰ ਪ੍ਰਦੇਸ਼ (9.2)",
+        "ਗੰਨਮਖਾਨ (8.5)",
+        "ਹਰਿਆਣਾ (5.8)",
+        "ਐਡੀਸਾ (2.1)",
+        "ਪੰਜਾਬ (1.6)",
+        "ਸੱਚਰ ਕਮੇਟੀ ਰਿਪੋਰਟ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113981023_battleground_map_simple_-2x_punjabi_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7D12/production/_113981023_battleground_map_simple_-2x_punjabi_640-nc.png.webp",
+    "meta": {
+      "title": "ਬੈਟਲਗ੍ਰਾਊਂਡ ਸਟੇਟਸ ਜਾਨਿ ਕਿ ਸਿੱਧੀ ਟੱਕਰ ਵਾਲੇ ਰਾਜ ਕਿਹੜੇ ਹਨ?",
+      "chart_type": [
+        "HexMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Devanagari",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਵੋਟਾਂ",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਬੈਟਲਗ੍ਰਾਊਂਡ ਸਟੇਟਸ ਜਾਨਿ ਕਿ ਸਿੱਧੀ ਟੱਕਰ ਵਾਲੇ ਰਾਜ ਕਿਹੜੇ ਹਨ?",
+        "ਵੱਡੇ ਹੈਕਸਾਗਨ ਰਾਜਾਂ 'ਚ ਇਲੈਕਟਰੋਲ ਕਾਲਜ 'ਚ ਵਧੇਰੇ ਵੋਟਾਂ ਦਾ ਸੰਕੇਤ ਦੇ ਰਹੇ ਹਨ।",
+        "ਨਿਊ ਹੈਮਪਸ਼ਰ 'ਚ 4 ਵੋਟਾਂ ਹਨ।",
+        "MN",
+        "WI",
+        "MI",
+        "PA",
+        "IA",
+        "OH",
+        "VA",
+        "NC",
+        "AZ",
+        "GA",
+        "TX",
+        "FL",
+        "NV",
+        "NH",
+        "ਟੈਕਸਸ 'ਚ 38 ਵੋਟਾਂ ਹਨ।",
+        "ਸਰੋਤ: Real Clear Politics",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_114605597_trump_corona_punjabi_1609_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/136BE/production/_114605597_trump_corona_punjabi_1609_640-nc.png.webp",
+    "meta": {
+      "title": "ਬਹੁਮਤ ਮਹਾਂਮਾਰੀ ਨਾਲ ਨਜਿੱਠਣ ਦੇ ਤਰੀਕਿਆਂ ਤੋਂ ਨਾਖੁਸ਼",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਬਹੁਮਤ ਮਹਾਂਮਾਰੀ ਨਾਲ ਨਜਿੱਠਣ ਦੇ ਤਰੀਕਿਆਂ ਤੋਂ ਨਾਖੁਸ਼",
+        "% ਅਮਰੀਕੀ ਮੰਨਦੇ ਹਨ ਕਿ ਕੋਰੋਨਾਵਾਇਰਸ ਨਾਲ ਨਜਿੱਠਣ ਲਈ ਡੌਨਲਡ ਟਰੰਪ ਦਾ",
+        "ਤਰੀਕਾ ਸਹੀ ਹੈ।",
+        "100%",
+        "75%",
+        "ਰਿਪਬਲਿਕਨ",
+        "50%",
+        "ਸਮੁੱਚੇ ਅਮਰੀਕੀ",
+        "25%",
+        "ਡੈਮੋਕਰੈਟਸ",
+        "0",
+        "ਅਪ੍ਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਜੁਲਾਈ",
+        "ਅਗਸਤ",
+        "ਸਤੰਬਰ",
+        "ਸਰੋਤ: ABC News / Ipsos",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_114939427_299405ef-8c78-4a43-bf5b-1283373a0afa.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/11B2D/production/_114939427_299405ef-8c78-4a43-bf5b-1283373a0afa.jpg.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "2020",
+        "2021",
+        "ਅਫ਼ਗਾਨਿਸਤਾਨ",
+        "ਭੂਟਾਨ",
+        "ਭਾਰਤ",
+        "ਪਾਕਿਸਤਾਨ",
+        "10",
+        "8.8",
+        "8.2",
+        "8",
+        "6",
+        "5.7",
+        "4.3",
+        "4.4",
+        "4",
+        "3.8",
+        "4",
+        "2",
+        "1.9",
+        "2",
+        "0.6",
+        "1",
+        "0",
+        "-0.5",
+        "-0.4",
+        "-2",
+        "-4",
+        "-6",
+        "-8",
+        "-10",
+        "-12",
+        "-5",
+        "ਬੰਗਲਾਦੇਸ਼",
+        "ਸਰੋਤ: ਕੌਮਾਂਤਰੀ ਮੁਦਰਾ ਕੋਸ਼",
+        "-4.6",
+        "-10.3",
+        "ਚੀਨ",
+        "ਮਇਆਂਮਾਰ",
+        "ਸ਼ੀ ਲੰਕਾ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_114940492_dwsf.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/795/cpsprodpb/72DC/production/_114940492_dwsf.jpg.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਜੀਡੀਪੀ: ਭਾਰਤ ਬਨਾਮ ਬੰਗਲਾਦੇਸ਼",
+        "ਭਾਰਤ",
+        "ਬੰਗਲਾਦੇਸ਼",
+        "10",
+        "8",
+        "8",
+        "8.3",
+        "8.2",
+        "7.9",
+        "7.1",
+        "7.3",
+        "7",
+        "6",
+        "6.6",
+        "6.1",
+        "4",
+        "2",
+        "0",
+        "2015",
+        "4.2",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "ਸਰੋਤ: ਕੌਮਾਂਤਰੀ ਮੁਦਰਾ ਕੋਸ਼",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_117365951_chart_1_iswoty_research_punjabi.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/3E54/production/_117365951_chart_1_iswoty_research_punjabi.png.webp",
+    "meta": {
+      "title": "ਮਰਦਾਂ ਮੁਕਾਬਲੇ ਔਰਤਾਂ ਨੂੰ ਇੱਕ ਤਿਹਾਈ ਤੋਂ ਘੱਟ ਕਵਰੇਜ ਮਿਲਦੀ ਹੈ",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਮਰਦਾਂ ਮੁਕਾਬਲੇ ਔਰਤਾਂ ਨੂੰ ਇੱਕ ਤਿਹਾਈ ਤੋਂ ਘੱਟ ਕਵਰੇਜ ਮਿਲਦੀ ਹੈ",
+        "ਕੁੱਲ ਖੇਡ ਖ਼ਬਰਾਂ ਵਿੱਚ ਔਰਤ ਕੇਂਦਰਿਤ ਖ਼ਬਰਾਂ ਦੀ % (ਹਫ਼ਤਾਵਾਰ ਔਸਤ)",
+        "30%",
+        "20%",
+        "10%",
+        "0%",
+        "2018",
+        "2019",
+        "2020",
+        "Source: BBC research",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_117365953_2nd_chart_iswoty_research_punjabi.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8C74/production/_117365953_2nd_chart_iswoty_research_punjabi.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 11,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਟੈਨਿਸ 'ਚ ਔਰਤਾਂ ਦੀ ਸ਼ਮੂਲੀਅਤ ਸਭ ਤੋਂ ਵੱਧ ਕਵਰ ਕੀਤੀ ਗਈ",
+        "ਟੈਨਿਸ",
+        "ਬੈਡਮਿੰਟਨ",
+        "ਹੋਰ",
+        "ਅਥਲੈਟਿਕਸ (ਦੌੜ)",
+        "ਕ੍ਰਿਕਟ",
+        "ਬੌਕਸਿੰਗ",
+        "ਇੱਕ ਤੋਂ ਜ਼ਿਆਦਾ ਖੇਡਾਂ",
+        "ਕੁਸ਼ਤੀ",
+        "ਸ਼ੂਟਿੰਗ",
+        "ਹਾਕੀ",
+        "ਗੌਲਫ਼",
+        "ਫੁੱਟਬਾਲ",
+        "0%",
+        "5%",
+        "10%",
+        "15%",
+        "20%",
+        "Source: BBC research",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_117366447_map.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/569/cpsprodpb/122E2/production/_117366447_map.png.webp",
+    "meta": {
+      "title": "ਖਿਡਾਰਨਾਂ ਦੇ ਸੂਬਿਆਂ ਦਾ ਜ਼ਿਕਰ ਕਰਦੇ ਲੇਖਾਂ ਦੀ ਗਿਣਤੀ",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਖਿਡਾਰਨਾਂ ਦੇ ਸੂਬਿਆਂ ਦਾ ਜ਼ਿਕਰ ਕਰਦੇ ਲੇਖਾਂ ਦੀ ਗਿਣਤੀ",
+        "ਪੰਜਾਬ (13)",
+        "ਮਹਾਰਾਸ਼ਟਰ (13)",
+        "ਸਰੋਤ- ਬੀਬੀਸੀ ਦੀ ਖੋਜ",
+        "ਉੱਤਰ ਪ੍ਰਦੇਸ਼",
+        "(14)",
+        "ਹਰਿਆਣਾ (68)",
+        "ਅਸਾਮ (13)",
+        "ਮਣੀਪੁਰ",
+        "(20)",
+        "ਆਂਧਰ ਪ੍ਰਦੇਸ਼ (28)",
+        "ਕਹਾਣੀਆਂ ਦੀ ਗਿਣਤੀ",
+        "50 ਤੋਂ ਵੱਧ",
+        "25 ਤੋਂ ਵੱਧ",
+        "20 ਤੋਂ ਵੱਧ",
+        "10 ਤੋਂ ਵੱਧ",
+        "5 ਤੋਂ ਵੱਧ",
+        "5 ਤੋਂ ਘੱਟ",
+        "ਕੋਈ ਡੇਟਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_117365955_chart_4_iswoty_research_punjabi.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/DA94/production/_117365955_chart_4_iswoty_research_punjabi.png.webp",
+    "meta": {
+      "title": "ਖਿਡਾਰਨਾਂ ਬਾਰੇ ਜ਼ਿਆਦਾਤਰ ਲੇਖ ਅਪਡੇਟ ਖ਼ਬਰਾਂ ਹਨ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and integers are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 8,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "other",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": null,
+        "annotation_present": true,
+        "gridlines": null,
+        "label_overlap": null,
+        "facet_or_paneling": null
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਖਿਡਾਰਨਾਂ ਬਾਰੇ ਜ਼ਿਆਦਾਤਰ ਲੇਖ ਅਪਡੇਟ ਖ਼ਬਰਾਂ ਹਨ",
+        "ਅਪਡੇਟ ਖ਼ਬਰਾਂ",
+        "ਫ਼ੀਚਰ",
+        "ਇੰਟਰਵਿਊ",
+        "ਖਿਡਾਰਨਾਂ ਵੱਲੋਂ ਲਿਖੇ ਲੇਖ",
+        "ਖ਼ਾਸ ਕਵਰੇਜ",
+        "ਹਾਈ ਲਾਈਟ",
+        "ਫ਼ੋਟੋ ਫ਼ੀਚਰ",
+        "ਕਾਲਮ",
+        "0%",
+        "25%",
+        "50%",
+        "75%",
+        "Source: BBC research",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_117365957_chart_3_iswoty_research_punjabi.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/128B4/production/_117365957_chart_3_iswoty_research_punjabi.png.webp",
+    "meta": {
+      "title": "ਖਿਡਾਰਨਾਂ ਨਾਲ ਜੁੜੀਆਂ ਬਹੁਤੀਆਂ ਖ਼ਬਰਾਂ ਬਿਨਾਂ ਤਸਵੀਰ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and integers are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "EBIBIC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਖਿਡਾਰਨਾਂ ਨਾਲ ਜੁੜੀਆਂ ਬਹੁਤੀਆਂ ਖ਼ਬਰਾਂ ਬਿਨਾਂ ਤਸਵੀਰ",
+        "ਤਸਵੀਰਾਂ ਦੇ ਸਾਈਜ਼ ਦੀ ਅਖ਼ਬਾਰ ਦੇ ਕਾਲਮ ਦੇ ਸਾਈਜ਼ ਨਾਲ ਤੁਲਨਾ",
+        "ਬਿਨਾਂ ਤਸਵੀਰ",
+        "ਇੱਕ ਕਾਲਮ",
+        "ਚਿਹਰਾ",
+        "ਦੋ ਕਾਲਮ",
+        "ਤਿੰਨ ਕਾਲਮ",
+        "ਰਲੀਆਂ ਮਿਲੀਆਂ",
+        "ਚਾਰ ਕਾਲਮ",
+        "ਪੰਜ ਕਾਲਮ",
+        "ਪੰਜ ਤੋਂ ਵਧੇਰੇ",
+        "0%",
+        "10%",
+        "20%",
+        "30%",
+        "Source: BBC research",
+        "EBIBIC"
+      ]
+    }
+  },
+  {
+    "image": "_123264150_1.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/141A/production/_123264150_1.png.webp",
+    "meta": {
+      "title": "ਯੂਪੀ ਵਿੱਚ ਸਾਲ 2014-20 ਤੱਕ ਦਰਜ ਹੋਏ ਗੈਂਗ ਰੈਪ ਦੇ ਕੇਸ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 15,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਯੂਪੀ ਵਿੱਚ ਸਾਲ 2014-20 ਤੱਕ ਦਰਜ ਹੋਏ ਗੈਂਗ ਰੈਪ ਦੇ ਕੇਸ",
+        "700",
+        "650",
+        "600",
+        "550",
+        "500",
+        "450",
+        "400",
+        "350",
+        "300",
+        "250",
+        "200",
+        "150",
+        "100",
+        "50",
+        "0",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "Source: NCRB",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_123264152_2.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/623A/production/_123264152_2.png.webp",
+    "meta": {
+      "title": "ਯੂਪੀ ਵਿੱਚ ਭਾਰਤੀ ਦੰਡਾਵਲੀ ਤਹਿਤ ਦਰਜ ਕੁੱਲ ਅਪਰਾਧਿਕ ਮਾਮਲੇ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਯੂਪੀ ਵਿੱਚ ਭਾਰਤੀ ਦੰਡਾਵਲੀ ਤਹਿਤ ਦਰਜ ਕੁੱਲ ਅਪਰਾਧਿਕ ਮਾਮਲੇ",
+        "400,000",
+        "350,000",
+        "300,000",
+        "250,000",
+        "200,000",
+        "150,000",
+        "100,000",
+        "50,000",
+        "0",
+        "2,013",
+        "2,014",
+        "2,015",
+        "2,016",
+        "2,017",
+        "2,018",
+        "2,019",
+        "2,020",
+        "Source: NCRB (2013-20)",
+        "BB"
+      ]
+    }
+  },
+  {
+    "image": "_123149236_4.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/F73E/production/_123149236_4.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਡਕੈਤੀ, ਕਤਲ ਚ ਕਮੀ, ਦਹੇਜ ਕਤਲਾਂ 'ਚ 0.41% ਦਾ ਵਾਧਾ",
+        "ਸੂਬੇ ਵਿੱਚ ਸਪਾ (2013-16) ਤੇ ਭਾਜਪਾ (2017-20) ਦੇ ਕਾਰਜਕਾਲ ਦੌਰਾਨ ਅਪਰਾਧਿਕ % ਦੀ ਤੁਲਨਾ",
+        "ਕੁੱਲ ਦੰਗੇ",
+        "ਫ਼ਿਰਕੂ ਦੰਗੇ/ਮਾਮਲੇ",
+        "9,000",
+        "8,000",
+        "7,000",
+        "6,000",
+        "5,000",
+        "4,000",
+        "3,000",
+        "2,000",
+        "1,000",
+        "0",
+        "2,016",
+        "2,017",
+        "2,018",
+        "2,019",
+        "2,020",
+        "Source: NCRB (2013-20)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_123264151_3.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/3B2A/production/_123264151_3.png.webp",
+    "meta": {
+      "title": "2013-20 ਦੌਰਾਨ ਔਰਤਾਂ ਖ਼ਿਲਾਫ਼ ਅਪਰਾਧ",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 13,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "2013-20 ਦੌਰਾਨ ਔਰਤਾਂ ਖ਼ਿਲਾਫ਼ ਅਪਰਾਧ",
+        "60,000",
+        "55,000",
+        "50,000",
+        "45,000",
+        "40,000",
+        "35,000",
+        "30,000",
+        "25,000",
+        "20,000",
+        "15,000",
+        "10,000",
+        "5,000",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "Source: NCRB (2013-20)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124234782_11d84145-a0c9-496f-8d31-1c97a90a43ba.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7047/production/_124234782_11d84145-a0c9-496f-8d31-1c97a90a43ba.jpg.webp",
+    "meta": {
+      "title": "ਕੁੱਲ ਸਕਲ ਘਰੇਲੂ ਉਤਪਾਦ (GSDP) ਦੀ ਫੀਸਦ ਦੇ ਹਿਸਾਬ ਨਾਲ ਭਾਰਤੀ",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਕੁੱਲ ਸਕਲ ਘਰੇਲੂ ਉਤਪਾਦ (GSDP) ਦੀ ਫੀਸਦ ਦੇ ਹਿਸਾਬ ਨਾਲ ਭਾਰਤੀ",
+        "ਸੂਬਿਆਂ ਵੱਲ ਖੜ੍ਹਾ ਕਰਜ਼",
+        "ਸੂਬਿਆਂ ਲਈ ਤੈਅ ਸੀਮਾ 20 ਫੀਸਦ",
+        "ਪੰਜਾਬ",
+        "ਰਾਜਸਥਾਨ",
+        "ਕੇਰਲ",
+        "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼",
+        "ਉੱਤਰ ਪ੍ਰਦੇਸ਼",
+        "ਤਮਿਲ ਨਾਡੂ",
+        "ਗੁਜਾਰਾਤ",
+        "ਮਹਾਰਾਸ਼ਟਰ",
+        "55",
+        "50",
+        "45",
+        "40",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "2.015,0",
+        "2.016,0",
+        "2.017,0",
+        "2.018,0",
+        "2.019,0",
+        "2.020,0",
+        "2.021,0",
+        "2.022,0",
+        "ਨੋਟ: ਮਾਰਚ 2022 ਤੱਕ ਦਾ ਡਾਟਾ",
+        "Source: Reserve Bank of India",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124234784_c64383ca-8db8-4e99-a170-8eee15b1b59d.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/BE67/production/_124234784_c64383ca-8db8-4e99-a170-8eee15b1b59d.jpg.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਦਾ ਕੌਮੀ ਕਰਜ਼ਾ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਦਾ ਕੌਮੀ ਕਰਜ਼ਾ",
+        "ਜੀਡੀਪੀ %",
+        "100",
+        "90",
+        "80",
+        "70",
+        "60",
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "0",
+        "2,016",
+        "2,017",
+        "2,018",
+        "2,019",
+        "2,020",
+        "2,021",
+        "2,022",
+        "2,023",
+        "2,024",
+        "2,025",
+        "2,026",
+        "2021 -2026 ਤੱਕ ਦਾ ਅਨੁਮਾਨਿਤ ਡਾਟਾ",
+        "Source: Statista",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124234786_9d1dd613-d4d7-42b4-9525-2ed30022b0fd.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/10C87/production/_124234786_9d1dd613-d4d7-42b4-9525-2ed30022b0fd.jpg.webp",
+    "meta": {
+      "title": "ਵੱਧ ਅਤੇ ਘੱਟ ਵਿੱਤੀ ਘਾਟੇ ਵਾਲੇ ਸੂਬੇ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimals are present, along with percentages.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "equal_increment",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 10,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਵੱਧ ਅਤੇ ਘੱਟ ਵਿੱਤੀ ਘਾਟੇ ਵਾਲੇ ਸੂਬੇ",
+        "ਸਕਲ ਘਰੇਲੂ ਉਤਪਾਦ (GSDP) ਦੇ % ਵਿੱਚ",
+        "ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ",
+        "ਛੱਤੀਸਗੜ੍ਹ",
+        "ਹਿਮਚਾਲ ਪ੍ਰਦੇਸ਼",
+        "ਮਿਂਵਿਅ",
+        "ਮੱਧ ਪ੍ਰਦੇਸ਼",
+        "ਝਾਰਖੰਡ",
+        "ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼",
+        "ਮਹਾਰਾਸ਼ਟਰ",
+        "ਮਿਜ਼ੋਰਮ",
+        "ਗੁਜਾਰਾਤ",
+        "0,0",
+        "0,5",
+        "1,0",
+        "1,5",
+        "2,0",
+        "2,5",
+        "3,0",
+        "3,5",
+        "4,0",
+        "4,5",
+        "5,0",
+        "5,5",
+        "ਨੋਟ- ਅੰਕੜੇ ਮਾਰਚ 2022, 2021-22 ਵਿੱਚ ਸੂਬਿਆਂ ਲਈ ਅਨੁਮਾਨਿਤ ਘਾਟੇ ਦੀ ਸੀਮਾ 4% ਸੀ",
+        "Source: Reserve Bank of India",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124345200_c0987667-4072-4638-9672-84efd9d2fa0c.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/00FE/production/_124345200_c0987667-4072-4638-9672-84efd9d2fa0c.png.webp",
+    "meta": {
+      "title": "ਲੇਬਰ ਵਿੱਚ ਔਰਤਾਂ ਦੀ ਹਿੱਸੇਦਾਰੀ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "equal_increment",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਲੇਬਰ ਵਿੱਚ ਔਰਤਾਂ ਦੀ ਹਿੱਸੇਦਾਰੀ",
+        "18",
+        "16",
+        "14",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "ਜਨਵਰੀ-ਅਪ੍ਰੈਲ 2016",
+        "ਮਈ-ਅਗਸਤ 2017",
+        "ਸਤੰਬਰ- ਦਸੰਬਰ 2018",
+        "ਜਨਵਰੀ-ਅਪ੍ਰੈਲ 2020",
+        "ਮਈ-ਅਗਸਤ 2021",
+        "Source: CMIE",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_124374262_women.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/6687/production/_124374262_women.jpg.webp",
+    "meta": {
+      "title": "ਭਾਰਤੀ ਔਰਤਾਂ ਅਤੇ ਮਰਦ ਆਪਣਾ ਦਿਨ ਕਿਵੇਂ ਬਤੀਤ ਕਰਦੇ ਹਨ?",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਮਿੰਟਾਂ",
+            "time"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤੀ ਔਰਤਾਂ ਅਤੇ ਮਰਦ ਆਪਣਾ ਦਿਨ ਕਿਵੇਂ",
+        "ਬਤੀਤ ਕਰਦੇ ਹਨ?",
+        "(ਸਾਰੇ ਅੰਕੜੇ ਮਿੰਟਾਂ ਵਿੱਚ ਹਨ)",
+        "ਸਰਗਰਮੀ",
+        "ਮਰਦ",
+        "ਔਰਤਾਂ",
+        "ਮੁਫ਼ਤ ਵਿੱਚ ਘਰੇਲੂ ਕੰਮ",
+        "36",
+        "280",
+        "ਅਰਾਮ",
+        "146",
+        "141",
+        "ਲੋਕਾਂ ਨਾਲ ਮਿਲਣਾ ਤੇ ਧਾਰਮਿਕ ਕਰਮਕਾਂਡ",
+        "134",
+        "127",
+        "ਸਿੱਖਣਾ",
+        "102",
+        "84",
+        "ਰੁਜ਼ਗਾਰ",
+        "263",
+        "61",
+        "ਆਪਣੀ ਦੇਖ-ਰੇਖ",
+        "729",
+        "723",
+        "ਹੋਰ",
+        "31",
+        "25",
+        "BBC",
+        "Source: Ministry of Statistics"
+      ]
+    }
+  },
+  {
+    "image": "f44ea740-e2d9-11ee-9410-0f893255c2a0.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/d5bb/live/f44ea740-e2d9-11ee-9410-0f893255c2a0.jpg.webp",
+    "meta": {
+      "title": "ਪਾਰਟੀਆਂ ਜਿਨ੍ਹਾਂ ਨੇ ਸਭ ਤੋਂ ਵੱਧ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਕੈਸ਼ ਕਰਵਾਏ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਕਰੋੜਾਂ",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਪਾਰਟੀਆਂ ਜਿਨ੍ਹਾਂ ਨੇ ਸਭ ਤੋਂ ਵੱਧ ਇਲੈਕਟੋਰਲ ਬਾਂਡ",
+        "ਕੈਸ਼ ਕਰਵਾਏ",
+        "ਸਾਰੀਆਂ ਰਕਮਾਂ ਕਰੋੜਾਂ ਦੇ ਹਿਸਾਬ ਨਾਲ ਹਨ",
+        "ਬੀਜੇਪੀ",
+        "6060.51",
+        "ਏਆਈਟੀਸੀ",
+        "1609.53",
+        "ਏਆਈਸੀਸੀ",
+        "1421.86",
+        "ਬੀਆਰਐੱਸ",
+        "1214.70",
+        "ਬੀਜੇਡੀ",
+        "775.5",
+        "ਸਰੋਤ - ਭਾਰਤੀ ਚੋਣ ਕਮਿਸ਼ਨ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "302249a0-e2dc-11ee-8bf3-195418ba9285.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/a43e/live/302249a0-e2dc-11ee-8bf3-195418ba9285.jpg.webp",
+    "meta": {
+      "title": "ਭਾਜਪਾ ਵੱਲੋਂ ਕੈਸ਼ ਕਰਵਾਏ ਗਏ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਦੇ ਅੰਕੜੇ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਕਰੋੜਾਂ",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਜਪਾ ਵੱਲੋਂ ਕੈਸ਼ ਕਰਵਾਏ ਗਏ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਦੇ ਅੰਕੜੇ",
+        "ਸਾਰੀਆਂ ਰਕਮਾਂ ਕਰੋੜਾਂ ਦੇ ਹਿਸਾਬ ਨਾਲ ਹਨ",
+        "1971.75",
+        "2000.0",
+        "1500.0",
+        "1000.0",
+        "500.0",
+        "372.99",
+        "1763.54",
+        "1676.32",
+        "202",
+        "73.89",
+        "0.0",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "ਸਰੋਤ - ਭਾਰਤੀ ਚੋਣ ਕਮਿਸ਼ਨ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "3b49aa30-e2dc-11ee-860f-4b0b053e4cd0.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/75df/live/3b49aa30-e2dc-11ee-860f-4b0b053e4cd0.jpg.webp",
+    "meta": {
+      "title": "ਏਆਈਟੀਸੀ ਅਤੇ ਕਾਂਗਰਸ ਵੱਲੋਂ ਕੈਸ਼ ਕਰਵਾਏ ਗਏ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਦੇ ਅੰਕੜੇ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਕਰੋੜਾਂ",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਏਆਈਟੀਸੀ ਅਤੇ ਕਾਂਗਰਸ ਵੱਲੋਂ ਕੈਸ਼ ਕਰਵਾਏ ਗਏ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਦੇ ਅੰਕੜੇ",
+        "ਸਾਰੀਆਂ ਰਕਮਾਂ ਕਰੋੜਾਂ ਦੇ ਹਿਸਾਬ ਨਾਲ ਹਨ",
+        "ਆਲ ਇੰਡੀਆ ਤ੍ਰਿਣਮੂਲ ਕਾਂਗਰਸ (ਏਆਈਟੀਸੀ)",
+        "600.0",
+        "500.0",
+        "400.0",
+        "300.0",
+        "200.0",
+        "100.0",
+        "0.0",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "ਆਲ ਇੰਡੀਆ ਕਾਂਗਰਸ ਕਮੇਟੀ",
+        "800.0",
+        "600.0",
+        "400.0",
+        "200.0",
+        "0.0",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "ਸਰੋਤ - ਭਾਰਤੀ ਚੋਣ ਕਮਿਸ਼ਨ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "4acd6000-e2dc-11ee-860f-4b0b053e4cd0.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/6b04/live/4acd6000-e2dc-11ee-860f-4b0b053e4cd0.jpg.webp",
+    "meta": {
+      "title": "ਸਭ ਤੋਂ ਵੱਧ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਖਰੀਦਣ ਵਾਲੀਆਂ ਕੰਪਨੀਆਂ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "RTL",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਕਰੋੜਾਂ",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਸਭ ਤੋਂ ਵੱਧ ਇਲੈਕਟੋਰਲ ਬਾਂਡ ਖਰੀਦਣ ਵਾਲੀਆਂ ਕੰਪਨੀਆਂ",
+        "ਸਾਰੀਆਂ ਰਕਮਾਂ ਕਰੋੜਾਂ ਦੇ ਹਿਸਾਬ ਨਾਲ ਹਨ",
+        "ਫਿਊਚਰ ਗੇਮਿੰਗ ਐਂਡ ਹੋਟਲ",
+        "ਸਰਵਿਸਸ ਪ੍ਰਾਈਵੇਟ",
+        "ਲਿਮਿਟਿਡ",
+        "1368",
+        "ਮੇਘਾ ਇੰਜੀਨਿਅਰਿੰਗ ਐਂਡ",
+        "ਇੰਫਰਾਸਟ੍ਰਕਚਰਜ਼ ਲਿਮਿਟਿਡ",
+        "966",
+        "ਕਵਿੱਕ ਸਪਲਾਈ ਚੇਨ ਪ੍ਰਾਈਵੇਟ",
+        "ਲਿਮਿਟਿਡ",
+        "410",
+        "ਵੇਦਾਂਤਾ ਲਿਮਿਟਿਡ",
+        "400",
+        "ਹਲਦੀਆ ਐਨਰਜੀ",
+        "ਲਿਮਿਟਿਡ",
+        "377",
+        "ਐਸਲ ਮਾਈਨਿੰਗ ਐਂਡ ਇੰਡਸਟ੍ਰੀ",
+        "ਲਿਮਿਟਿਡ",
+        "224",
+        "ਸਰੋਤ - ਭਾਰਤੀ ਚੋਣ ਕਮਿਸ਼ਨ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "2a882c90-e281-11ee-9410-0f893255c2a0.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/747/cpsprodpb/9f86/live/2a882c90-e281-11ee-9410-0f893255c2a0.png.webp",
+    "meta": {
+      "title": "Anup Agrawal",
+      "chart_type": [
+        "Other"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "Mixed",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Telugu"
+          ],
+          "secondary_scripts": [
+            "Telugu"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "K"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Full numbers and abbreviated numbers (K) are used.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MDY",
+        "separator": "space",
+        "time_related": true,
+        "time_format": "12H"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "Views",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "TV9 తెలుగు"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Anup Agrawal",
+        "@anupagrawal23",
+        "Is this plain coincidence?",
+        "Second biggest electoral Bond donor company -Megha Engineering",
+        "grabs major infrastructure projects from Modi Government!",
+        "Here is Nitin Gadkari Ji Praising Megha Engineering.",
+        "This is total scam!",
+        "#ElectoralBondsCase",
+        "మన ఊరు",
+        "మన దేశం",
+        "రూ.5 వేల కోట్ల మిగులుతో MEIL టెండర్",
+        "NarundarM",
+        "తెలుగు",
+        "0:28",
+        "నితిన్ గడ్కరీ, కేంద్రమంత్రి",
+        "12వేల కోట్ల అంచనా వ్యయంతో",
+        "టెండర్లు పిలిచాం",
+        "Nitin Gadkari, Minister, Road Transport & Highways",
+        "IN THE CHAIR: HON'BLE SPEAKER",
+        "నెంబర్ వన్ న్యూస్ ఛానల్ టీవీ9 తెలుగు నిరంతరం ప్రజలకోసం, మెరుగైన సమా",
+        "మెరుగైన",
+        "తెలుగు సమాజం కోసం",
+        "8:56 PM",
+        "Mar 14, 2024",
+        "172.9K Views"
+      ]
+    }
+  },
+  {
+    "image": "816.png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/11d47001-d528-4011-b51c-aed6006f0132/image/816",
+    "meta": {
+      "title": "ਭਾਰਤ ਪ੍ਰਸ਼ਾਸਿਤ ਕਸ਼ਮੀਰ 'ਚ ਅੱਤਵਾਦੀ ਘਟਨਾਵਾਂ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 15,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 14,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਪ੍ਰਸ਼ਾਸਿਤ ਕਸ਼ਮੀਰ 'ਚ ਅੱਤਵਾਦੀ ਘਟਨਾਵਾਂ",
+        "2,600",
+        "2,400",
+        "2,200",
+        "2,000",
+        "1,800",
+        "1,600",
+        "1,400",
+        "1,200",
+        "1,000",
+        "800",
+        "600",
+        "400",
+        "200",
+        "0",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "Source: Statements in Indian parliament",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_106340630_e84ac714-1031-478c-bdf4-b8abba955fc5.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/0E14/production/_106340630_e84ac714-1031-478c-bdf4-b8abba955fc5.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ 'ਚ ਸੇਵਾਵਾਂ ਤੇ ਨਿਰਮਾਣ",
+      "chart_type": [
+        "StackedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 14,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ 'ਚ ਸੇਵਾਵਾਂ ਤੇ ਨਿਰਮਾਣ",
+        "ਜੀਡੀਪੀ %",
+        "ਨਿਰਮਾਣ",
+        "ਸੇਵਾਵਾਂ",
+        "65",
+        "60",
+        "55",
+        "50",
+        "45",
+        "40",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "Source: World Bank/OECD",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "816 (1).png",
+    "source": "https://ichef.bbci.co.uk/news/1632/idt2/idt2/70a80ff7-0f6b-4e38-8916-cd567fd5ca90/image/816",
+    "meta": {
+      "title": "ਪੇਂਡੂ ਭਾਰਤ 'ਚ ਵਧਦਾ ਕਰਜ਼ਾ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਪੇਂਡੂ ਭਾਰਤ 'ਚ ਵਧਦਾ ਕਰਜ਼ਾ",
+        "% ਘਰੇਲੂ ਕਰਜ਼ਾ",
+        "35",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "0",
+        "1991",
+        "Source: National Sample Survey Office",
+        "2002",
+        "2013",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_106337173_idt.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/9135/production/_106337173_idt.jpg.webp",
+    "meta": {
+      "title": "ਖਾਣਾ ਬਣਾਉਣ 'ਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਗ਼ੈਰ-ਐੱਲਪੀਜੀ ਬਾਲਣ ਦੀਆਂ ਕਿਸਮਾਂ",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 4,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਖਾਣਾ ਬਣਾਉਣ 'ਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਗ਼ੈਰ-ਐੱਲਪੀਜੀ ਬਾਲਣ ਦੀਆਂ ਕਿਸਮਾਂ",
+        "ਨੋਟ: ਬਹੁਤੇ ਪਰਿਵਾਰ ਦੋ ਕਿਸਮਾਂ ਦੇ ਬਾਲਣ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ",
+        "ਡੀਜ਼ਲ",
+        "100",
+        "90",
+        "80",
+        "70",
+        "60",
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "0",
+        "ਲੱਕੜ",
+        "ਮਿੱਟੀ ਦਾ ਤੇਲ",
+        "ਪਾਥੀਆਂ",
+        "ਘਾਹ-ਫ਼ੂਸ",
+        "2016 ਵਿੱਚ ਭਾਰਤ ਦੇ 103,000 ਪਰਿਵਾਰਾਂ 'ਤੇ ਕੀਤਾ ਗਿਆ ਸਰਵੇਅ (ਕ੍ਰਾਇਸਿਲ ਰੇਟਿੰਗ ਏਜੰਸੀ)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_100912137_11.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/11DA1/production/_100912137_11.png.webp",
+    "meta": {
+      "title": "ਔਰਤਾਂ ਸਿਹਤ ਸੇਵਾਵਾਂ ਦੀ ਘੱਟ ਵਰਤੋਂ ਕਿਉਂ ਕਰਦੀਆਂ ਹਨ?",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਔਰਤਾਂ ਸਿਹਤ ਸੇਵਾਵਾਂ ਦੀ ਘੱਟ ਵਰਤੋਂ ਕਿਉਂ ਕਰਦੀਆਂ ਹਨ?",
+        "ਔਰਤਾਂ ਦੀ ਫੀਸਦ",
+        "ਇਜਾਜ਼ਤ ਲੈਣ 'ਚ ਦਿੱਕਤ",
+        "ਪੈਸੇ ਦੀ ਕਮੀ",
+        "ਦੂਰੀ",
+        "ਆਵਾਜਾਈ ਦੇ ਸਾਧਨਾ ਦੀ ਕਮੀ",
+        "ਨਾਲ ਜਾਣ ਵਾਲੇ ਦੀ ਸਮੱਸਿਆ",
+        "ਔਰਤਾ ਡਾਕਟਰਾਂ ਦੀ ਕਮੀ ਦੀ ਚਿੰਤਾ",
+        "ਦਵਾਈਆਂ ਦੀ ਘਾਟ",
+        "ਹਸਪਤਾਲ ਪਹੁੰਚਣ ਦੀ ਸਮੱਸਿਆ",
+        "0",
+        "20",
+        "40",
+        "60",
+        "80",
+        "ਸਰੋਤ: ਨੈਸ਼ਨਲ ਫੈਮਿਲੀ ਹੈਲਥ ਸਰਵੇਅ 4 (% 'ਚ)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_100912139_12.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/16BC1/production/_100912139_12.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਫ਼ੀਸਦ",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 7,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤੀ ਪਰਿਵਾਰ ਸਿਹਤ ਸੇਵਾਵਾਂ 'ਚ ਕਿੱਥੇ ਖ਼ਰਚਾ ਕਰਦੇ ਹਨ?",
+        "ਕੁੱਲ ਖ਼ਰਚੇ ਦਾ ਫ਼ੀਸਦ",
+        "ਦਵਾਈ",
+        "ਨਿੱਜੀ ਹਸਪਤਾਲ",
+        "ਸਰਕਾਰੀ ਹਸਪਤਾਲ",
+        "ਲੈਬ ਟੈਸਟ",
+        "ਆਵਾਜਾਈ",
+        "ਡਾਕਟਰੀ ਸਲਾਹ",
+        "ਐਂਬੂਲੈਂਸ ਸੇਵਾਵਾਂ",
+        "ਦਵਾਈ",
+        "43",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "BBC",
+        "ਸਰੋਤ: ਨੈਸ਼ਨਲ ਹੈਲਥ ਅਕਾਊਂਟਸ"
+      ]
+    }
+  },
+  {
+    "image": "_100912141_13.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/cpsprodpb/3729/production/_100912141_13.png.webp",
+    "meta": {
+      "title": "ਸਿਹਤ ਸੇਵਾਵਾਂ 'ਤੇ ਖ਼ਰਚ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਡਾਲਰ",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 11,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 8,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਸਿਹਤ ਸੇਵਾਵਾਂ 'ਤੇ ਖ਼ਰਚ",
+        "ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਸਿਹਤ ਸੇਵਾਵਾਂ 'ਤੇ ਖ਼ਰਚ (ਅਮਰੀਕੀ ਡਾਲਰ 'ਚ)",
+        "ਬਾਜ਼ੀਲ",
+        "ਦੱਖਣ ਅਫ਼ਰੀਕਾ",
+        "ਰੂਸ",
+        "ਤੁਰਕੀ",
+        "ਮਲੇਸ਼ੀਆ",
+        "ਚੀਨ",
+        "ਇੰਡੋਨੇਸ਼ੀਆ",
+        "ਭਾਰਤ",
+        "ਭਾਰਤ",
+        "0",
+        "100",
+        "75",
+        "200",
+        "300",
+        "400",
+        "500",
+        "600",
+        "700",
+        "800",
+        "900",
+        "1,000",
+        "ਸਰੋਤ: WHO (% 'ਚ)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113322557_indiaworldcases.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/12702/production/_113322557_indiaworldcases.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਕੇਸਾਂ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਤੀਜਾ ਸਭ ਤੋਂ ਪ੍ਰਭਾਵਿਤ ਦੇਸ਼ ਬਣਿਆ",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Full numbers in text, abbreviated numbers on y-axis.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MD",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਕੇਸ",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਕੇਸਾਂ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਤੀਜਾ ਸਭ ਤੋਂ ਪ੍ਰਭਾਵਿਤ ਦੇਸ਼ ਬਣਿਆ",
+        "1 ਮਾਰਚ ਤੋਂ 6 ਜੁਲਾਈ ਤੱਕ ਕੁੱਲ ਪੁਸ਼ਟ ਕੇਸ",
+        "3m",
+        "2m",
+        "1m",
+        "ਅਮਰੀਕਾ",
+        "ਬ੍ਰਾਜ਼ੀਲ",
+        "ਭਾਰਤ ਵਿੱਚ ਆਨਲੌਕ ਸ਼ੁਰੂ ਹੋਇਆ",
+        "ਭਾਰਤ",
+        "तुम",
+        "ਛੂਿਟੇਠ",
+        "0",
+        "ਮਾਰਚ",
+        "ਅਪਰੈਲ",
+        "ਮਈ",
+        "ਜਨ",
+        "ਨੋਟ: ਜਿਵੇਂ ਦੇਸ਼ ਆਪਣੇ ਅੰਕੜਿਆਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨਗੇ ਕੇਸਾਂ ਦੀ ਗਿਣਤੀ ਘਟ ਸਕਦੀ ਹੈ",
+        "ਜੁਲਾਈ",
+        "ਸਰੋਤ: ਜੌਹਨ ਹੌਪਕਿੰਸ ਯੂਨੀਵਰਸਿਟੀ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113309237_indiacasesandtests.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/11E4A/production/_113309237_indiacasesandtests.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਵਿੱਚ ਦਸ ਲੱਖ ਦੀ ਵਸੋਂ ਪਿੱਛੇ 6500 ਟੈਸਟ ਕੀਤੇ ਹਨ",
+      "chart_type": [
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "none",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਵਿੱਚ ਦਸ ਲੱਖ ਦੀ ਵਸੋਂ ਪਿੱਛੇ 6500 ਟੈਸਟ ਕੀਤੇ ਹਨ",
+        "ਸੱਤ ਦਿਨਾਂ ਦੀ ਰੋਲਿੰਗ ਔਸਤਾਂ (ਹਰ ਚਾਰਟ ਲਈ ਵੱਖਰਾ ਸਕੇਲ ਵਰਤਿਆ ਗਿਆ ਹੈ)",
+        "ਰੋਜ਼ਾਨਾ ਦੇ ਟੈਸਟ",
+        "200,000",
+        "150,000",
+        "100,000",
+        "50,000",
+        "0",
+        "ਅਪਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਜੁਲਾਈ",
+        "ਰੋਜ਼ਾਨਾ ਦੇ ਪੁਸ਼ਟ ਕੇਸ",
+        "20,000",
+        "15,000",
+        "10,000",
+        "5,000",
+        "ਅਪਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਜੁਲਾਈ",
+        "ਸਰੋਤ: ਸਿਹਤ ਅਤੇ ਪਰਿਵਾਰ ਭਲਾਈ ਮੰਤਰਾਲਾ, ਆਖ਼ਰੀ ਅਪਡੇਟ: 7 ਜੁਲਾਈ 2020",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113309243_testcasespermillion.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/85F2/production/_113309243_testcasespermillion.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਵਿੱਚ ਦਸ ਲੱਖ ਦੀ ਵਸੋਂ ਪਿੱਛੇ 6500 ਟੈਸਟ ਕੀਤੇ ਹਨ",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "Punjabi"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਵਿੱਚ ਦਸ ਲੱਖ ਦੀ ਵਸੋਂ ਪਿੱਛੇ 6500 ਟੈਸਟ ਕੀਤੇ ਹਨ",
+        "ਦਸ ਲੱਖ ਦੀ ਵਸੋਂ ਪਿੱਛੇ ਹੋ ਰਹੇ ਟੈਸਟ",
+        "ਟੈਸਟ",
+        "ਪੁਸ਼ਟ ਮਾਮਲੇ",
+        "ਭਾਰਤ",
+        "ਦਲ ਲੱਖ ਵਸੋਂ ਪਿੱਛੇ 438 ਕੇਸ ਹਨ",
+        "ਤੁਰਕੀ",
+        "ਸਵਿਟਜ਼ਰਲੈਂਡ",
+        "ਅਮਰੀਕਾ",
+        "ਕਤਰ",
+        "ਰੂਸ",
+        "0",
+        "25,000",
+        "50,000",
+        "75,000",
+        "100,000",
+        "125,000",
+        "ਸਰੋਤ: Our World In Data, ਆਖਰੀ ਅਪਡੇਟ: 2 July",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113309245_indiatestspercase.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/D412/production/_113309245_indiatestspercase.png.webp",
+    "meta": {
+      "title": "ਜਿੰਨੇ ਵਧੇਰੇ ਟੈਸਟ ਕਰੋਗੇ ਕੇਸ ਉਨੇ ਹੀ ਵਧੇਰੇ ਮਿਲਣਗੇ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 10,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਜਿੰਨੇ ਵਧੇਰੇ ਟੈਸਟ ਕਰੋਗੇ ਕੇਸ ਉਨੇ ਹੀ ਵਧੇਰੇ ਮਿਲਣਗੇ",
+        "ਦੇਸ਼ ਵੱਲੋਂ ਇੱਕ ਪੁਸ਼ਟ ਕੇਸ ਪਿੱਛੇ ਕੀਤੇ ਗਏ ਟੈਸਟ",
+        "ਨਿਊਜ਼ੀਲੈਂਡ",
+        "ਤਾਇਵਾਨ",
+        "172.2",
+        "ਦੱਖਣੀ ਕੋਰੀਆ",
+        "98.9",
+        "ਇਸਟੋਨੀਆ",
+        "54.6",
+        "ਭਾਰਤ",
+        "15",
+        "ਅਮਰੀਕਾ",
+        "12.5",
+        "ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ",
+        "10.7",
+        "ਇੰਡੋਨੇਸ਼ੀਆ",
+        "8.7",
+        "ਅਰਜਨਟਾਈਨਾ",
+        "5.5",
+        "ਚਿਲੀ",
+        "4",
+        "ਸਰੋਤ: Our World In Data, ਆਖ਼ਰੀ ਅਪਡੇਟ: 7 ਜੁਲਾਈ",
+        "346.6",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113310900_death.haverisenthemostslowly.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/0385/production/_113310900_death.haverisenthemostslowly.png.webp",
+    "meta": {
+      "title": "ਮੌਤਾਂ ਸਭ ਤੋਂ ਨੀਵੀਂ ਦਰ ਨਾਲ ਵਧੀਆਂ ਹਨ\nਸੌਵੇਂ ਕੇਸ ਤੋਂ ਬਾਅਦ ਵਾਧੇ ਦੀ ਦਰ",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਦਿਨ",
+            "time"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "log"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਮੌਤਾਂ ਸਭ ਤੋਂ ਨੀਵੀਂ ਦਰ ਨਾਲ ਵਧੀਆਂ ਹਨ",
+        "ਸੌਵੇਂ ਕੇਸ ਤੋਂ ਬਾਅਦ ਵਾਧੇ ਦੀ ਦਰ",
+        "1,000,000",
+        "100,000",
+        "10,000",
+        "1,000",
+        "ਵੇਮ",
+        "ਠੀਕ ਹੋਏ",
+        "ਮੌਤਾਂ",
+        "100",
+        "0",
+        "25",
+        "50",
+        "75",
+        "100 ਦਿਨ",
+        "ਲੌਗ ਸਕੇਲ",
+        "ਸਰੋਤ: ਸਿਹਤ ਅਤੇ ਪਰਿਵਾਰ ਭਲਾਈ ਮੰਤਰਾਲਾ, ਆਖ਼ਰੀ ਅਪਡੇਟ: 7 ਜੁਲਾਈ 2020",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113310902_worldrecoveries.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/51A5/production/_113310902_worldrecoveries.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "StackedArea"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਵਿੱਚ ਠੀਕ ਹੋਣ ਵਾਲਿਆਂ ਦੀ ਗਿਣਤੀ",
+        "ਤੇਜ਼ੀ ਨਾਲ ਵਧਦੀ ਲੱਗ ਰਹੀ ਹੈ",
+        "22 ਜਨਵਰੀ ਤੋਂ 6 ਜੁਲਾਈ ਤੱਕ ਦੇਸ਼ ਵੱਲੋਂ ਰਿਪੋਰਟ ਕੀਤੇ ਪੁਸ਼ਟ ਕੇਸ, ਠੀਕ",
+        "ਹੋਏ ਅਤੇ ਮੌਤਾਂ",
+        "ਕੇਸ",
+        "ਠੀਕ ਹੋਏ",
+        "ਰਿਪੋਰਟ ਹੋਈਆਂ ਮੌਤਾਂ",
+        "ਅਮਰੀਕਾ",
+        "3,000,000",
+        "2,000,000",
+        "1,000,000",
+        "0",
+        "ਜਨਵਰੀ",
+        "ਮਾਰਚ",
+        "ਮਈ",
+        "ਜੁਲਾਈ",
+        "ਬ੍ਰਾਜ਼ੀਲ",
+        "1,500,000",
+        "1,000,000",
+        "500,000",
+        "0",
+        "ਜਨਵਰੀ",
+        "ਮਾਰਚ",
+        "ਮਈ",
+        "ਜੁਲਾਈ",
+        "ਰੂਸ",
+        "600,000",
+        "400,000",
+        "200,000",
+        "0",
+        "ਜਨਵਰੀ",
+        "ਮਾਰਚ",
+        "ਮਈ",
+        "ਜੁਲਾਈ",
+        "ਭਾਰਤ",
+        "600,000",
+        "400,000",
+        "200,000",
+        "0",
+        "ਜਨਵਰੀ",
+        "ਮਾਰਚ",
+        "ਮਈ",
+        "ਜੁਲਾਈ",
+        "Source: Johns Hopkins University",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113310904_indiaisreportingfarfewerdeaths.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/9FC5/production/_113310904_indiaisreportingfarfewerdeaths.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤ ਬਹੁਤੇ ਪੱਛਮੀ ਦੇਸ਼ਾਂ ਨਾਲੋਂ ਘੱਟ ਮੌਤਾਂ ਰਿਪੋਰਟ ਕਰ ਰਿਹਾ ਹੈ",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "ਮੌਤਾਂ",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 14,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤ ਬਹੁਤੇ ਪੱਛਮੀ ਦੇਸ਼ਾਂ ਨਾਲੋਂ ਘੱਟ ਮੌਤਾਂ ਰਿਪੋਰਟ ਕਰ ਰਿਹਾ ਹੈ",
+        "ਪ੍ਰਤੀ ਦਸ ਲੱਖ ਮਗਰ ਮੌਤਾਂ",
+        "चीठ",
+        "3.2",
+        "ਮਲੇਸ਼ੀਆ",
+        "3.7",
+        "ਇੰਡੋਨੇਸ਼ੀਆ",
+        "11.9",
+        "ਬੰਗਲਾਦੇਸ਼",
+        "12.5",
+        "डाउ",
+        "14.3",
+        "ਪਾਕਿਸਤਾਨ",
+        "21.6",
+        "ਰੂਸ",
+        "69.6",
+        "भैवमीवे",
+        "237",
+        "ਬ੍ਰਾਜ਼ੀਲ",
+        "305",
+        "ਅਮਰੀਕਾ",
+        "392",
+        "ਫਰਾਂਸ",
+        "457",
+        "ਸਵੀਡਨ",
+        "536",
+        "ਇਟਲੀ",
+        "576",
+        "छूिटेल",
+        "651",
+        "ਬੈਲਜੀਅਮ",
+        "843",
+        "ਸਰੋਤ: Our World In Data, ਆਖ਼ਰੀ ਅਪਡੇਟ: 7 ਜੁਲਾਈ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113310906_statewisecoronavirsucasesinindia_punjabi_06_july-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/EDE5/production/_113310906_statewisecoronavirsucasesinindia_punjabi_06_july-nc.png.webp",
+    "meta": {
+      "title": "ਭਾਰਤੀ ਸੂਬੇ ਕਿਵੇਂ ਪ੍ਰਭਾਵਿਤ ਹਨ",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Indian3-2-2",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਭਾਰਤੀ ਸੂਬੇ ਕਿਵੇਂ ਪ੍ਰਭਾਵਿਤ ਹਨ",
+        "ਦਿੱਲੀ",
+        "ਰਾਜਸਥਾਨ",
+        "ਉੱਤਰ ਪ੍ਰਦੇਸ਼",
+        "ਗੁਜਰਾਤ",
+        "ਪੱਛਮੀ ਬੰਗਾਲ",
+        "ਮਹਾਰਾਸ਼ਟਰ",
+        "ਕਰਨਾਟਕ",
+        "ਤਾਮਿਲ ਨਾਡੂ",
+        "ਕੇਸਾਂ ਦੀ ਸੰਖਿਆ",
+        ">1,000",
+        "1,000-20,000",
+        "20,000-50,000",
+        "50,000-100,000",
+        "1,00,000 ਤੋਂ ਵਧੇਰੇ",
+        "2,00,000 ਤੋਂ ਵਧੇਰੇ",
+        "BBC",
+        "ਸਰੋਤ: ਭਾਰਤ ਦਾ ਸਿਹਤ ਅਤੇ ਪਰਿਵਾਰ ਭਲਾਈ ਮੰਤਰਾਲਾ"
+      ]
+    }
+  },
+  {
+    "image": "_113310908_indiastatescases.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/13C05/production/_113310908_indiastatescases.png.webp",
+    "meta": {
+      "title": "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼, ਕਰਨਾਟਕ ਅਤੇ ਤੇਲੰਗਾਨਾ",
+      "chart_type": [
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Punjabi",
+          "primary_script": "Gurmukhi",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼, ਕਰਨਾਟਕ ਅਤੇ ਤੇਲੰਗਾਨਾ",
+        "ਸੂਬਿਆਂ ਦੀ 14 ਮਾਰਚ ਤੋਂ 6 ਜੁਲਾਈ ਤੱਕ ਸੱਤ ਦਿਨਾਂ ਦੀ ਰੋਲਿੰਗ ਔਸਤ",
+        "ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼",
+        "800",
+        "600",
+        "400",
+        "200",
+        "0",
+        "ਮਾਰਚ",
+        "ਅਪ੍ਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਬਿਹਾਰ",
+        "400",
+        "300",
+        "200",
+        "100",
+        "0",
+        "ਮਾਰਚ",
+        "ਅਪ੍ਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਦਿੱਲੀ",
+        "3,000",
+        "2,000",
+        "1,000",
+        "0",
+        "ਗੁਜਰਾਤ",
+        "600",
+        "400",
+        "200",
+        "0",
+        "ਕਰਨਾਟਕ",
+        "1,500",
+        "1,000",
+        "500",
+        "0",
+        "ਮਹਾਰਾਸ਼ਟਰ",
+        "6,000",
+        "4,000",
+        "2,000",
+        "0",
+        "ਰਾਜਸਥਾਨ",
+        "400",
+        "200",
+        "0",
+        "ਤਾਮਿਲ ਨਾਡੂ",
+        "4,000",
+        "2,000",
+        "0",
+        "ਤੇਲੰਗਾਨਾ",
+        "1,000",
+        "500",
+        "0",
+        "ਉਤਰ ਪ੍ਰਦੇਸ਼",
+        "800",
+        "600",
+        "400",
+        "200",
+        "0",
+        "ਪੱਛਮੀ ਬੰਗਾਲ",
+        "600",
+        "400",
+        "200",
+        "0",
+        "ਮਾਰਚ",
+        "ਅਪ੍ਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "ਕੇਰਲਾ",
+        "150",
+        "100",
+        "50",
+        "0",
+        "ਮਾਰਚ",
+        "ਅਪ੍ਰੈਲ",
+        "ਮਈ",
+        "ਜੂਨ",
+        "Source: Ministry of Health and Family Welfare. Last updated: 7 July 2020",
+        "BBC"
+      ]
+    }
+  }
+]

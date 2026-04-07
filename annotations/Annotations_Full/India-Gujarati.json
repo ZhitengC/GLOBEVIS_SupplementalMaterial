@@ -1,0 +1,1713 @@
+[
+  {
+    "image": "_119954083_c9a8a24d-e965-4529-bf16-c8fd95845e67.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/949D/production/_119954083_c9a8a24d-e965-4529-bf16-c8fd95845e67.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 13,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "અફઘાનિસ્તાનમાં અમેરિકાના સૈનિકોની સંખ્યા",
+        "2002 - 2020",
+        "120,000",
+        "110,000",
+        "100,000",
+        "90,000",
+        "80,000",
+        "70,000",
+        "60,000",
+        "50,000",
+        "40,000",
+        "30,000",
+        "20,000",
+        "10,000",
+        "0",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018",
+        "2020",
+        "2020 ડિસેંબર સુધીના આંકડા",
+        "સ્રોત : સ્પેશિયલ ઇન્સપેક્ટ૨ જન૨લ ફૉર અફઘાનિસ્તાન રિકન્સ્ટ્રક્શન (SIGAR), કૉંગ્રેશનલ રિસર્ચ સર્વિસ",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_98563668_guj2.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/1526C/production/_98563668_guj2.png.webp",
+    "meta": {
+      "title": "ઇનામી રકમમાં મોટો તફાવત",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "પાઉન્ડમાં",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 4,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ઇનામી રકમમાં મોટો તફાવત",
+        "પુરુષોની રમતમાં ચૂકવાતી રકમ(પાઉન્ડમાં)",
+        "મહિલાઓની રમતમાં ચૂકવાતી રકમ(પાઉન્ડમાં)",
+        "પ્રેમિયર લીગ/મહિલાઓની લીગ",
+        "વર્લ્ડ કપ",
+        "યુએસ ઓપન(ગોલ્ફ)",
+        "ધ ઓપન(ગોલ્ફ)",
+        "0",
+        "7,500,000",
+        "15,000,000",
+        "22,500,000",
+        "30,000,000",
+        "37,500,000",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "482cfa00-a466-11ed-8f65-71bfa0525ce3.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/51e1/live/482cfa00-a466-11ed-8f65-71bfa0525ce3.png.webp",
+    "meta": {
+      "title": "પાછલા ત્રણ વર્ષોમાં કૅન્સરના કેસ અને તેનાથી થતા મૃત્યુના આંકડા",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "પાછલા ત્રણ વર્ષોમાં કૅન્સરના કેસ અને તેનાથી થતા મૃત્યુના આંકડા",
+        "કેસ",
+        "મૃત્યુ",
+        "1,600,000",
+        "1,400,000",
+        "1,200,000",
+        "1,000,000",
+        "800,000",
+        "600,000",
+        "400,000",
+        "200,000",
+        "0",
+        "2020",
+        "2021",
+        "2022",
+        "સ્રોત: લોકસભામાં આરોગ્ય અને પરિવાર કલ્યાણ રાજ્યમંત્રી",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "5db1a920-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/799/cpsprodpb/449d/live/5db1a920-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "meta": {
+      "title": "રાજકોષીય ખાધ (જીડીપીના %)",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Gujarati",
+          "secondary_languages": [
+            "Gujarati"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimals are used, and percentages are indicated.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "other",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": null,
+        "annotation_present": true,
+        "gridlines": null,
+        "label_overlap": null,
+        "facet_or_paneling": null
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "રાજકોષીય ખાધ (જીડીપીના %)",
+        "10%",
+        "7.5%",
+        "5%",
+        "2.5%",
+        "0%",
+        "2014-15",
+        "6.44%",
+        "2016-17",
+        "2018-19",
+        "2020-21",
+        "2022-23",
+        "BBC",
+        "Source: Reserve Bank of India"
+      ]
+    }
+  },
+  {
+    "image": "6f14a640-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/799/cpsprodpb/af32/live/6f14a640-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "meta": {
+      "title": "સરકારી આવાસ યોજના હેઠળ બંધાયેલા ઘરો ગ્રામિણ અને શહેરી ઘરો સંયુક્ત",
+      "chart_type": [
+        "StackedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimals are used, along with an abbreviation for millions.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "m",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "text",
+          "data_point_count": 1,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "સરકારી આવાસ યોજના હેઠળ બંધાયેલા ઘરો",
+        "ગ્રામિણ અને શહેરી ઘરો સંયુક્ત",
+        "એપ્રીલ 2022- જાન્યુ.2023",
+        "બજેટના ટાર્ગેટ અનુસાર હજુ બંધાવાના બાકી",
+        "ઘરોની",
+        "સંખ્યા",
+        "3.8",
+        "4.2",
+        "0m",
+        "4m",
+        "8m",
+        "Source: PMAY, Government of India",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "7706a560-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7fbd/live/7706a560-a09c-11ed-8f65-71bfa0525ce3.jpg.webp",
+    "meta": {
+      "title": "પાણીનાં જોડાણ ધરાવતા પરિવારોની સંખ્યા",
+      "chart_type": [
+        "WaffleChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and numbers with unit 'લાખ' are present.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "નળ",
+            "count"
+          ],
+          [
+            "પરિવારો",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "પાણીનાં જોડાણ ધરાવતા પરિવારોની સંખ્યા",
+        "નાણાકીય વર્ષ 2022-23માં જોડાણો",
+        "બજેટના ટાર્ગેટ અનુસાર બાકી જોડાણો",
+        "નોંધ: 1 નળ = 10 લાખ પરિવારો",
+        "Source: Jal Jeevan Mission, Government of India",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126505671_whatsappimage2022-08-31at3.16.07pm.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/44F2/production/_126505671_whatsappimage2022-08-31at3.16.07pm.jpg.webp",
+    "meta": {
+      "title": "રોજમદાર મજૂરોએ ભારતમાં સૌથી વધારે આત્મહત્યા કરી",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages are shown as integers and decimals.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC NEWS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "રોજમદાર મજૂરોએ ભારતમાં સૌથી વધારે",
+        "આત્મહત્યા કરી",
+        "અન્ય",
+        "નિવૃત્ત વ્યક્તિ",
+        "14.4%",
+        "રોજમદાર",
+        "મજૂરો",
+        "25.6%",
+        "ખેડૂત",
+        "6.6%",
+        "વિદ્યાર્થી",
+        "8%",
+        "8.4%",
+        "14.1%",
+        "ગૃહિણી",
+        "બેરોજગાર",
+        "9.7%",
+        "12.3%",
+        "વ્યવસાયી/નોકરિયાત",
+        "વ્યક્તિ",
+        "BBC NEWS | ગુજરાતી",
+        "સ્વરોજગારી કરતા",
+        "લોકો",
+        "સ્રોત : એનસીઆરબી 2021"
+      ]
+    }
+  },
+  {
+    "image": "_126539772_dfdccdbf-cb27-4a30-aedc-04b0e67d2185.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/6C91/production/_126539772_dfdccdbf-cb27-4a30-aedc-04b0e67d2185.jpg.webp",
+    "meta": {
+      "title": "આ રાજ્યોમાં દહેજને લઈને સૌથી વધુ કિસ્સા બન્યા છે",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC NEWS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "આ રાજ્યોમાં દહેજને લઈને સૌથી વધુ કિસ્સા",
+        "બન્યા છે",
+        "ઉત્તર પ્રદેશ",
+        "બિહાર",
+        "મધ્ય પ્રદેશ",
+        "પશ્ચિમ બંગાળ",
+        "રાજસ્થાન",
+        "2,222",
+        "1,000",
+        "522",
+        "454",
+        "452",
+        "0",
+        "1,000",
+        "2,000",
+        "3,000",
+        "BBC NEWS",
+        "ગુજરાતી",
+        "સ્રોત : એનસીઆરબી 2021"
+      ]
+    }
+  },
+  {
+    "image": "_126537853_bf74e139-037b-40d6-8193-81cfeac3906f.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8C21/production/_126537853_bf74e139-037b-40d6-8193-81cfeac3906f.jpg.webp",
+    "meta": {
+      "title": "તામિલનાડુમાં અકસ્માતના સૌથી વધારે કેસ નોંધાયા, મધ્ય પ્રદેશમાં સૌથી વધુ મૃત્યુ",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 7,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC NEWS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "તામિલનાડુમાં અકસ્માતના સૌથી વધારે કેસ",
+        "નોંધાયા, મધ્ય પ્રદેશમાં સૌથી વધુ મૃત્યુ",
+        "ઘટના",
+        "મૃત્યુ",
+        "તામિલનાડુ",
+        "55,682",
+        "15,384",
+        "મધ્ય પ્રદેશ",
+        "48,219",
+        "12,480",
+        "ઉત્તર પ્રદેશ",
+        "33,711",
+        "21,792",
+        "કર્ણાટક",
+        "34,647",
+        "10,038",
+        "મહારાષ્ટ્ર",
+        "26,598",
+        "13,911",
+        "રાજસ્થાન",
+        "20,954",
+        "10,043",
+        "ઓડિશા",
+        "10,983",
+        "10,983",
+        "0",
+        "20,000",
+        "40,000",
+        "60,000",
+        "BBC NEWS | ગુજરાતી",
+        "સ્રોત : એનસીઆરબી 2021"
+      ]
+    }
+  },
+  {
+    "image": "_126537855_4baf1691-8ceb-4951-913f-3af683619d3d.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/DA41/production/_126537855_4baf1691-8ceb-4951-913f-3af683619d3d.jpg.webp",
+    "meta": {
+      "title": "એ રાજ્યો જ્યાં સૌથી વધુ સાઇબર ક્રાઇમની ઘટના નોંધાઈ છે",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC NEWS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "એ રાજ્યો જ્યાં સૌથી વધુ સાઇબર ક્રાઇમની",
+        "ઘટના નોંધાઈ છે",
+        "તેલંગાણા",
+        "ઉત્તર પ્રદેશ",
+        "કર્ણાટક",
+        "મહારાષ્ટ્ર",
+        "આસામ",
+        "10,303",
+        "8,829",
+        "8,136",
+        "5,562",
+        "4,846",
+        "0",
+        "2,000",
+        "4,000",
+        "6,000",
+        "8,000",
+        "10,000",
+        "BBC NEWS | ગુજરાતી",
+        "સ્રોત : એનસીઆરબી 2021"
+      ]
+    }
+  },
+  {
+    "image": "_126537857_9727b7fa-e7e4-418e-aa3c-d41cc9abcec1.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/12861/production/_126537857_9727b7fa-e7e4-418e-aa3c-d41cc9abcec1.jpg.webp",
+    "meta": {
+      "title": "ભારતનાં રાજ્યોમાં બાળકોની સામે થયેલા ગુનાના આંકડા",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 6,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC NEWS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "ભારતનાં રાજ્યોમાં બાળકોની સામે થયેલા ગુનાના આંકડા",
+        "ઘટના",
+        "પીડિત",
+        "22,000",
+        "20,000",
+        "18,000",
+        "16,000",
+        "14,000",
+        "12,000",
+        "10,000",
+        "8000",
+        "6000",
+        "4000",
+        "2000",
+        "0",
+        "મધ્ય પ્રદેશ",
+        "મહારાષ્ટ્ર",
+        "ઉત્તર પ્રદેશ",
+        "પશ્ચિમ બંગાળ",
+        "ઓડિશા",
+        "રાજસ્થાન",
+        "BBC NEWS | ગુજરાતી",
+        "સ્રોત : એનસીઆરબી 2021"
+      ]
+    }
+  },
+  {
+    "image": "_113164237_ecdc.timeseries.continents.cases.plot-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/11E1E/production/_113164237_ecdc.timeseries.continents.cases.plot-nc.png.webp",
+    "meta": {
+      "title": "કોવિડ-19ના કેસોની ખંડઆધારિત સરખામણી",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Dot",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "કેસો",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "કોવિડ-19ના કેસોની ખંડઆધારિત સરખામણી",
+        "સાત દિવસના રૉલિંગની સરેરાશ પ્રમાણે પ્રતિદિન કેસો",
+        "એશિયા",
+        "યુરોપ",
+        "ઉત્તર અમેરિકા",
+        "મધ્ય-પૂર્વ",
+        "લૅટિન અમેરિકા અ",
+        "આફ્રિકા",
+        "જાન્યુઆરી",
+        "એપ્રિલ",
+        "જુલાઈ",
+        "60.000",
+        "40.000",
+        "20.000",
+        "0",
+        "આ સ્કેલ સામે ખૂબ ઓછી સંખ્યા હોવાથી ઑશિયાનાના કેસોનો સમાવેશ કરવામાં આવ્યો નથી.",
+        "સ્રોતઃ ઈસીડીસી અને નેશનલ પબ્લિક હેલ્થ એજન્સીઝ, 27 જન સુધીનો ડેટા",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113164238_selected_risers_cases29jun-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1452E/production/_113164238_selected_risers_cases29jun-nc.png.webp",
+    "meta": {
+      "title": "તાજેતરનાં અઠવાડિયાંમાં કોવિડ-19ના કેસો ક્યાં વધી રહ્યા છે",
+      "chart_type": [
+        "LineChart",
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "તાજેતરનાં અઠવાડિયાંમાં કોવિડ-19ના કેસો ક્યાં વધી રહ્યા છે",
+        "કેસોની સંખ્યા પ્રતિદિન મુજબ, દરેક દેશનું માપ અલગ છે",
+        "બ્રાઝિલ",
+        "મેક્સિકો",
+        "6.000",
+        "40,000",
+        "કેસોની સંખ્યા",
+        "પ્રતિદિન મુજબ,",
+        "દરેક દેશનું માપ",
+        "અલગ છે",
+        "4.000",
+        "20.000",
+        "2.000",
+        "0",
+        "0",
+        "30 જાન્યુ",
+        "14 એપ્રિલ",
+        "28 જૂન",
+        "30 જાન્યુ",
+        "14 એપ્રિલ",
+        "28 જૂન",
+        "ભારત",
+        "દક્ષિણ આફ્રિકા",
+        "20.000",
+        "15.000",
+        "10.000",
+        "6.000",
+        "4.000",
+        "5.000",
+        "2.000",
+        "0",
+        "0",
+        "30 જાન્યુ",
+        "14 એપ્રિલ",
+        "28 ભુન",
+        "30 જાન્યુ",
+        "14 એપ્રિલ",
+        "28 ભુન",
+        "સ્રોત : ઈસીડીસી, 27 જૂન સુધીનો ડેટા",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113164839_usmapcases_jh_29jun-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/16E96/production/_113164839_usmapcases_jh_29jun-nc.png.webp",
+    "meta": {
+      "title": "અમેરિકાનાં ઘણાં રાજ્યોમાં હજી કેસો વધારે છે છેલ્લા અઠવાડિયામાં પ્રતિ દસ લાખ લોકોએ પ્રતિદિન કેસો",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "B"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": true,
+        "time_format": "24H"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "લાખ",
+            "count"
+          ],
+          [
+            "કેસો",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "અમેરિકાનાં ઘણાં રાજ્યોમાં હજી કેસો વધારે છે",
+        "છેલ્લા અઠવાડિયામાં પ્રતિ દસ લાખ લોકોએ પ્રતિદિન કેસો",
+        "0-49",
+        "50-99",
+        "100-149",
+        "150-199",
+        "200થી વધારે",
+        "ઍરિઝોના",
+        "419",
+        "અર્કાન્સાસ",
+        "202",
+        "મિસિસ્સિપી",
+        "252",
+        "દક્ષિણ કૅરોલિના",
+        "240",
+        "ફ્લૉરિડા",
+        "291",
+        "સ્રોત જૉન્સ હૉપકિન્સ યુનિવર્સિટી, 29 જૂન 08.00 BST",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_113164844_small_cases_countries-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/AF2E/production/_113164844_small_cases_countries-nc.png.webp",
+    "meta": {
+      "title": "એ દેશો જ્યાં વાઇરસ અંકુશમાં આવેલો દેખાય છે",
+      "chart_type": [
+        "Area",
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Gujarati",
+          "primary_script": "Gujarati",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "એ દેશો જ્યાં વાઇરસ અંકુશમાં આવેલો દેખાય છે",
+        "કેસોની સંખ્યા પ્રતિદિન, દરેક દેશનું માપ અલગ છે",
+        "દક્ષિણ કોરિયા",
+        "ઓસ્ટ્રેલિયા",
+        "750",
+        "500",
+        "250",
+        "0",
+        "સાત દિવસની સરેરાશ",
+        "20 જાન્યુઆરી",
+        "09 એપ્રિલ",
+        "28 જૂન",
+        "600",
+        "400",
+        "200",
+        "0",
+        "20 જાન્યુઆરી",
+        "09 એપ્રિલ",
+        "28 જૂન",
+        "ન્યૂઝીલેન્ડ",
+        "વિયેતનામ",
+        "75",
+        "50",
+        "25",
+        "0",
+        "20 જાન્યુઆરી",
+        "09 એપ્રિલ",
+        "28 જૂન",
+        "20",
+        "10",
+        "0",
+        "20 જાન્યુઆરી",
+        "09 એપ્રિલ",
+        "28 જૂન",
+        "સ્રોત: ઇડીસીડીસી, 27 જૂન સુધીનો ડેટા",
+        "BBC"
+      ]
+    }
+  }
+]

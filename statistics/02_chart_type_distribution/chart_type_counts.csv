@@ -1,0 +1,48 @@
+﻿chart_category,chart_type,count
+Area,StackedArea,82
+Area,Area,62
+Bar,BarChart,773
+Bar,GroupedBar,753
+Bar,StackedBar,568
+Bar,HorizontalBar,452
+Bar,DumbbellChart,22
+Bar,RadialBarChart,14
+Bar,LollipopChart,12
+Bar,WaterfallChart,7
+Bar,GaugeChart,3
+Bar,Marimekko,2
+Circle,Pie,229
+Circle,Donut,145
+Circle,WaffleChart,7
+Diagram,RadarChart,10
+Diagram,Timeline,7
+Diagram,GanttChart,6
+Distribution,Histogram,7
+Distribution,BoxPlot,6
+Distribution,StripPlot,2
+Distribution,DensityPlot,1
+Distribution,RidgelinePlot,1
+Distribution,ViolinPlot,1
+Grid & Matrix,Heatmap,6
+Grid & Matrix,CalendarHeatmap,2
+Line,MultiLineChart,1077
+Line,LineChart,502
+Line,StepChart,13
+Line,SlopeChart,1
+Map,ChoroplethMap,57
+Map,Map,23
+Map,SymbolMap,13
+Map,DotDensityMap,3
+Map,FlowMap,2
+Map,GeoHeatmap,2
+Map,HexMap,2
+Other,Other,67
+Other,CandlestickChart,5
+Point,Scatter,38
+Point,Bubble,14
+Table,Table,164
+Table,TextTable,6
+Table,HighlightTable,1
+Trees & Networks,Treemap,7
+Trees & Networks,SankeyDiagram,2
+Trees & Networks,CirclePacking,1

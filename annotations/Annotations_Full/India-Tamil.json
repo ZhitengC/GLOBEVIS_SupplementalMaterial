@@ -1,0 +1,2825 @@
+[
+  {
+    "image": "92cf1b00-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/793/cpsprodpb/52ea/live/92cf1b00-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "கோடி",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "1950ஆம் ஆண்டில் இருந்து இந்தியாவின்",
+        "மக்கள்தொகை இரட்டிப்பாகியுள்ளது.",
+        "150 கோடி",
+        "சீனா",
+        "ஆப்பிரிக்கா",
+        "100 கோடி",
+        "ஆப்பிரிக்கா",
+        "ஐரோப்பா",
+        "50 கோடி",
+        "லத்தீன் அமெரிக்கா மற்றும்",
+        "கரீபியன் நாடுகள்",
+        "வட அமெரிக்கா",
+        "0",
+        "1960",
+        "1980",
+        "2000",
+        "2020",
+        "தரவு: ஐ.நா. மக்கள்தொகைப் பிரிவின் உலக",
+        "மக்கள்தொகை முன்னறிவிப்பு",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "ab635f50-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/ece4/live/ab635f50-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "meta": {
+      "title": "எனினும் மக்கள்தொகை வளர்ச்சி விகிதம் குறைந்து வருகிறது",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimal numbers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "எனினும் மக்கள்தொகை வளர்ச்சி",
+        "விகிதம் குறைந்து வருகிறது",
+        "3%",
+        "2.19%",
+        "2%",
+        "1%",
+        "0%",
+        "1960",
+        "1980",
+        "0.68%",
+        "2000",
+        "2020",
+        "தரவு: ஐ.நா. மக்கள்தொகைப் பிரிவின் உலக",
+        "மக்கள்தொகை முன்னறிவிப்பு",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "c008b630-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/524/cpsprodpb/3821/live/c008b630-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "meta": {
+      "title": "அனைத்து மத குழுக்களிடையேயும் கருவுறுதல் விகிதம் குறைந்து வருகிறது ஒரு பெண்ணுக்கு வாழ்நாளில் சராசரியாகப் பிறக்கும் குழந்தைகளின் எண்ணிக்கை",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 2,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "அனைத்து மத குழுக்களிடையேயும்",
+        "கருவுறுதல் விகிதம் குறைந்து வருகிறது",
+        "ஒரு பெண்ணுக்கு வாழ்நாளில் சராசரியாகப் பிறக்கும்",
+        "குழந்தைகளின் எண்ணிக்கை",
+        "பௌத்தர்கள்",
+        "கிறிஸ்துவர்கள்",
+        "4",
+        "2.9",
+        "3",
+        "2.3",
+        "2.1",
+        "1.7",
+        "2",
+        "1.4",
+        "1",
+        "0",
+        "2.9",
+        "2.4",
+        "2.3",
+        "2",
+        "1.9",
+        "சமணர்கள்",
+        "இந்துக்கள்",
+        "4",
+        "3",
+        "2.4",
+        "1.9",
+        "2",
+        "1.5",
+        "1.2",
+        "1.6",
+        "1",
+        "0",
+        "3.3",
+        "2.8",
+        "2.6",
+        "2.1",
+        "1.9",
+        "இஸ்லாமியர்கள்",
+        "சீக்கியர்கள்",
+        "4.4",
+        "4",
+        "3.6",
+        "3.4",
+        "3",
+        "2.6",
+        "2.4",
+        "2.4",
+        "2.3",
+        "1.9",
+        "2",
+        "1.6",
+        "1.6",
+        "1",
+        "0",
+        "2000",
+        "2010",
+        "தரவு: தேசிய குடும்ப நல ஆய்வு (1992-2019)",
+        "2000",
+        "2010",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "df475e70-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/749/cpsprodpb/fe86/live/df475e70-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "meta": {
+      "title": "இந்தியா இன்னும் இளைஞர்களின் நாடாகவே இருக்கிறது",
+      "chart_type": [
+        "StackedArea"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as full values on the x-axis, but abbreviated with 'கோடி' (crore) on the y-axis.",
+        "decimal_usage": false,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "கோடி",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "இந்தியா இன்னும் இளைஞர்களின்",
+        "நாடாகவே இருக்கிறது",
+        "0-24",
+        "25-64",
+        "65 வயதுக்கு மேல்",
+        "150 கோடி",
+        "100 கோடி",
+        "50 கோடி",
+        "0",
+        "1960",
+        "1980",
+        "2000",
+        "2020",
+        "தரவு: ஐ.நா. மக்கள்தொகைப் பிரிவின் உலக",
+        "மக்கள்தொகை முன்னறிவிப்பு",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "d1fbbe50-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/976d/live/d1fbbe50-e008-11ed-8df1-d74cbf1089d7.jpg.webp",
+    "meta": {
+      "title": "அடுத்த 50 ஆண்டுகளில் அதிகளவிலான இளைஞர்கள் முதியோர் பட்டியலில் இணைவர்",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and years are present.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "அடுத்த 50 ஆண்டுகளில் அதிகளவிலான",
+        "இளைஞர்கள் முதியோர் பட்டியலில்",
+        "இணைவர்",
+        "25 வயதுக்குக் கீழே",
+        "25-64",
+        "65 வயதுக்கு மேல்",
+        "60%",
+        "40%",
+        "20%",
+        "0%",
+        "2020",
+        "2040",
+        "2060",
+        "2080",
+        "2100",
+        "தரவு: ஐ.நா. மக்கள்தொகைப் பிரிவின் உலக",
+        "மக்கள்தொகை முன்னறிவிப்பு",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126704998_99b15558-5a78-4c02-8e1f-3a9ca3821f4d.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/15F54/production/_126704998_99b15558-5a78-4c02-8e1f-3a9ca3821f4d.png.webp",
+    "meta": {
+      "title": "பெண்களுக்கு எதிரான குற்றங்கள் 6 ஆண்டுகளில் அதிகரித்துள்ளது",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "பெண்களுக்கு எதிரான குற்றங்கள் 6 ஆண்டுகளில்",
+        "அதிகரித்துள்ளது",
+        "480,000",
+        "400,000",
+        "320,000",
+        "240,000",
+        "160,000",
+        "80,000",
+        "0",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "ஆதாரம்: தேசிய குற்ற ஆவணக் காப்பகம் (2016-2021)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126704996_2dd5ac7e-bf39-4893-ab49-1b8771f5cc3d.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/11134/production/_126704996_2dd5ac7e-bf39-4893-ab49-1b8771f5cc3d.png.webp",
+    "meta": {
+      "title": "2020இல் பாலியல் வல்லுறவுகள் குறைந்தன; பின்னர் மீண்டும் அதிகரித்தன்",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "2020இல் பாலியல் வல்லுறவுகள் குறைந்தன;",
+        "பின்னர் மீண்டும் அதிகரித்தன்",
+        "40,000",
+        "35,000",
+        "30,000",
+        "25,000",
+        "20,000",
+        "15,000",
+        "10,000",
+        "5,000",
+        "0",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "ஆதாரம்: தேசிய குற்ற ஆவணக் காப்பகம் (2016-2021)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126705072_bc9a2095-59ad-4375-8285-27411bf8b9e1.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/69AA/production/_126705072_bc9a2095-59ad-4375-8285-27411bf8b9e1.png.webp",
+    "meta": {
+      "title": "கடத்தல் நிகழ்வுகள்",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "கடத்தல் நிகழ்வுகள்",
+        "80,000",
+        "70,000",
+        "60,000",
+        "50,000",
+        "40,000",
+        "30,000",
+        "20,000",
+        "10,000",
+        "0",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "ஆதாரம்: தேசிய குற்ற ஆவணக் காப்பகம் (2016-2021)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126704993_fb148dd9-381c-4cb8-8cfd-7fb0a8a88fdd.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/9C04/production/_126704993_fb148dd9-381c-4cb8-8cfd-7fb0a8a88fdd.png.webp",
+    "meta": {
+      "title": "கணவர் அல்லது அவரது உறவினர்களால் கொடுமைப்படுத்தப்பட்ட பெண்கள்",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "கணவர் அல்லது அவரது உறவினர்களால்",
+        "கொடுமைப்படுத்தப்பட்ட பெண்கள்",
+        "140,000",
+        "120,000",
+        "100,000",
+        "80,000",
+        "60,000",
+        "40,000",
+        "20,000",
+        "0",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "ஆதாரம்: தேசிய குற்ற ஆவணக் காப்பகம் (2016-2021)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126705074_0c09da49-3433-4cbf-b4a0-a2ffe7e68a9f-1.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/B7CA/production/_126705074_0c09da49-3433-4cbf-b4a0-a2ffe7e68a9f-1.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "முந்தைய ஆண்டுகளை விட 2021இல்",
+        "வரதட்சணை மரணங்கள் குறைந்துள்ளன",
+        "8,000",
+        "7,000",
+        "6,000",
+        "5,000",
+        "4,000",
+        "3,000",
+        "2,000",
+        "1,000",
+        "0",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "ஆதாரம்: தேசிய குற்ற ஆவணக் காப்பகம் (2016-2021)",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_126299032_11capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/5A3B/production/_126299032_11capture.jpg.webp",
+    "meta": {
+      "title": "இந்தியாவில் உள்ள பில்லியனர்களின் எண்ணிக்கை",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "இந்தியாவில் உள்ள பில்லியனர்களின் எண்ணிக்கை",
+        "ஆண்டு",
+        "எண்",
+        "2000",
+        "9",
+        "2005",
+        "27",
+        "2010",
+        "69",
+        "2015",
+        "90",
+        "2017",
+        "119",
+        "2021",
+        "142",
+        "2022",
+        "166",
+        "(ஆதாரம்:ஃபோர்ப்ஸ்)"
+      ]
+    }
+  },
+  {
+    "image": "_126299642_12capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/607B/production/_126299642_12capture.jpg.webp",
+    "meta": {
+      "title": "வருமான ஏற்றத்தாழ்வு",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "other",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": null,
+        "annotation_present": false,
+        "gridlines": null,
+        "label_overlap": null,
+        "facet_or_paneling": null
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "வருமான ஏற்றத்தாழ்வு",
+        "ஆண்டு",
+        "ஜினி விகிதம்",
+        "1983",
+        "32.1",
+        "1993",
+        "31.7",
+        "2004",
+        "34.4",
+        "2011",
+        "35.7",
+        "2014",
+        "34.4",
+        "2018",
+        "47.9",
+        "(ஆதாரம்: உலக வங்கி)"
+      ]
+    }
+  },
+  {
+    "image": "_126299644_13capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/AE9B/production/_126299644_13capture.jpg.webp",
+    "meta": {
+      "title": "Wealth inequality, India, 1995-2021",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Wealth inequality, India, 1995-2021",
+        "Share (%)",
+        "35",
+        "Share (%)",
+        "Share of total (%)",
+        "30",
+        "25",
+        "20",
+        "15",
+        "10",
+        "5",
+        "2000",
+        "2005",
+        "2010",
+        "2015",
+        "2020"
+      ]
+    }
+  },
+  {
+    "image": "_126299646_14capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/FCBB/production/_126299646_14capture.jpg.webp",
+    "meta": {
+      "title": "Income inequality, India, 1922-2021",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Income inequality, India, 1922-2021",
+        "Share (%)",
+        "25",
+        "22.5",
+        "20",
+        "17.5",
+        "15",
+        "12.5",
+        "10",
+        "7.5",
+        "Share of total (%)",
+        "1940",
+        "1960",
+        "1980",
+        "2000",
+        "2020"
+      ]
+    }
+  },
+  {
+    "image": "_126299648_15capture.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/14ADB/production/_126299648_15capture.jpg.webp",
+    "meta": {
+      "title": "The rise of inequality around the world, 1980-2018",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "The rise of inequality around the world, 1980-2018",
+        "60%",
+        "55%",
+        "50%",
+        "45%",
+        "40%",
+        "35%",
+        "30%",
+        "25%",
+        "20%",
+        "Top decile share of total income",
+        "India",
+        "United States",
+        "Russia",
+        "China",
+        "Europe",
+        "1980",
+        "1985",
+        "1990",
+        "1995",
+        "2000",
+        "2005",
+        "2010",
+        "2015"
+      ]
+    }
+  },
+  {
+    "image": "_113970328_untitled.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/14183/production/_113970328_untitled.png.webp",
+    "meta": {
+      "title": "வெற்றியைத் தீர்மானிக்கும் மாகாணங்கள் எவை?",
+      "chart_type": [
+        "HexMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "வாக்குகள்",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "வெற்றியைத் தீர்மானிக்கும்",
+        "மாகாணங்கள் எவை?",
+        "எலக்டோரல் காலேஜ் வாக்குகள் எவ்வளவு",
+        "அதிகமோ அதற்கேற்ப அறுகோணம் பெரிதாக",
+        "இருக்கும்.",
+        "நியூ ஹாம்ப்ஷைரில் 4 வாக்குகள் உள்ளன.",
+        "மின்னசோட்டா",
+        "நியூ ஹாம்ப்ஷைர்",
+        "விஸ்கான்சின்",
+        "மிச்சிகன்",
+        "பென்சில்வேனியா",
+        "ஐயோவா",
+        "ஓஹியோ",
+        "விர்ஜினியா",
+        "வட கரோலினா",
+        "நெவாடா",
+        "அரிசோனா",
+        "ஜார்ஜியா",
+        "டெக்சாஸ்",
+        "ஃப்ளோரிடா",
+        "டெக்சாசில் 38",
+        "வாக்குகள் உள்ளன.",
+        "ஆதாரம்:",
+        "Real Clear Politics",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "_114609613_trump_corona_tamil_1609_640-nc.png.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7BCA/production/_114609613_trump_corona_tamil_1609_640-nc.png.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Tamil",
+          "secondary_languages": [
+            "Tamil"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "கொரோனாவை கையாண்ட விதம்",
+        "பெரும்பான்மை மக்களுக்கு அதிருப்தி",
+        "கொரோனா தொற்றை டிரம்ப் சமாளிக்கும் விதத்தை",
+        "எத்தனை சதவீதம் பேர் ஏற்கிறார்கள்?",
+        "100 %",
+        "75 %",
+        "குடியரசுக் கட்சியினர்",
+        "50 %",
+        "மொத்த அமெரிக்கர்கள்",
+        "25 %",
+        "ஜனநாயக கட்சியினர்",
+        "0",
+        "ஏப்ரல்",
+        "மே",
+        "ஜூன்",
+        "ஜூலை",
+        "ஆக",
+        "செப்",
+        "ஆதாரம்",
+        "ABC News",
+        "Ipsos",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "26222060-b05a-11ee-8f07-bbfdfa890097.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/641/cpsprodpb/681f/live/26222060-b05a-11ee-8f07-bbfdfa890097.jpg.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "FlowMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimals are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "கடல் மைல்கள்",
+            "distance"
+          ],
+          [
+            "கி.மீ.",
+            "time"
+          ],
+          [
+            "நாட்கள்",
+            "speed"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FF0000",
+            "meaning": "Route around the Cape of Good Hope"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "BBC"
+      },
+      "notes": [],
+      "extracted_text": [
+        "செங்கடலைத் தவிர்த்துச் செல்லும்",
+        "மாற்று வழி",
+        "செங்கடல்/சூயஸ்",
+        "கால்வாய் வழி",
+        "10,000 கடல் மைல்கள்",
+        "(18,520 கி.மீ.)",
+        "25.5 நாட்கள்*",
+        "நன்னம்பிக்கை முனையைச்",
+        "சுற்றிச் செல்லும் வழி",
+        "13,500 கடல் மைல்கள்",
+        "(25,002 கி.மீ.)",
+        "34 நாட்கள்*",
+        "*கப்பலின் சராசரி வேகம் 16.43 கடல் மைல்கள் என்ற அடிப்படையில்",
+        "நெதர்லாந்து",
+        "பப் அல்-மந்தப்",
+        "ஜலசந்தி",
+        "இஸ்ரேல்",
+        "செங்கடல்",
+        "தைவான்",
+        "நன்னம்பிக்கை முனை",
+        "தரவு: Veson Nautical",
+        "BBC"
+      ]
+    }
+  },
+  {
+    "image": "fe5dc2e0-c8ca-11ed-95f8-0154daa64c44.jpg.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/d9e1/live/fe5dc2e0-c8ca-11ed-95f8-0154daa64c44.jpg.webp",
+    "meta": {
+      "title": "Billion tonnes of CO2-equivalent emissions (GtCO2e/yr)",
+      "chart_type": [
+        "LineChart",
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "billion"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers, percentages, and decimal numbers are present.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "GtCO2e/yr",
+            "emissions"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FF0000",
+            "meaning": "Implemented policies"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Billion tonnes of CO2-equivalent emissions (GtCO2e/yr)",
+        "80",
+        "60",
+        "40",
+        "20",
+        "net zero",
+        "0",
+        "-20",
+        "2019 emissions were",
+        "12% higher than 2010",
+        "Nationally Determined",
+        "Contributions (NDCs)",
+        "range in 2030",
+        "Implemented policies",
+        "Limit warming to 20C",
+        "Limit warming to 1.5C",
+        "2000",
+        "2020",
+        "2040",
+        "2060",
+        "2080",
+        "2100",
+        "Years"
+      ]
+    }
+  },
+  {
+    "image": "hindutamil_import_hindu_uploads_news_2016_05_20_xlarge_80415.avif",
+    "source": "https://media.assettype.com/hindutamil%2Fimport%2Fhindu%2Fuploads%2Fnews%2F2016%2F05%2F20%2Fxlarge%2F80415.jpg?w=1200&auto=format%2Ccompress&fit=max",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "WaffleChart",
+        "Table",
+        "TextTable"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "2016 புதிய சட்டப்பேரவையில் கட்சிகளின் பலம்",
+        "131",
+        "அதிமுக",
+        "1",
+        "தனியரசு",
+        "1",
+        "கருணாஸ்",
+        "1",
+        "அன்சாரி",
+        "134",
+        "89",
+        "திமுக",
+        "8",
+        "காங்கிரஸ்",
+        "1",
+        "இ.யூ.மு.லீக்",
+        "98",
+        "232",
+        "அரவக்குறிச்சி, தஞ்சை",
+        "தொகுதிகள் நீங்கலாக.",
+        "2011 சட்டப்பேரவையில்",
+        "கட்சிகளின் பலம்",
+        "அதிமுக",
+        "146",
+        "தேமுதிக",
+        "29",
+        "இந்திய கம்யூனிஸ்ட் கட்சி",
+        "9",
+        "மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி",
+        "10",
+        "மனிதநேய மக்கள் கட்சி",
+        "2",
+        "புதிய தமிழகம் கட்சி",
+        "2",
+        "பார்வர்டு பிளாக்",
+        "1",
+        "சமத்துவ மக்கள் கட்சி",
+        "2",
+        "இந்திய குடியரசுக் கட்சி",
+        "1",
+        "கொங்கு இளைஞர் பேரவை",
+        "1",
+        "திமுக",
+        "23",
+        "காங்கிரஸ்",
+        "5",
+        "LATIDIN",
+        "3"
+      ]
+    }
+  },
+  {
+    "image": "hindutamil_import_hindu_uploads_news_2020_11_22_xlarge_603897.avif",
+    "source": "https://media.assettype.com/hindutamil%2Fimport%2Fhindu%2Fuploads%2Fnews%2F2020%2F11%2F22%2Fxlarge%2F603897.jpg?w=1200&auto=format%2Ccompress&fit=max",
+    "meta": {
+      "title": "amudram",
+      "chart_type": [
+        "SymbolMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "Mixed",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Tamil",
+            "Telugu"
+          ],
+          "secondary_scripts": [
+            "Tamil",
+            "Telugu"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": true,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "amudram",
+        "ಸಮುದ್ರಂ",
+        "Ramakuppas",
+        "రామకువుం",
+        "Guragχτά",
+        "1304",
+        "MO",
+        "43",
+        "Nalagampalli",
+        "Sanganapalli",
+        "450",
+        "Kuppam",
+        "కుప్సమ్",
+        "Vade",
+        "Vani",
+        "adi",
+        "Mallanuru",
+        "మల్లనురు",
+        "ishnagiri",
+        "ஷ்ணகிரி",
+        "Bargur",
+        "பார்க்கர்",
+        "hur",
+        "Peripattinam",
+        "பரிபட்டிணம்",
+        "Mathur",
+        "மதார்",
+        "Pochampal",
+        "mangalam",
+        "பொசம்பள்ளி",
+        "Samalpatti",
+        "சாமல்பட்டி",
+        "Uthangarai",
+        "Jawadhu Pas",
+        "பள்ளிகொண்டா",
+        "வேலூர்",
+        "шек",
+        "அகரம்",
+        "Odugathur",
+        "ஓடுத்தூர்",
+        "Melarsapatt",
+        "Kanwambad",
+        "கணியம்பாடி",
+        "124",
+        "Kannamangalams",
+        "கண்ணமங்கலம்",
+        "Πεωήσικο",
+        "Alangayam",
+        "ஆலங்காயம்",
+        "Jamunamarathur Jawadhu",
+        "Σαρωτιювала",
+        "Polur RF",
+        "Padavedu",
+        "படவேடு",
+        "Kalambur",
+        "களம்பூர்",
+        "Athipet",
+        "OCULL",
+        "eu",
+        "Polut",
+        "Currayt",
+        "Viralur",
+        "விரலூர்",
+        "Roond",
+        "பூண்டி",
+        "Fatal",
+        "Pudupalayam",
+        "புதுப்பாளை",
+        "Chengam",
+        "செங்கம்",
+        "Non Fatal",
+        "Police Station"
+      ]
+    }
+  },
+  {
+    "image": "hindutamil_import_hindu_uploads_news_2017_05_10_xlarge_217531.avif",
+    "source": "https://media.assettype.com/hindutamil%2Fimport%2Fhindu%2Fuploads%2Fnews%2F2017%2F05%2F10%2Fxlarge%2F217531.jpg?w=1200&auto=format%2Ccompress&fit=max",
+    "meta": {
+      "title": "உலகளவில் பத்திரிகை சுதந்திரம் - 2017",
+      "chart_type": [
+        "ChoroplethMap"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "Tamil"
+          ],
+          "secondary_scripts": [
+            "Tamil"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FFFF00",
+            "meaning": "சிறப்பாக உள்ளது (Good)"
+          },
+          {
+            "color_hex": "#FFD700",
+            "meaning": "ஓரளவு சிறப்பு (Fairly good)"
+          },
+          {
+            "color_hex": "#FF0000",
+            "meaning": "மோசம் (Bad)"
+          },
+          {
+            "color_hex": "#000000",
+            "meaning": "மிக மோசம் (Very bad)"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "bottom",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "REPORTERS WITHOUT BORDERS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "CANADA",
+        "UNITED STATES",
+        "RUSSIA",
+        "CHINA",
+        "• சிறப்பாக உள்ளது",
+        "ஓரளவு சிறப்பு",
+        "பிரச்சினைக்குரியது",
+        "மோசம்",
+        "• மிக மோசம்",
+        "BRAZIL",
+        "REPORTERS",
+        "WITHOUT BORDERS",
+        "AUSTRALIA",
+        "உலகளவில் பத்திரிகை சுதந்திரம் - 2017",
+        "www.rsf.org"
+      ]
+    }
+  },
+  {
+    "image": "140407154530_rwanda_genocide_624_tamil.gif.webp",
+    "source": "https://ichef.bbci.co.uk/ace/ws/624/amz/worldservice/live/assets/images/2014/04/07/140407154530_rwanda_genocide_624_tamil.gif.webp",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "FlowMap",
+        "Map"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "கிமீ",
+            "distance"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "ருவாண்டா இனப்படுகொலையால் பிராந்திய நாடுகளில் ஏற்பட்ட தாக்கங்கள்",
+        "1994: துத்ஸி இனத்து ஆர் பி எஃப் கிளர்ச்சிக்காரர்கள்",
+        "யுகாண்டாவிலிருந்து ருவாண்டா மீது படையெடுத்தனர்",
+        "1994: ருவாண்டாவின் அதிகாரத்தை ஆர் பி எஃப்",
+        "கிளர்ச்சிக்காரர்கள் கைப்பற்ற நான்கு மில்லியன் ஹூட்டூ",
+        "இனத்தார் அச்சயம் ஸேர் என்று அழைக்கப்பட்ட காங்கோ",
+        "ஜனநாயகக் குடியரசுக்குள் தப்பியோடினர்",
+        "1994: ஆயுதக் குழுக்களை தேடி அகதிகளைப் பின்தொடர்ந்த",
+        "ஆர் பி எஃப் சிப்பாய்கள் இனப்படுகொலையில் ஈடுபட்டனர்",
+        "1996-97: ருவாண்டா ஆதரவு பெற்ற கிளர்ச்சிக்காரர்கள்",
+        "காங்கோ ஜனநாயகக் குடியரசைக் கடந்து வந்து,",
+        "கின்ஷாஸாவில் அதிகாரத்தைக் கைப்பற்றினர்",
+        "200 கிமீ",
+        "கின்ஷாஸா",
+        "கின்சாங்கனி",
+        "காங்கோ ஜனநாயகக் குடியரசு",
+        "யுகாண்டா",
+        "ருவாண்டா",
+        "கிகாலி",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  },
+  {
+    "image": "dailythanthi_import_h-upload_2025_09_15_44511440-0.avif",
+    "source": "https://media.assettype.com/dailythanthi%2Fimport%2Fh-upload%2F2025%2F09%2F15%2F44511440-0.webp?w=1200&auto=format%2Ccompress&fit=max",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "Other"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Tamil",
+          "primary_script": "Tamil",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": ".",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "மறுமலர்ச்சி திராவிட முன்னேற்றக் கழகம்",
+        "பேரறிஞர்",
+        "அண்ணா",
+        "117வது",
+        "பிறந்தநாள் விழா மாநாடு",
+        "திரு",
+        "15.9.25"
+      ]
+    }
+  }
+]

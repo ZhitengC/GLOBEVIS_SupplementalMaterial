@@ -1,0 +1,1199 @@
+[
+  {
+    "image": "bihar111_1598205190.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/bihar111_1598205190.jpg",
+    "meta": {
+      "title": "पिछले 3 विधानसभा चुनावों के परिणाम",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "सीटें",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "पिछले 3 विधानसभा चुनावों के परिणाम",
+        "120",
+        "115",
+        "100",
+        "88",
+        "91",
+        "80",
+        "71",
+        "60",
+        "55",
+        "54",
+        "53",
+        "40",
+        "27",
+        "22",
+        "20",
+        "9",
+        "4",
+        "00",
+        "2005",
+        "2010",
+        "2015",
+        "भाजपा",
+        "जदयू",
+        "राजद",
+        "कांग्रेस",
+        "दैनिक",
+        "भास्कर"
+      ]
+    }
+  },
+  {
+    "image": "bihar_1598201065.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/bihar_1598201065.jpg",
+    "meta": {
+      "title": "जिन सेक्टर्स में अपने बजट का सबसे ज्यादा हिस्सा खर्च करता है बिहार",
+      "chart_type": [
+        "BarChart",
+        "Map"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक"
+      },
+      "notes": [],
+      "extracted_text": [
+        "जिन सेक्टर्स में अपने बजट का सबसे",
+        "ज्यादा हिस्सा खर्च करता है बिहार",
+        "20",
+        "19.3%",
+        "15-",
+        "12.8%",
+        "10-",
+        "5.2%",
+        "4.9%",
+        "5-",
+        "3.5%",
+        "0-",
+        "एजुकेशन",
+        "रूरल",
+        "हेल्थ",
+        "पुलिस",
+        "एग्रीकल्चर",
+        "डेवलपमेंट",
+        "दैनिक"
+      ]
+    }
+  },
+  {
+    "image": "top-5_1598201097.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/top-5_1598201097.jpg",
+    "meta": {
+      "title": "भारत के 5 सबसे गरीब राज्य",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 5,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 3,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक"
+      },
+      "notes": [],
+      "extracted_text": [
+        "भारत के 5 सबसे गरीब राज्य",
+        "गरीबी %",
+        "39.93",
+        "40-",
+        "36.96",
+        "36.89",
+        "34.67",
+        "33.74",
+        "20-",
+        "0-",
+        "छत्तीसगढ़",
+        "झारखंड",
+        "मणिपुर",
+        "अरुणाचल",
+        "प्रदेश",
+        "बिहार",
+        "प्लानिंग कमीशन के 2012 के डेटा के मुताबिक।",
+        "दैनिक"
+      ]
+    }
+  },
+  {
+    "image": "gdp-5-states_1598201140.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/gdp-5-states_1598201140.jpg",
+    "meta": {
+      "title": "सबसे ज्यादा जीडीपी वाले टॉप 5 राज्य",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are presented as decimals (e.g., 29.79) and also with magnitude words (e.g., 5.72 लाख करोड़).",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "रु",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "सबसे ज्यादा जीडीपी वाले टॉप 5 राज्य",
+        "29.79",
+        "18.54",
+        "17.01",
+        "15.88",
+        "15.79",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "गुजरात",
+        "कर्नाटक",
+        "उत्तर प्रदेश",
+        "* बिहार 5.72 लाख करोड़ रु के साथ 15वें स्थान पर है",
+        "आंकड़े 2019-20 के आधार पर। जीडीपी (लाख करोड़ रु में)",
+        "दैनिक",
+        "भास्कर"
+      ]
+    }
+  },
+  {
+    "image": "bihar-gdp-1_1598201170.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/bihar-gdp-1_1598201170.jpg",
+    "meta": {
+      "title": "पिछले 15 साल में कितनी बदली बिहार की जीडीपी",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": "रु",
+        "currency_symbol_placement": [
+          "suffix"
+        ],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimal numbers are present.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "-",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "लाख करोड़ रु",
+            "currency"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक"
+      },
+      "notes": [],
+      "extracted_text": [
+        "पिछले 15 साल में",
+        "कितनी बदली बिहार की जीडीपी",
+        "2006 - 07",
+        "1.0",
+        "2013-14",
+        "3.4",
+        "2007- 08",
+        "1.13",
+        "2014-15",
+        "4.0",
+        "2008 -09",
+        "1.4",
+        "2105 -16",
+        "3.7",
+        "2009- 10",
+        "1.6",
+        "2016-17",
+        "4.2",
+        "2010 - 11",
+        "2.0",
+        "2017-18",
+        "4.8",
+        "2011 -12",
+        "2.4",
+        "2018-19",
+        "5.5",
+        "2012 -13",
+        "2.9",
+        "2019 - 20",
+        "5.73",
+        "2020- 21",
+        "6.86",
+        "(जीडीपी लाख करोड़ रु में)",
+        "दैनिक"
+      ]
+    }
+  },
+  {
+    "image": "bihar-crime_1598201195.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/bihar-crime_1598201195.jpg",
+    "meta": {
+      "title": "बिहार में अपराध की रफ्तार",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and decimals are used, along with numeric abbreviations.",
+        "decimal_usage": true,
+        "large_number_scaling": true
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "लाख",
+            "count"
+          ],
+          [
+            "हजार",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "बिहार में अपराध की रफ्तार",
+        "2.75 लाख",
+        "2.50 लाख",
+        "2.25 लाख",
+        "2 लाख",
+        "1.75 लाख",
+        "1.50 लाख",
+        "1.25 लाख",
+        "1 लाख",
+        "75 हजार",
+        "0.95",
+        "1.05",
+        "1.38",
+        "1.95",
+        "2.69",
+        "2001",
+        "2005",
+        "2010",
+        "2015",
+        "2019",
+        "दैनिक",
+        "भास्कर",
+        "सोर्स : बिहार पुलिस"
+      ]
+    }
+  },
+  {
+    "image": "bihar-crime2_1598203944.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2020/08/23/bihar-crime2_1598203944.jpg",
+    "meta": {
+      "title": "बलात्कार के मामले भी बढ़े",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Comma",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "बलात्कार के मामले भी बढ़े",
+        "1,450",
+        "973",
+        "1,041",
+        "795",
+        "746",
+        "1500",
+        "1250",
+        "1000",
+        "750",
+        "500",
+        "2001",
+        "2005",
+        "2010",
+        "2015",
+        "2019",
+        "दैनिक",
+        "भास्कर",
+        "सोर्स : बिहार पुलिस"
+      ]
+    }
+  },
+  {
+    "image": "2025-26_1770892135.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/02/12/2025-26_1770892135.png",
+    "meta": {
+      "title": "भास्कर",
+      "chart_type": [
+        "LineChart",
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 10,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 8,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "दैनिक",
+        "भास्कर",
+        "वित्त वर्ष 2025-26",
+        "में रिटेल महंगाई",
+        "3.5",
+        "3.16%",
+        "3.0",
+        "2.82%",
+        "2.5",
+        "2.07%",
+        "2.0",
+        "2.10%",
+        "1.44%",
+        "1.33%",
+        "1.5",
+        "1.61%",
+        "1.0",
+        "0.5",
+        "0.71%",
+        "0.25%",
+        "0.0",
+        "अप्रैल",
+        "मई",
+        "जून",
+        "जुलाई",
+        "अगस्त",
+        "सितंबर",
+        "अक्टूबर",
+        "नवंबर",
+        "दिसंबर"
+      ]
+    }
+  },
+  {
+    "image": "2024-25-11733998635_1736682329.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2025/01/12/2024-25-11733998635_1736682329.jpg",
+    "meta": {
+      "title": "वित्त वर्ष 2024-25 में रिटेल महंगाई",
+      "chart_type": [
+        "LineChart",
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "YM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "वित्त वर्ष 2024-25 में रिटेल महंगाई",
+        "4.83%",
+        "4.75%",
+        "5.08%",
+        "3.54%",
+        "3.65%",
+        "6.21%",
+        "5.49%",
+        "अप्रैल",
+        "मई",
+        "जून",
+        "जुलाई",
+        "अगस्त",
+        "सितंबर",
+        "अक्टूबर"
+      ]
+    }
+  },
+  {
+    "image": "121736504922_1736687842.webp",
+    "source": "https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2025/01/12/121736504922_1736687842.jpg",
+    "meta": {
+      "title": "मार्केट का हाल",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Hindi",
+          "primary_script": "Devanagari",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers, decimals, and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#E60000",
+            "meaning": "decrease"
+          },
+          {
+            "color_hex": "#008000",
+            "meaning": "increase"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "दैनिक भास्कर"
+      },
+      "notes": [],
+      "extracted_text": [
+        "दैनिक",
+        "भास्कर",
+        "मार्केट",
+        "का हाल",
+        "सेंसेक्स",
+        "77,378",
+        "241 (0.31%)",
+        "निफ्टी",
+        "23,431",
+        "95 (0.4%)",
+        "10 जनवरी 2024",
+        "BSE मिड कैप",
+        "44,240",
+        "962 (2.13%)",
+        "BSE स्मॉल कैप",
+        "52,722",
+        "1298 (2.40%)",
+        "निफ्टी",
+        "टॉप गेनर",
+        "शेयर",
+        "करंट प्राइस",
+        "कितना बढ़ा",
+        "चेंज%",
+        "TCS",
+        "4,265.00",
+        "226.15",
+        "5.60%",
+        "टेक महिंद्रा",
+        "1,701.80",
+        "59.00",
+        "3.59%",
+        "HCL टेक",
+        "1,997.10",
+        "62.30",
+        "3.22%",
+        "निफ्टी",
+        "टॉप लूजर",
+        "शेयर",
+        "करंट प्राइस",
+        "कितना घटा",
+        "चेंज%",
+        "श्रीराम फाइनेंस",
+        "532.15",
+        "29.80",
+        "5.30%",
+        "इंडसइंड बैंक",
+        "938.80",
+        "42.10",
+        "4.29%",
+        "अडाणी",
+        "एंटरप्राइजेज",
+        "2,380.10",
+        "97.80",
+        "3.95%"
+      ]
+    }
+  }
+]

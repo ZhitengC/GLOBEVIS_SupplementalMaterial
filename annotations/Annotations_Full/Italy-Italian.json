@@ -1,0 +1,5713 @@
+[
+  {
+    "image": "Schermata-2024-04-08-alle-09.26.30.png",
+    "source": "https://feliciapelagalli.nova100.ilsole24ore.com/wp-content/uploads/sites/71/2024/04/Schermata-2024-04-08-alle-09.26.30.png",
+    "meta": {
+      "title": "Amici e Internet (15-17 anni)",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Numbers are shown as integers and percentages.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Amici e Internet (15-17 anni)",
+        "Amici",
+        "Internet",
+        "100",
+        "75",
+        "72%",
+        "62%",
+        "54%",
+        "50",
+        "93%",
+        "39%",
+        "31%",
+        "25",
+        "12%",
+        "0",
+        "2005",
+        "2010",
+        "2015",
+        "2020",
+        "Elaborazione su dati ISTAT"
+      ]
+    }
+  },
+  {
+    "image": "Schermata-2024-04-08-alle-09.21.02.png",
+    "source": "https://feliciapelagalli.nova100.ilsole24ore.com/wp-content/uploads/sites/71/2024/04/Schermata-2024-04-08-alle-09.21.02.png",
+    "meta": {
+      "title": "Incontra Amici (15-17 anni)",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Incontra Amici (15-17 anni)",
+        "80",
+        "72%",
+        "60",
+        "Amici",
+        "40",
+        "20",
+        "0",
+        "2005",
+        "Elaborazione su dati ISTAT",
+        "62%",
+        "39%",
+        "31%",
+        "2010",
+        "2015",
+        "2020"
+      ]
+    }
+  },
+  {
+    "image": "Schermata-2024-04-08-alle-09.24.43-1024x586.png",
+    "source": "https://feliciapelagalli.nova100.ilsole24ore.com/wp-content/uploads/sites/71/2024/04/Schermata-2024-04-08-alle-09.24.43-1024x586.png",
+    "meta": {
+      "title": "Amici e Internet (15-17 anni)",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and whole numbers are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Amici e Internet (15-17 anni)",
+        "Amici",
+        "Internet",
+        "100",
+        "93%",
+        "75",
+        "72%",
+        "62%",
+        "54%",
+        "50",
+        "39%",
+        "31%",
+        "25",
+        "12%",
+        "0",
+        "2005",
+        "Elaborazione su dati ISTAT",
+        "2010",
+        "2015",
+        "2020"
+      ]
+    }
+  },
+  {
+    "image": "Schermata-2024-04-08-alle-09.23.08.png",
+    "source": "https://feliciapelagalli.nova100.ilsole24ore.com/wp-content/uploads/sites/71/2024/04/Schermata-2024-04-08-alle-09.23.08.png",
+    "meta": {
+      "title": "Incontra Amici (11-14 anni)",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Incontra Amici (11-14 anni)",
+        "80",
+        "71%",
+        "60",
+        "59%",
+        "40",
+        "Amici",
+        "34%",
+        "30%",
+        "20",
+        "0",
+        "2005",
+        "2010",
+        "2015",
+        "2020",
+        "Elaborazione su dati ISTAT"
+      ]
+    }
+  },
+  {
+    "image": "Schermata-2024-04-08-alle-09.29.24-1024x860.png",
+    "source": "https://feliciapelagalli.nova100.ilsole24ore.com/wp-content/uploads/sites/71/2024/04/Schermata-2024-04-08-alle-09.29.24-1024x860.png",
+    "meta": {
+      "title": "High Psychological Distress by Sex,",
+      "chart_type": [
+        "LineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and years are present.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "High Psychological Distress by Sex,",
+        "Italy (Ages 11-15)",
+        "40%",
+        "30%",
+        "Girls",
+        "(31.9% increase since",
+        "2002-10)",
+        "20%",
+        "Boys",
+        "(22.3% increase since",
+        "2002-10)",
+        "10%",
+        "0%",
+        "2002",
+        "2006",
+        "2010",
+        "2014",
+        "2018"
+      ]
+    }
+  },
+  {
+    "image": "grafico-ue28.jpg",
+    "source": "https://www.econopoly.ilsole24ore.com/wp-content/uploads/sites/91/2018/03/grafico-ue28.jpg",
+    "meta": {
+      "title": "Grafico 1. UE28: individui che hanno utilizzato l'internet banking",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 28,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "decreasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Grafico 1. UE28: individui che hanno utilizzato l'internet banking",
+        "Dati in percentuale della popolazione relativi al 2017",
+        "90",
+        "89",
+        "87",
+        "86",
+        "79",
+        "76",
+        "68",
+        "67",
+        "62",
+        "61",
+        "58",
+        "57",
+        "57",
+        "56",
+        "56",
+        "52",
+        "51",
+        "49",
+        "46",
+        "40",
+        "39",
+        "38",
+        "33",
+        "31",
+        "28",
+        "25",
+        "Danimarca",
+        "Olanda",
+        "Finlandia",
+        "Svezia",
+        "Estonia",
+        "Lussemburgo",
+        "UK",
+        "Belgio",
+        "Francia",
+        "Lettonia",
+        "Irlanda",
+        "Rep. Ceca",
+        "Austria",
+        "Germania",
+        "Lituania",
+        "Area euro",
+        "Slovacchia",
+        "Malta",
+        "Spagna",
+        "Polonia",
+        "Slovenia",
+        "Ungheria",
+        "Croazia",
+        "Italia",
+        "Cipro",
+        "Grecia",
+        "Romania",
+        "Bulgaria",
+        "- 2016"
+      ]
+    }
+  },
+  {
+    "image": "tabella-istruzione.jpg",
+    "source": "https://www.econopoly.ilsole24ore.com/wp-content/uploads/sites/91/2018/03/tabella-istruzione.jpg",
+    "meta": {
+      "title": "Livello di istruzione",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Livello di istruzione",
+        "Basso",
+        "Medio",
+        "Alto",
+        "Germania",
+        "16-24",
+        "2",
+        "8",
+        "0",
+        "età",
+        "25-54",
+        "10",
+        "4",
+        "3",
+        "55-74",
+        "0",
+        "-4",
+        "-9",
+        "Francia",
+        "16-24",
+        "0",
+        "13",
+        "9",
+        "età",
+        "25-54",
+        "17",
+        "6",
+        "4",
+        "55-74",
+        "13",
+        "10",
+        "7",
+        "Italia",
+        "16-24",
+        "-18",
+        "-26",
+        "-27",
+        "età",
+        "25-54",
+        "-16",
+        "-18",
+        "-17",
+        "55-74",
+        "-9",
+        "-10",
+        "-10",
+        "Spagna",
+        "16-24",
+        "-12",
+        "-14",
+        "-14",
+        "età",
+        "25-54",
+        "-1",
+        "-5",
+        "-4",
+        "55-74",
+        "-6",
+        "4",
+        "0"
+      ]
+    }
+  },
+  {
+    "image": "female-gender-gap-Eurostat-1024x1024.jpg",
+    "source": "https://alleyoop.ilsole24ore.com/wp-content/uploads/sites/90/2025/07/female-gender-gap-Eurostat-1024x1024.jpg",
+    "meta": {
+      "title": "Gender employment gap, 2024",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "English",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 28,
+          "value_progression": "none",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "Yes",
+        "logo": "Yes",
+        "logo_text_or_brand": "eurostat"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Gender employment gap, 2024",
+        "(age group 20-64, in percentage points)",
+        "EU",
+        "10.0",
+        "Finland",
+        "0.7",
+        "Lithuania",
+        "1.4",
+        "Estonia",
+        "1.7",
+        "Latvia",
+        "3.3",
+        "Sweden",
+        "4.0",
+        "Luxembourg",
+        "5.5",
+        "Portugal",
+        "5.7",
+        "France",
+        "5.9",
+        "Croatia",
+        "5.9",
+        "Slovenia",
+        "6.0",
+        "Denmark",
+        "6.5",
+        "Austria",
+        "6.9",
+        "Germany",
+        "7.1",
+        "Bulgaria",
+        "7.2",
+        "Netherlands",
+        "7.6",
+        "Hungary",
+        "7.9",
+        "Belgium",
+        "8.0",
+        "Slovakia",
+        "8.9",
+        "Ireland",
+        "9.3",
+        "Spain",
+        "9.8",
+        "Cyprus",
+        "10.0",
+        "Poland",
+        "11.6",
+        "Czechia",
+        "12.6",
+        "Malta",
+        "13.4",
+        "Romania",
+        "18.1",
+        "Greece",
+        "18.8",
+        "Italy",
+        "19.4",
+        "0",
+        "5",
+        "10",
+        "15",
+        "20",
+        "Spain and France: definition differs.",
+        "The indicator measures the difference between the employment rates of men and women.",
+        "eurostat"
+      ]
+    }
+  },
+  {
+    "image": "Istat-ricambio.jpg",
+    "source": "https://www.econopoly.ilsole24ore.com/wp-content/uploads/sites/91/2023/05/Istat-ricambio.jpg",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 23,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 5,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": true,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "200,0",
+        "150,0",
+        "100,0",
+        "50,0",
+        "0,0",
+        "1977",
+        "1979",
+        "1981",
+        "1983",
+        "1985",
+        "1987",
+        "1989",
+        "1991",
+        "1993",
+        "1995",
+        "1997",
+        "1999",
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017",
+        "2019",
+        "2021",
+        "Indice di ricambio della popolazione attiva",
+        "Indice di struttura della popolazione attiva"
+      ]
+    }
+  },
+  {
+    "image": "bemresearch_grafico1.png",
+    "source": "https://www.econopoly.ilsole24ore.com/wp-content/uploads/sites/91/2018/07/bemresearch_grafico1.png",
+    "meta": {
+      "title": null,
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 28,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "decreasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "2016",
+        "89",
+        "84",
+        "83",
+        "79",
+        "78",
+        "75",
+        "69",
+        "68",
+        "62",
+        "55",
+        "55",
+        "53",
+        "53",
+        "52",
+        "50",
+        "49",
+        "49",
+        "48",
+        "47",
+        "47",
+        "47",
+        "46",
+        "46",
+        "45",
+        "42",
+        "32",
+        "31",
+        "25",
+        "21",
+        "9",
+        "Danimarca",
+        "Svezia",
+        "Finlandia",
+        "Olanda",
+        "Estonia",
+        "Lussemburgo",
+        "Lettonia",
+        "Francia",
+        "Austria",
+        "Irlanda",
+        "Belgio",
+        "Area euro",
+        "Germania",
+        "Spagna",
+        "Slovenia",
+        "Unione Europea",
+        "Regno Unito",
+        "Lituania",
+        "Slovacchia",
+        "Grecia",
+        "Ungheria",
+        "Portogallo",
+        "Repubblica Ceca",
+        "Malta",
+        "Cipro",
+        "Croazia",
+        "Polonia",
+        "Italia",
+        "Bulgaria",
+        "Romania"
+      ]
+    }
+  },
+  {
+    "image": "bemresearch_tabella1.png",
+    "source": "https://www.econopoly.ilsole24ore.com/wp-content/uploads/sites/91/2018/07/bemresearch_tabella1.png",
+    "meta": {
+      "title": "Performance",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#008000",
+            "meaning": "increase"
+          },
+          {
+            "color_hex": "#FF0000",
+            "meaning": "decrease"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Performance",
+        "online",
+        "Prestazioni siti",
+        "web",
+        "Social network",
+        "App trasporti",
+        "pubblici locali",
+        "Indice",
+        "rank",
+        "Δrank",
+        "Indice",
+        "rank",
+        "Δrank",
+        "Indice",
+        "rank",
+        "Δrank",
+        "Indice",
+        "rank",
+        "Δrank",
+        "Bologna",
+        "100",
+        "(1)",
+        "0",
+        "59",
+        "(14)",
+        "0",
+        "100",
+        "(1)",
+        "0",
+        "46",
+        "(3)",
+        "0",
+        "Genova",
+        "95",
+        "(2)",
+        "11",
+        "98",
+        "(2)",
+        "8",
+        "44",
+        "(10)",
+        "-3",
+        "30",
+        "(7)",
+        "4",
+        "Ancona",
+        "94",
+        "(3)",
+        "5",
+        "100",
+        "(1)",
+        "3",
+        "29",
+        "(14)",
+        "1",
+        "41",
+        "(4)",
+        "2",
+        "Bari",
+        "89",
+        "(4)",
+        "-1",
+        "91",
+        "(3)",
+        "-2",
+        "23",
+        "(15)",
+        "1",
+        "52",
+        "(2)",
+        "7",
+        "Firenze",
+        "88",
+        "(5)",
+        "1",
+        "81",
+        "(4)",
+        "4",
+        "68",
+        "(3)",
+        "0",
+        "15",
+        "(14)",
+        "0",
+        "Trieste",
+        "81",
+        "(6)",
+        "-2",
+        "74",
+        "(7)",
+        "-2",
+        "53",
+        "(4)",
+        "1",
+        "23",
+        "(12)",
+        "-4",
+        "Venezia",
+        "80",
+        "(7)",
+        "4",
+        "77",
+        "(6)",
+        "0",
+        "49",
+        "(6)",
+        "2",
+        "20",
+        "(13)",
+        "-3",
+        "Roma",
+        "80",
+        "(8)",
+        "1",
+        "60",
+        "(13)",
+        "-1",
+        "85",
+        "(2)",
+        "0",
+        "8",
+        "(16)",
+        "0",
+        "Torino",
+        "79",
+        "(9)",
+        "1",
+        "77",
+        "(5)",
+        "-2",
+        "40",
+        "(11)",
+        "2",
+        "29",
+        "(8)",
+        "7",
+        "Cagliari",
+        "75",
+        "(10)",
+        "-5",
+        "61",
+        "(12)",
+        "-3",
+        "46",
+        "(8)",
+        "2",
+        "40",
+        "(5)",
+        "-1",
+        "Milano",
+        "74",
+        "(11)",
+        "3",
+        "71",
+        "(9)",
+        "6",
+        "52",
+        "(5)",
+        "-1",
+        "11",
+        "(15)",
+        "-3",
+        "Campobasso",
+        "66",
+        "(12)",
+        "3",
+        "40",
+        "(20)",
+        "-4",
+        "7",
+        "(20)",
+        "0",
+        "100",
+        "(1)",
+        "1",
+        "Potenza",
+        "65",
+        "(13)",
+        "-1",
+        "53",
+        "(16)",
+        "2",
+        "48",
+        "(7)",
+        "-1",
+        "23",
+        "(11)",
+        "-6",
+        "Aosta",
+        "61",
+        "(14)",
+        "-12",
+        "47",
+        "(19)",
+        "-8",
+        "36",
+        "(12)",
+        "-1",
+        "38",
+        "(6)",
+        "-5",
+        "Catanzaro",
+        "60",
+        "(15)",
+        "4",
+        "68",
+        "(11)",
+        "9",
+        "35",
+        "(13)",
+        "-1",
+        "0",
+        "(18)",
+        "0",
+        "L'Aquila",
+        "56",
+        "(16)",
+        "4",
+        "72",
+        "(8)",
+        "9",
+        "18",
+        "(18)",
+        "0",
+        "0",
+        "(18)",
+        "0",
+        "Perugia",
+        "55",
+        "(17)",
+        "1",
+        "53",
+        "(15)",
+        "4",
+        "46",
+        "(9)",
+        "0",
+        "0",
+        "(18)",
+        "0",
+        "Trento",
+        "54",
+        "(18)",
+        "-11",
+        "52",
+        "(17)",
+        "-15",
+        "21",
+        "(17)",
+        "2",
+        "29",
+        "(9)",
+        "-2",
+        "Napoli",
+        "53",
+        "(19)",
+        "-2",
+        "51",
+        "(18)",
+        "-5",
+        "23",
+        "(16)",
+        "1",
+        "25",
+        "(10)",
+        "3",
+        "Palermo",
+        "51",
+        "(20)",
+        "-4",
+        "69",
+        "(10)",
+        "-3",
+        "12",
+        "(19)",
+        "-5",
+        "0",
+        "(18)",
+        "0"
+      ]
+    }
+  },
+  {
+    "image": "sond-1808_obb-k5nH-U33601935237380hhH-656x492@Corriere-Web-Sezioni.png",
+    "source": "https://images2.corriereobjects.it/methode_image/2022/08/18/Politica/Foto%20Politica%20-%20Trattate/sond-1808_obb-k5nH-U33601935237380hhH-656x492@Corriere-Web-Sezioni.png?v=20220819081251",
+    "meta": {
+      "title": "Le analisi più recenti",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Some numbers are ranges (e.g., 24-25), while others are single values (e.g., 23,6).",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "CdS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Le analisi più recenti",
+        "(dati in %)",
+        "Noto Sondaggi (17 agosto)",
+        "24-25",
+        "25",
+        "21-22",
+        "20",
+        "G.D.C. (11-14 agosto)",
+        "24,3",
+        "23,6",
+        "23,4",
+        "15",
+        "12-13",
+        "12-13",
+        "10",
+        "7-8",
+        "7-8",
+        "5",
+        "0",
+        "Fdl",
+        "Pd",
+        "Lega",
+        "M5S",
+        "Forza Italia",
+        "+Europa",
+        "Impegno civico",
+        "Azione/Italia viva",
+        "Sinistra italiana/Verdi",
+        "Noi moderati/Noi con l'Italia",
+        "Pd",
+        "12,3",
+        "10,7",
+        "2-3",
+        "2-3",
+        "1,5",
+        "1,5",
+        "7,5",
+        "5,1",
+        "Fdl",
+        "Lega",
+        "M55",
+        "Forza Italia",
+        "Italia viva/Azione",
+        "Sinistra italiana/Verdi",
+        "Noi moderati/Noi con l'italia",
+        "Italexit",
+        "+ Europa",
+        "Impegno civico",
+        "MDP Articolo1",
+        "3,4",
+        "3,2",
+        "3,1",
+        "2,3",
+        "2,2",
+        "0,9",
+        "Fdl",
+        "Pd",
+        "Demopolis (10-11 agosto)",
+        "22,8",
+        "15,2",
+        "10,6",
+        "6,8",
+        "5,3",
+        "4,1",
+        "Lega",
+        "M55",
+        "Forza Italia",
+        "Azione/Italia viva",
+        "Sinistra italiana/Verdi",
+        "CdS"
+      ]
+    }
+  },
+  {
+    "image": "Appunti01s-k5nH-U33601935237380x7H-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2022/08/18/Politica/Foto%20Politica%20-%20Trattate/Appunti01s-k5nH-U33601935237380x7H-593x443@Corriere-Web-Sezioni.jpg?v=202208190731",
+    "meta": {
+      "title": "Le analisi più recenti",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Some numbers are ranges (e.g., 24-25), others are single integers or decimals.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DM",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 6,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "CdS"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Le analisi più recenti",
+        "(dati in %)",
+        "Noto Sondaggi (17 agosto)",
+        "24-25",
+        "25",
+        "21-22",
+        "20",
+        "Fdl",
+        "Pd",
+        "Lega",
+        "G.D.C. (11-14 agosto)",
+        "Demopolis (10-11 agosto)",
+        "24.3",
+        "23,6",
+        "23,4",
+        "22,8",
+        "15",
+        "12-13",
+        "12-13",
+        "12,3",
+        "10,7",
+        "10",
+        "7-8",
+        "7-8",
+        "5",
+        "7,5",
+        "5,1",
+        "2-3",
+        "2-3",
+        "3,4",
+        "3,2",
+        "3,1",
+        "M5S",
+        "Forza Italia",
+        "Azione/Italia viva",
+        "Sinistra italiana/Verdi",
+        "Noi moderati/Noi con l'italia",
+        "1,5",
+        "1,5",
+        "+Europa",
+        "Impegno civico",
+        "Pd",
+        "M5S",
+        "Fdl",
+        "Lega",
+        "Forza Italia",
+        "Italia viva/Azione",
+        "Sinistra italiana/Verdi",
+        "Noi moderati/Noi con l'italia",
+        "Italexit",
+        "MDP Articolo 1",
+        "2,3",
+        "2,2",
+        "0,9",
+        "+ Europa",
+        "Impegno civico",
+        "Fdl",
+        "Pd",
+        "Lega",
+        "M5S",
+        "15,2",
+        "10,6",
+        "6,8",
+        "5,3",
+        "4,1",
+        "Forza Italia",
+        "Azione/Italia viva",
+        "Sinistra italiana/Verdi",
+        "CdS"
+      ]
+    }
+  },
+  {
+    "image": "italia-k9XG-U34707072984522DI-656x492@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/italia-k9XG-U34707072984522DI-656x492@Corriere-Web-Sezioni.jpg?v=20240319220159",
+    "meta": {
+      "title": "76 seggi totali",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and whole numbers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#F05060",
+            "meaning": "Partito Democratico"
+          },
+          {
+            "color_hex": "#808080",
+            "meaning": "Movimento 5 Stelle"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 10,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews."
+      },
+      "notes": [],
+      "extracted_text": [
+        "76 seggi totali",
+        "Fratelli d'Italia",
+        "27,0%",
+        "24",
+        "Partito Democratico",
+        "19,0%",
+        "17",
+        "Movimento 5 Stelle",
+        "17,4%",
+        "16",
+        "Forza Italia",
+        "8,2%",
+        "7",
+        "Lega",
+        "8,2%",
+        "Alleanza Verdi Sinistra",
+        "4,1%",
+        "7",
+        "2",
+        "2",
+        "Italia Viva",
+        "3,4%",
+        "Azione",
+        "3,0%",
+        "Più Europa",
+        "2,6%",
+        "Altro",
+        "7,1%",
+        "1",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews."
+      ]
+    }
+  },
+  {
+    "image": "italia-k0gB-U3470707298452HYE-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/italia-k0gB-U3470707298452HYE-593x443@Corriere-Web-Sezioni.jpg?v=202403192159",
+    "meta": {
+      "title": "Italia| intenzioni di voto e proiezione seggi",
+      "chart_type": [
+        "HorizontalBar",
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and whole numbers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "seggi",
+            "other"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 9,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews. Ipsos"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Italia| intenzioni di voto e proiezione seggi",
+        "76 seggi totali",
+        "Fratelli d'Italia",
+        "Partito Democratico",
+        "Movimento 5 Stelle",
+        "Forza Italia",
+        "Lega",
+        "Alleanza Verdi Sinistra",
+        "Italia Viva",
+        "Azione",
+        "Più Europa",
+        "Altro",
+        "27,0%",
+        "19,0%",
+        "17,4%",
+        "8,2%",
+        "8,2%",
+        "4,1%",
+        "3,4%",
+        "3,0%",
+        "2,6%",
+        "7,1%",
+        "24",
+        "17",
+        "16",
+        "7",
+        "7",
+        "2",
+        "2",
+        "1",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews.",
+        "Ipsos"
+      ]
+    }
+  },
+  {
+    "image": "proiezione-k9XG-U3470707298452APG-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/proiezione-k9XG-U3470707298452APG-593x443@Corriere-Web-Sezioni.jpg?v=202403192159",
+    "meta": {
+      "title": "Proiezione della composizione del prossimo Parlamento Europeo",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "seggi",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FF6666",
+            "meaning": "Socialisti e Democratici"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews."
+      },
+      "notes": [],
+      "extracted_text": [
+        "Proiezione della composizione del prossimo Parlamento Europeo",
+        "102",
+        "178",
+        "140",
+        "68",
+        "177",
+        "85",
+        "76",
+        "136",
+        "72",
+        "55",
+        "720",
+        "37",
+        "42",
+        "seggi",
+        "Marzo 2024",
+        "Proiezioni",
+        "81",
+        "59",
+        "68",
+        "49",
+        "La Sinistra",
+        "Verdi/Alleanza libera europea",
+        "Socialisti e Democratici",
+        "Renew Europe (Liberali)",
+        "Partito popolare europeo",
+        "Conservatori e Riformisti europei",
+        "Identità & Democrazia",
+        "Non iscritti",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews."
+      ]
+    }
+  },
+  {
+    "image": "pot-coalizioni-k9XG-U3470707298452iyG-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/pot-coalizioni-k9XG-U3470707298452iyG-593x443@Corriere-Web-Sezioni.jpg?v=202403192159",
+    "meta": {
+      "title": "Potenziali coalizioni del prossimo Parlamento Europeo",
+      "chart_type": [
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "seggi",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews. Ipsos"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Potenziali coalizioni del prossimo Parlamento Europeo",
+        "Grandissima coalizione",
+        "(PPE, Renew, S&D, Verdi)",
+        "Grande coalizione",
+        "(PPE, Renew, S&D)",
+        "Coalizione di centro-destra",
+        "(Renew, PPE, CRE)",
+        "La coalizione dovrebbe avere 453",
+        "seggi su 720, il che significa la",
+        "maggioranza (62,9% dei seggi).",
+        "La coalizione dovrebbe avere 398",
+        "seggi su 720, il che significa la",
+        "maggioranza (55,3% dei seggi).",
+        "La coalizione dovrebbe avere 338",
+        "seggi su 720, il che significa la",
+        "minoranza (46,9% dei seggi)",
+        "Coalizione di destra",
+        "(PPE, CER, ID)",
+        "Coalizione euroscettica",
+        "(ECR, ID, indipendenti)",
+        "Coalizione di sinistra",
+        "(S&D, Verdi, Sinistra)",
+        "La coalizione dovrebbe avere 334",
+        "seggi su 720, il che significa la",
+        "minoranza (46,4% dei seggi).",
+        "La coalizione dovrebbe avere 267",
+        "seggi su 720, il che significa la",
+        "minoranza (37,1% dei seggi).",
+        "La coalizione dovrebbe avere 233",
+        "seggi su 720, il che significa la",
+        "minoranza (32,4% dei seggi).",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews.",
+        "Ipsos"
+      ]
+    }
+  },
+  {
+    "image": "partiti-k9XG-U3470707298452taG-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/partiti-k9XG-U3470707298452taG-593x443@Corriere-Web-Sezioni.jpg?v=202403192159",
+    "meta": {
+      "title": "I partiti politici in testa nei diversi Paesi",
+      "chart_type": [
+        "ChoroplethMap",
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "English",
+            "German",
+            "French",
+            "Spanish",
+            "Polish",
+            "Romanian",
+            "Dutch",
+            "Greek",
+            "Czech",
+            "Swedish",
+            "Portuguese",
+            "Hungarian",
+            "Austrian German",
+            "Bulgarian",
+            "Danish",
+            "Finnish",
+            "Slovak",
+            "Irish",
+            "Croatian",
+            "Lithuanian",
+            "Slovenian",
+            "Latvian",
+            "Estonian",
+            "Cypriot Greek",
+            "Luxembourgish",
+            "Maltese"
+          ],
+          "secondary_scripts": [
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Greek",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin",
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FF7F0E",
+            "meaning": "Socialisti e Democratici"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews. Ipsos"
+      },
+      "notes": [],
+      "extracted_text": [
+        "I partiti politici in testa nei diversi Paesi",
+        "La Sinistra",
+        "Verdi/Alleanza libera europea",
+        "Socialisti e Democratici",
+        "Renew Europe (Liberali)",
+        "Partito popolare europeo",
+        "ECR",
+        "Identità & Democrazia",
+        "Non iscritti",
+        "Leading party",
+        "Group",
+        "Germania",
+        "CDU-CU",
+        "EPP",
+        "Francia",
+        "Rassemblement National",
+        "ID",
+        "Italia",
+        "Fratelli d'italia",
+        "ECR",
+        "Spagna",
+        "PP",
+        "EPP",
+        "Polonia",
+        "Koalicja Obywatelska",
+        "EPP",
+        "Romania",
+        "Aliantsa PSD + PNL",
+        "S&D-EPP",
+        "Olanda",
+        "PVV",
+        "ID",
+        "Belgio",
+        "Vlaams belang",
+        "ID",
+        "Grecia",
+        "Nea Demokratia",
+        "EPP",
+        "Rep. Ceca",
+        "ANO 2011",
+        "Renew",
+        "Svezia",
+        "Socialdemokraterna",
+        "S&D",
+        "Portogallo",
+        "Partido Social Democrata",
+        "EPP",
+        "Ungheria",
+        "Fidesz",
+        "NI-EPP",
+        "Austria",
+        "FPO",
+        "ID",
+        "Bulgaria",
+        "GERB -SDS",
+        "EPP",
+        "Danimarca",
+        "Socialdemokratiet",
+        "S&D",
+        "Finlandia",
+        "Kansallinen Kokoomus",
+        "EPP",
+        "Slovacchiia",
+        "Smer-SD",
+        "NI",
+        "Irlanda",
+        "Sinn Feinn",
+        "The Left",
+        "Croazia",
+        "HDZ",
+        "EPP",
+        "Lituania",
+        "LSDP (Socialdemocratici)",
+        "S&D",
+        "Slovenia",
+        "SDS (Partito democratico sloveno)",
+        "EPP",
+        "Lettonia",
+        "NA",
+        "ECR",
+        "Estonia",
+        "Isamaa",
+        "EPP",
+        "Cipro",
+        "DISY",
+        "EPP",
+        "Lussemburgo",
+        "CSV",
+        "EPP",
+        "Malta",
+        "PL",
+        "S&D",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews.",
+        "Ipsos"
+      ]
+    }
+  },
+  {
+    "image": "francia-k0gB-U34707072984528ZB-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2024/03/19/Esteri/Foto%20Esteri%20-%20Trattate/francia-k0gB-U34707072984528ZB-593x443@Corriere-Web-Sezioni.jpg?v=202403192159",
+    "meta": {
+      "title": "FRANCIA | intenzioni di voto e proiezione seggi",
+      "chart_type": [
+        "HorizontalBar",
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and whole numbers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "seggi",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "euronews. Ipsos"
+      },
+      "notes": [],
+      "extracted_text": [
+        "FRANCIA | intenzioni di voto e proiezione seggi",
+        "81 seggi totali",
+        "Rassemblement National",
+        "Renaissance, Modem et Horizons",
+        "Parti Socialiste et Place Publique",
+        "Europe Ecologie - Les Verts",
+        "Les Républicains",
+        "France insoumise",
+        "Reconquête",
+        "Parti communiste",
+        "Debout La France",
+        "Altro",
+        "30,7%",
+        "18,1%",
+        "12,2%",
+        "8,1%",
+        "7,6%",
+        "7,0%",
+        "5,5%",
+        "3,0%",
+        "2,4%",
+        "5,4%",
+        "28",
+        "17",
+        "11",
+        "7",
+        "7",
+        "6",
+        "5",
+        "Copyright Ipsos per Euronews - Sondaggio sulle elezioni Europee (Marzo 2024)",
+        "euronews.",
+        "Ipsos"
+      ]
+    }
+  },
+  {
+    "image": "abruzzo-confronto.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2019/02/11/Politica/Foto%20Politica/abruzzo-confronto.jpg?v=201902110800",
+    "meta": {
+      "title": "A confronto",
+      "chart_type": [
+        "GroupedBar",
+        "Map"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 3,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 9,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "Corriere della Sera"
+      },
+      "notes": [],
+      "extracted_text": [
+        "A confronto",
+        "LEGA",
+        "SALVINI",
+        "PREMIER",
+        "Lega",
+        "FORZA",
+        "TALIA",
+        "BERLUSCONI",
+        "Forza Italia",
+        "FRATELLI",
+        "d'ITALIA",
+        "Fratelli d'Italia",
+        "MOVIMENTO",
+        "ILBLOGDELLESTELLE.IT",
+        "M5S",
+        "PJ",
+        "Partito Democratico",
+        "Pd",
+        "(dati in %)",
+        "48",
+        "MARCHE",
+        "Teramo",
+        "42",
+        "Pescara",
+        "39,9",
+        "L'Aquila",
+        "Chieti",
+        "36",
+        "ABRUZZO",
+        "30",
+        "LAZIO",
+        "MOLISE",
+        "24",
+        "25,5",
+        "21",
+        "18",
+        "16,7",
+        "12",
+        "6",
+        "3",
+        "27,8",
+        "19,5",
+        "14,5",
+        "13,9",
+        "14,3",
+        "9,2",
+        "11,3",
+        "6,8",
+        "5",
+        "0",
+        "Regionali 2014",
+        "Politiche 2018",
+        "Corriere della Sera",
+        "Regionali 2019",
+        "(proiezioni Swg per La7)"
+      ]
+    }
+  },
+  {
+    "image": "equilibri-kDBG-U43440411542247I8D-593x443@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2018/02/16/Politica/Foto%20Politica%20-%20Trattate/equilibri-kDBG-U43440411542247I8D-593x443@Corriere-Web-Sezioni.jpg?v=20180216145201",
+    "meta": {
+      "title": "Gli equilibri",
+      "chart_type": [
+        "Donut",
+        "Table",
+        "GroupedBar",
+        "Pie"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "Western3-Dot",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Integers and percentages are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 6,
+          "value_progression": "decreasing",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Gli equilibri",
+        "Le intenzioni di voto",
+        "% su vald",
+        "16",
+        "febbraio",
+        "13",
+        "gennaio",
+        "14",
+        "dicembre",
+        "27",
+        "ottobre",
+        "21",
+        "luglio",
+        "Civica Popolare, insieme Svp",
+        "M5S 152",
+        "FI 129",
+        "2018",
+        "2018",
+        "2017",
+        "2017",
+        "2017",
+        "2017",
+        "Sinistra Italiana (Sel)",
+        "2.6",
+        "2.5",
+        "Articolo 1 - Mdp",
+        "2.8",
+        "2.8",
+        "Europa",
+        "18",
+        "Lega",
+        "101",
+        "Leu",
+        "6.1",
+        "6.4",
+        "6.6",
+        "6.0",
+        "PD",
+        "22.6",
+        "23.1",
+        "23.4",
+        "24.4",
+        "25.5",
+        "25.5",
+        "PD",
+        "136",
+        "Insieme",
+        "1.1",
+        "1.4",
+        "Fratelli",
+        "d'Italia",
+        "39",
+        "Civica Popolare",
+        "1.1",
+        "1.8",
+        "152",
+        "283",
+        "Europa con Emma Bonino",
+        "3.1",
+        "1.2",
+        "158",
+        "617",
+        "Noi con",
+        "Leu",
+        "26",
+        "SEGGI TOTALI",
+        "Altre liste centrosinistra",
+        "0.4",
+        "0.6",
+        "0.4",
+        "l'Italia -",
+        "Udc",
+        "14",
+        "Non sono compresi",
+        "i seggi di Valle d'Aosta",
+        "e Estero",
+        "Scelta Civica",
+        "0.2",
+        "0.2",
+        "Alternativa Popolare (Ncd)",
+        "2.0",
+        "2.7",
+        "3.1",
+        "3.1",
+        "La stima",
+        "Numero minimo/",
+        "massimo di seggi",
+        "Coalizione",
+        "Centrodestra",
+        "270-296",
+        "FI",
+        "119-139",
+        "Forza Italia",
+        "16.3",
+        "10.5",
+        "16.7",
+        "16.7",
+        "16.1",
+        "16.1",
+        "Lega",
+        "90-111",
+        "Lega",
+        "13.2",
+        "13.8",
+        "14.3",
+        "14.4",
+        "15.2",
+        "15.2",
+        "Fratelli d'Italia",
+        "34-44",
+        "Fratelli d'Italia",
+        "4.3",
+        "4.7",
+        "4.9",
+        "4.5",
+        "4.5",
+        "Noi con l'Italia",
+        "15-17",
+        "Noi con l'Italia - Udc",
+        "1.8",
+        "0.9",
+        "Centrosinistra",
+        "148-168",
+        "PD",
+        "120-146",
+        "Movimento 5 Stelle",
+        "28.6",
+        "28.2",
+        "29.1",
+        "27.5",
+        "27.5",
+        "Europa",
+        "14-22",
+        "Civica Popolare, Insieme, Svp",
+        "2-6",
+        "Altre Liste",
+        "1.8",
+        "1.5",
+        "0.8",
+        "2.1",
+        "2.1",
+        "Maggioritario",
+        "Centrodestra",
+        "135-145",
+        "[Indecisi + non voti]",
+        "33.8",
+        "34",
+        "34.9",
+        "35.3",
+        "35.8",
+        "35.8",
+        "Centrosinistra",
+        "45-55",
+        "M5S",
+        "35-45",
+        "Leu",
+        "20-30",
+        "Alleanze a confronto",
+        "Centrodestra",
+        "Centrosinistra",
+        "M5S",
+        "Leu",
+        "Gradimento dei leader",
+        "INDICE DI GRADIMENTO",
+        "Giudizio:",
+        "positivo",
+        "negativo",
+        "(non sa)",
+        "283",
+        "281",
+        "252",
+        "Paolo",
+        "Gentiloni",
+        "Emma",
+        "Bonino",
+        "Luigi",
+        "Di Maio",
+        "Matteo",
+        "Salvini",
+        "Silvio",
+        "Berlusconi",
+        "Giorgia",
+        "Meloni",
+        "Matteo",
+        "Renzi",
+        "Pietro",
+        "Grasso",
+        "209",
+        "164",
+        "158",
+        "152",
+        "152",
+        "151",
+        "158",
+        "173",
+        "47",
+        "36",
+        "35",
+        "29",
+        "28",
+        "28",
+        "26",
+        "26",
+        "24",
+        "27",
+        "27",
+        "23",
+        "10",
+        "14",
+        "11",
+        "31",
+        "27",
+        "25",
+        "24",
+        "16",
+        "42",
+        "31",
+        "33",
+        "37",
+        "28",
+        "24",
+        "24",
+        "22",
+        "16",
+        "13",
+        "19 dic",
+        "8 nov",
+        "48",
+        "55",
+        "58",
+        "67",
+        "65",
+        "61",
+        "68",
+        "62",
+        "2018",
+        "2017"
+      ]
+    }
+  },
+  {
+    "image": "elezioni-grafico_ori_crop_MASTER__0x0.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2019/05/09/Politica/Foto%20Politica%20-%20Trattate/elezioni-grafico_ori_crop_MASTER__0x0.jpg?v=201905092157",
+    "meta": {
+      "title": "Intenzioni di voto (% su validi)",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "SINISTRA"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Intenzioni di voto (% su validi)",
+        "ELEZIONI POLITICHE",
+        "Politiche",
+        "Camera",
+        "2018",
+        "4",
+        "ottobre",
+        "2018",
+        "22",
+        "novembre",
+        "2018",
+        "ELEZIONI EUROPEE",
+        "17",
+        "gennaio",
+        "2019",
+        "28",
+        "febbraio",
+        "2019",
+        "4",
+        "aprile",
+        "2019",
+        "18",
+        "aprile",
+        "2019",
+        "9",
+        "maggio",
+        "2019",
+        "Come vote",
+        "che hanno",
+        "alle Politic",
+        "la Sinistra",
+        "2%",
+        "2,1%",
+        "2,1%",
+        "oggi",
+        "voterebbe",
+        "Europa Verde",
+        "0,7%",
+        "1,3%",
+        "1,8%",
+        "Pd",
+        "18,7%",
+        "17,1%",
+        "16,8%",
+        "17,3%",
+        "18,5%",
+        "19%",
+        "18,7%",
+        "20,5%",
+        "M5S",
+        "Più Europa con Emma Bonino",
+        "e Italia in Comune",
+        "3,1%",
+        "2,6%",
+        "3,2%",
+        "Lega",
+        "Più Europa con Emma Bonino",
+        "2,6%",
+        "1,9%",
+        "2,1%",
+        "3,5%",
+        "4%",
+        "Liberi e Uguali-Art. 1 Mdp-Si",
+        "3,4%",
+        "2,4%",
+        "1,5%",
+        "2,7%",
+        "2,4%",
+        "FI",
+        "Altre liste centrosinistra",
+        "1,6%",
+        "0,6%",
+        "0,9%",
+        "0,7%",
+        "1%",
+        "Fdl",
+        "Lega",
+        "17,4%",
+        "33,8%",
+        "36,2%",
+        "35,8%",
+        "35,9%",
+        "35,7%",
+        "36,9%",
+        "30,9%",
+        "Forza Italia",
+        "14%",
+        "7,8%",
+        "7,9%",
+        "7,1%",
+        "8,6%",
+        "9,9%",
+        "8,7%",
+        "7,8%",
+        "Pd",
+        "Fratelli d'Italia",
+        "4,3%",
+        "2,4%",
+        "2,6%",
+        "3,4%",
+        "4%",
+        "4%",
+        "4,6%",
+        "5,7%",
+        "Noi con l'Italia - Udc",
+        "1,3%",
+        "0,6%",
+        "0,6%",
+        "0,6%",
+        "0,5%",
+        "Altri partiti",
+        "centrosinis",
+        "Movimento 5 Stelle",
+        "32,7%",
+        "28,5%",
+        "27,7%",
+        "25,4%",
+        "21,2%",
+        "23,3%",
+        "22,3%",
+        "24,9%",
+        "Altre liste",
+        "4%",
+        "4,9%",
+        "3,7%",
+        "3,5%",
+        "3,9%",
+        "2,3%",
+        "2,8%",
+        "3,1%",
+        "Altri partiti",
+        "Non voto",
+        "(astenuti + bianche + nulle)",
+        "29,4%",
+        "35,1%",
+        "36,2%",
+        "43,2%",
+        "43,6%",
+        "42,9%",
+        "41,8%",
+        "42%",
+        "Oggi sono",
+        "indecisi",
+        "o non",
+        "voterebber"
+      ]
+    }
+  },
+  {
+    "image": "infografica-pagnoncelli2.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2019/12/20/Politica/Foto%20Politica/infografica-pagnoncelli2.jpg?v=201912210850",
+    "meta": {
+      "title": "Intenzioni di voto",
+      "chart_type": [
+        "Table",
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "Corriere della Sera"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Intenzioni di voto",
+        "Elezioni",
+        "Camera",
+        "dati in %",
+        "2018",
+        "Elezioni",
+        "europee",
+        "2019",
+        "28 nov",
+        "20 dic",
+        "Come voterebbero oggi gli elettori che hanno scelto i principali partiti alle elezioni europee di maggio?",
+        "FLUSSI DI VOTO IN USCITA (dati in %)",
+        "Sondaggio realizzato da",
+        "Europee 2019 - Hanno votato:",
+        "Non",
+        "Ipsos per Corriere della",
+        "hanno",
+        "Sinistra Italiana-Articolo Uno",
+        "2",
+        "1,7",
+        "Leu",
+        "3,4",
+        "Lega",
+        "Pd",
+        "M5S",
+        "FI",
+        "Fdl",
+        "votato",
+        "Sera presso un campione",
+        "casuale nazionale",
+        "Altri sinistra",
+        "1.5",
+        "Oggi",
+        "voterebbero:",
+        "1,7",
+        "1",
+        "5.5",
+        "5,8",
+        "9.7",
+        "3.3",
+        "rappresentativo della",
+        "popolazione italiana",
+        "Pd",
+        "18.7",
+        "22.7",
+        "18,1",
+        "18,2",
+        "82,7",
+        "60,5",
+        "1.6",
+        "2.1",
+        "4,",
+        "maggiorenne secondo",
+        "0.4",
+        "genere, età, livello di",
+        "+Europa",
+        "2,6",
+        "3,1",
+        "1,2",
+        "1,2",
+        "Lega",
+        "355",
+        "6.5",
+        "73,9",
+        "Pd",
+        "7.8",
+        "scolarità, area geografica",
+        "di residenza, dimensione",
+        "Europa Verde",
+        "2,3",
+        "2.3",
+        "1,8",
+        "M5S",
+        "70.6",
+        "70,7",
+        "2",
+        "del comune",
+        "Azione (Calenda)",
+        "2,3",
+        "1,5",
+        "FDI",
+        "2,5",
+        "di residenza. Sono state",
+        "realizzate 1.000 interviste",
+        "FI",
+        "1.7",
+        "Italia Viva",
+        "75,6",
+        "(su 5.731 contatti).",
+        "Altri centrosinistra",
+        "1,1",
+        "condotte mediante mixed",
+        "altre liste",
+        "mode CATI/CAMI/CAWI",
+        "Italia viva",
+        "5,3",
+        "5,3",
+        "centro sinistra",
+        "0.6",
+        "tra il 18 e il 19 dicembre",
+        "altri",
+        "2019.",
+        "Movimento 5 Stelle",
+        "32,7",
+        "17,1",
+        "16,6",
+        "17,7",
+        "0.1",
+        "Per dare stabilità alle",
+        "indecisi o non",
+        "0,1",
+        "stime di voto, i risultati",
+        "Lega",
+        "17.4",
+        "34,3",
+        "31,9",
+        "31,5",
+        "voterebbero",
+        "0,2",
+        "12",
+        "presentati sono",
+        "(bianche, nulle,",
+        "0.8",
+        "il prodotto",
+        "2.5",
+        "Forza Italia",
+        "14",
+        "8,8",
+        "6,2",
+        "7.4",
+        "astenuti)",
+        "6,5",
+        "4,3",
+        "0,9",
+        "di un'elaborazione basata,",
+        "1.1",
+        "oltre che sulle 1000",
+        "Fratelli d'Italia",
+        "4,4",
+        "6,5",
+        "10,6",
+        "10,3",
+        "1,4",
+        "0.2",
+        "1,5",
+        "interviste prima citate, su",
+        "0,6",
+        "20.3",
+        "0.8",
+        "4,2",
+        "0,3",
+        "un archivio di circa 4.000",
+        "Noi con l'Italia",
+        "1,3",
+        "0,3",
+        "0,6",
+        "0,9",
+        "interviste svolte tra",
+        "14",
+        "0.5",
+        "il 20 novembre e il 16",
+        "Altre liste",
+        "2,9",
+        "3,5",
+        "3.5",
+        "3,4",
+        "0.7",
+        "7,7",
+        "13,9",
+        "dicembre 2019.",
+        "6,8",
+        "Il documento informativo",
+        "completo riguardante",
+        "il sondaggio sarà inviato",
+        "ai sensi di legge, per la",
+        "sua pubblicazione, al sito",
+        "www.sondaggipoliticoelettoralut",
+        "Corriere della Sera"
+      ]
+    }
+  },
+  {
+    "image": "grafico-kDWB-U3370681059829VaB-656x492@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2022/09/08/Politica/Foto%20Politica%20-%20Trattate/grafico-kDWB-U3370681059829VaB-656x492@Corriere-Web-Sezioni.jpg?v=20220909011530",
+    "meta": {
+      "title": "Le intenzioni di voto (Camera dei deputati)",
+      "chart_type": [
+        "Table",
+        "Bubble"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and integers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#F7E07F",
+            "meaning": "Movimento 5 Stelle"
+          },
+          {
+            "color_hex": "#E6998C",
+            "meaning": "Partito democratico"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 15,
+          "value_progression": "increasing",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 17,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Le intenzioni di voto (Camera dei deputati)",
+        "% su dichiarazioni valide",
+        "Europee",
+        "2019",
+        "26/9/19",
+        "30/1/20",
+        "28/5/20",
+        "24/9/20",
+        "14/1/21",
+        "27/5/21",
+        "9/9/21",
+        "27/1/22",
+        "25/5/22",
+        "30/6/22",
+        "28/7/22",
+        "30/8/22",
+        "7/9/22",
+        "Movimento 5 Stelle",
+        "17,1",
+        "20,8",
+        "14",
+        "16,7",
+        "18,6",
+        "16,3",
+        "15,4",
+        "17",
+        "15,9",
+        "13,7",
+        "12,1",
+        "11,3",
+        "13,4",
+        "14,5",
+        "Unione popolare",
+        "1",
+        "1",
+        "La Sinistra",
+        "1,7",
+        "Sinistra Italiana- Articolo 1 (Leu)",
+        "1,8",
+        "2,6",
+        "1,8",
+        "2,2",
+        "3,5",
+        "Sinistra Italiana",
+        "2",
+        "2",
+        "2",
+        "2,1",
+        "1,8",
+        "Europa Verde - Verdi",
+        "2,3",
+        "1,2",
+        "1,5",
+        "1,8",
+        "2,4",
+        "1,5",
+        "1,7",
+        "1,3",
+        "2",
+        "2,7",
+        "2,4",
+        "Alleanza Verdi-Sinistra-Reti civiche",
+        "3,4",
+        "4,1",
+        "3,4",
+        "Articolo 1 - Mdp",
+        "1,6",
+        "1",
+        "1",
+        "1,2",
+        "1,2",
+        "1,5",
+        "Partito democratico",
+        "22,7",
+        "19,5",
+        "20,3",
+        "21,2",
+        "19,3",
+        "19,9",
+        "19,4",
+        "20",
+        "20",
+        "21",
+        "20,8",
+        "23,2",
+        "23",
+        "20,5",
+        "+Europa con Emma Bonino",
+        "3,1",
+        "1,6",
+        "1,1",
+        "1,3",
+        "1,4",
+        "2,5",
+        "2,2",
+        "2,1",
+        "2",
+        "2,5",
+        "Impegno civico - Di Maio",
+        "2,3",
+        "1,3",
+        "0,8",
+        "0,8",
+        "Azione",
+        "2,3",
+        "2,2",
+        "3",
+        "3,3",
+        "2,4",
+        "2",
+        "Italia viva",
+        "4,8",
+        "4,3",
+        "3",
+        "3,1",
+        "2,4",
+        "1,9",
+        "2,2",
+        "1,5",
+        "2,2",
+        "2",
+        "2,3",
+        "Azione + Italia viva",
+        "5",
+        "6,7",
+        "Lega",
+        "34,3",
+        "30,8",
+        "32",
+        "24,3",
+        "24",
+        "23,1",
+        "22,4",
+        "20,5",
+        "19,7",
+        "15,1",
+        "15",
+        "13,5",
+        "13,4",
+        "12,5",
+        "Forza Italia",
+        "8,8",
+        "7",
+        "6,5",
+        "7,4",
+        "6,8",
+        "10,2",
+        "7,7",
+        "8,2",
+        "9,2",
+        "8,3",
+        "9,8",
+        "9",
+        "8",
+        "8",
+        "Fratelli d'Italia",
+        "6,5",
+        "8,9",
+        "12",
+        "16,2",
+        "16,7",
+        "15",
+        "19,4",
+        "18,8",
+        "19,5",
+        "21",
+        "20",
+        "23,3",
+        "24",
+        "25,1",
+        "Noi moderati",
+        "1",
+        "1",
+        "1",
+        "Italexit",
+        "1,5",
+        "4,5",
+        "4",
+        "3,1",
+        "3",
+        "3",
+        "Altre Liste",
+        "20,6",
+        "3,6",
+        "3,4",
+        "4,1",
+        "21,1",
+        "2,3",
+        "3,9",
+        "4,9",
+        "4,2",
+        "4,9",
+        "4,8",
+        "3,5",
+        "1,2",
+        "1",
+        "INDECISI",
+        "(% su totale elettori)",
+        "10,1%",
+        "0",
+        "50",
+        "100",
+        "STIMA POSSIBILE",
+        "AFFLUENZA ALLE URNE",
+        "66,6%"
+      ]
+    }
+  },
+  {
+    "image": "flussi squared-k7LB-U3120925412256NuD-656x492@Corriere-Web-Sezioni.png",
+    "source": "https://images2.corriereobjects.it/methode_image/2019/05/27/Politica/Foto%20Politica%20-%20Trattate/flussi%20squared-k7LB-U3120925412256NuD-656x492@Corriere-Web-Sezioni.PNG?v=20190527191605",
+    "meta": {
+      "title": "Astensione",
+      "chart_type": [
+        "SankeyDiagram"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Lega",
+        "52",
+        "14",
+        "M5S",
+        "38",
+        "20",
+        "38",
+        "Astensione",
+        "27",
+        "altri",
+        "Forza Italia",
+        "5",
+        "42",
+        "6",
+        "Fratelli d'Italia",
+        "Pd",
+        "68"
+      ]
+    }
+  },
+  {
+    "image": "130218912-eb5607ae-f9cc-4270-a4c8-e023977765c8.webp",
+    "source": "https://www.repstatic.it/content/nazionale/img/2023/06/13/130218912-eb5607ae-f9cc-4270-a4c8-e023977765c8.jpg?webp",
+    "meta": {
+      "title": "INTENZIONI DI VOTO 12 GIUGNO 2023",
+      "chart_type": [
+        "HorizontalBar",
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and absolute numbers are used, some with decimal places and some without.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 12,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "INTENZIONI DI VOTO 12 GIUGNO 2023",
+        "Differenza rispetto",
+        "al 5/06/2023",
+        "Fratelli d'Italia",
+        "28,7",
+        "-0,4",
+        "Partito Democratico",
+        "20,2",
+        "-0,2",
+        "Movimento 5 Stelle",
+        "16,4",
+        "+0,3",
+        "Lega",
+        "8,8",
+        "-0,2",
+        "Forza Italia",
+        "7,3",
+        "+0,3",
+        "Azione",
+        "3,9",
+        "+0,1",
+        "Alleanza Verdi-Sinistra",
+        "3,4",
+        "-0,2",
+        "Italia Viva",
+        "3,0",
+        "+0,3",
+        "+Europa",
+        "2,5",
+        "+0,1",
+        "Per l'Italia con Paragone",
+        "2,2",
+        "=",
+        "Unione Popolare",
+        "1,6",
+        "+0,1",
+        "Noi Moderati",
+        "1,0",
+        "=",
+        "Altro partito",
+        "1,0",
+        "-0,2",
+        "Non si esprime: 36% (-2)",
+        "FDI",
+        "26,0",
+        "PD",
+        "19,1",
+        "M5S",
+        "15,4",
+        "LEGA",
+        "8,1",
+        "FI",
+        "Politiche 2022",
+        "(Camera)",
+        "ott 2022",
+        "nov 2022",
+        "dic 2022",
+        "gen 2023",
+        "feb 2023",
+        "mar 2023",
+        "apr 2023",
+        "mag 2023",
+        "5 giu 2023",
+        "12 giu 2023"
+      ]
+    }
+  },
+  {
+    "image": "091601104-7e189db9-d487-43e7-be3e-fb69f77409ed.webp",
+    "source": "https://www.repstatic.it/content/nazionale/img/2025/01/30/091601104-7e189db9-d487-43e7-be3e-fb69f77409ed.jpg?webp",
+    "meta": {
+      "title": "Camera dei Deputati",
+      "chart_type": [
+        "Other"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": false,
+        "date_structure": "other",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "seggi",
+            "count"
+          ],
+          [
+            "scranni",
+            "count"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "none",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Camera dei Deputati",
+        "SCENARIO C",
+        "Fdll + Lega + FI + NoiM",
+        "213",
+        "182",
+        "Altri",
+        "5",
+        "400",
+        "Totale seggi",
+        "Senato",
+        "SCENARIO C",
+        "Fdl + Lega + FI + NoiM",
+        "102",
+        "PD + AVS + M5S + PiùE",
+        "94",
+        "Altri e",
+        "senatori a vita",
+        "9",
+        "205",
+        "Totale seggi",
+        "SCENARIO C",
+        "In questo scenario l'opposizione corre unita in un campo larghissimo comprendente PD, AVS, M5S, Italia Viva, Azione e",
+        "+Europa. Il centrodestra avrebbe una maggioranza estremamente risicata con 213 seggi su 400 a Montecitorio e",
+        "102 su 205 a Palazzo Madama, mentre l'opposizione si fermerebbe a 182 scranni alla Camera e 94 al Senato.",
+        "Gli altri seggi sarebbero appannaggio del senatori a vita e delle minoranze linguistiche. Al centrodestra mancherebbe"
+      ]
+    }
+  },
+  {
+    "image": "090442651-3a90bf9a-813c-4616-940d-c01f758def25.webp",
+    "source": "https://www.repstatic.it/content/nazionale/img/2020/06/10/090442651-3a90bf9a-813c-4616-940d-c01f758def25.jpg?webp",
+    "meta": {
+      "title": "INTENZIONI DI VOTO",
+      "chart_type": [
+        "Table"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#00FF00",
+            "meaning": "increase"
+          },
+          {
+            "color_hex": "#FF0000",
+            "meaning": "decrease"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "Rai 3HD"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Rai 3HD",
+        "INTENZIONI DI VOTO",
+        "STIMA",
+        "9/6/2020",
+        "DIFFERENZA CON",
+        "SETTIMANA PRECEDENTE",
+        "LEGA – SALVINI",
+        "PARTITO DEMOCRATICO",
+        "MOVIMENTO 5 STELLE",
+        "FRATELLI D'ITALIA",
+        "FORZA ITALIA",
+        "EUROPA VERDE",
+        "LA SINISTRA",
+        "ITALIA VIVA",
+        "+EUROPA",
+        "AZIONE",
+        "ALTRI",
+        "INDECISI/ASTENUTI",
+        "25.0",
+        "-0.3",
+        "21.4",
+        "+0.5",
+        "17.2",
+        "-0.3",
+        "14.4",
+        "+0.1",
+        "7.6",
+        "+0.2",
+        "2.3",
+        "-0.1",
+        "2.0",
+        "-0.4",
+        "1.9",
+        "+0.4",
+        "1.7",
+        "+0.1",
+        "1.5",
+        "=",
+        "5.0",
+        "-0.2",
+        "40.1",
+        "+1.1",
+        "Istituto Ixa"
+      ]
+    }
+  },
+  {
+    "image": "123737727-bb173ac4-89db-4b9f-8071-881afd1ecef7.webp",
+    "source": "https://www.repstatic.it/content/nazionale/img/2024/03/08/123737727-bb173ac4-89db-4b9f-8071-881afd1ecef7.jpg?webp",
+    "meta": {
+      "title": "Supermedia dei sondaggi politici: il voto alle liste",
+      "chart_type": [
+        "GroupedBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "M"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and integers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "space",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 12,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": true
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "YOU TREND"
+      },
+      "notes": [],
+      "extracted_text": [
+        "Supermedia dei sondaggi politici: il voto alle liste",
+        "Media ultimi 15 giorni e confronto con due settimane fa",
+        "YOU TREND",
+        "7 marzo 2024",
+        "Due settimane fa",
+        "Differenza",
+        "Fdl",
+        "27,6%",
+        "28,1%",
+        "-0,5%",
+        "PD",
+        "20,1%",
+        "19,6%",
+        "0,5%",
+        "M5S",
+        "16,3%",
+        "16,2%",
+        "0,1%",
+        "Lega",
+        "8,1%",
+        "8,3%",
+        "-0,2%",
+        "FI",
+        "7,5%",
+        "7,6%",
+        "-0,1%",
+        "Azione",
+        "4%",
+        "4%",
+        "0%",
+        "Verdi/Sinistra",
+        "4,1%",
+        "4%",
+        "0,1%",
+        "Italia Viva",
+        "3,2%",
+        "3,1%",
+        "0,1%",
+        "+Europa",
+        "2,7%",
+        "2,6%",
+        "0,1%",
+        "Italexit",
+        "1,5%",
+        "1,5%",
+        "0%",
+        "Unione Pop.",
+        "1,3%",
+        "1,3%",
+        "0%",
+        "Noi Moderati",
+        "1%",
+        "1,3%",
+        "-0,3%",
+        "Istituti considerati: Demopolis (data di pubblicazione: 29 febbraio), Eumetra (29 febbraio), Euromedia (27 febbraio), Piepoli (3 marzo), Quorum (4",
+        "marzo), SWG (26 febbraio e 4 marzo) e Tecně (24 e 26 febbraio, 2 e 5 marzo)."
+      ]
+    }
+  },
+  {
+    "image": "pagnoncelli-obb-ku6G-U34501613105969voB-656x492@Corriere-Web-Sezioni.jpg",
+    "source": "https://images2.corriereobjects.it/methode_image/2023/12/15/Politica/Foto%20Politica%20-%20Trattate/pagnoncelli-obb-ku6G-U34501613105969voB-656x492@Corriere-Web-Sezioni.jpg?v=20231216070950",
+    "meta": {
+      "title": "INTENZIONI DI VOTO (CAMERA) (dati in %)",
+      "chart_type": [
+        "Table",
+        "BarChart",
+        "Donut"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": true,
+        "mixed_format_note": "Percentages and integers are used.",
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "DMY",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": true,
+        "meaning_mappings": [
+          {
+            "color_hex": "#FFC107",
+            "meaning": "Movimento 5 Stelle"
+          }
+        ]
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": 10,
+          "value_progression": "increasing",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 20,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "INTENZIONI DI VOTO",
+        "(CAMERA) (dati in %)",
+        "Europee",
+        "2019",
+        "Politiche",
+        "2022",
+        "20/4",
+        "2023",
+        "25/5",
+        "2023",
+        "29/6/",
+        "2023",
+        "27/7/",
+        "2023",
+        "7/9/",
+        "2023",
+        "5/10/",
+        "2023",
+        "9/11/",
+        "2023",
+        "14/12",
+        "2023",
+        "differenza vs.",
+        "ciclo precedente",
+        "Il gradimento per",
+        "il governo e il presidente",
+        "del Consiglio",
+        "Fratelli d'Italia",
+        "6,5",
+        "26",
+        "29",
+        "29,6",
+        "30,4",
+        "30,2",
+        "29,8",
+        "28,5",
+        "29,3",
+        "0,8",
+        "Qual è il suo livello",
+        "Lega",
+        "34,3",
+        "8,8",
+        "8",
+        "8,2",
+        "9,1",
+        "8,4",
+        "8,1",
+        "10,1",
+        "9,2",
+        "8,0",
+        "-1,2",
+        "di gradimento nei confronti",
+        "del governo Meloni?",
+        "Forza Italia",
+        "8,8",
+        "8,1",
+        "8",
+        "7,7",
+        "7,3",
+        "6",
+        "6,6",
+        "7",
+        "7,8",
+        "6,8",
+        "-1,0",
+        "Voti positivi",
+        "Voti negativi",
+        "Noi moderati",
+        "0,9",
+        "1,3",
+        "1",
+        "0,9",
+        "1,2",
+        "1",
+        "1,1",
+        "1,1",
+        "1,0",
+        "-0,1",
+        "(6-10)",
+        "(1-5)",
+        "39%",
+        "50%",
+        "Pd",
+        "22,7",
+        "19,1",
+        "20,7",
+        "20,4",
+        "19,4",
+        "19,3",
+        "19,5",
+        "18,5",
+        "18",
+        "19,0",
+        "1",
+        "Alleanza Verdi-Sinistra-Reti civiche",
+        "3,6",
+        "3,3",
+        "3,5",
+        "3,2",
+        "4,1",
+        "3,7",
+        "3,4",
+        "3,5",
+        "4,0",
+        "0,5",
+        "+ Europa con Emma Bonino",
+        "3,1",
+        "2,8",
+        "2,3",
+        "1,8",
+        "1,5",
+        "2,7",
+        "2,2",
+        "2",
+        "2,6",
+        "2,4",
+        "-0,2",
+        "Impegno civico - Di Maio",
+        "0,6",
+        "(Non sanno, non indicano)",
+        "11%",
+        "Indice di gradimento governo",
+        "(% voti positivi su voti espressi)",
+        "44",
+        "Europa verde - Verdi",
+        "2,3",
+        "Movimento 5 Stelle",
+        "17,1",
+        "15,4",
+        "16,5",
+        "15",
+        "16,2",
+        "16,3",
+        "16,4",
+        "16,9",
+        "17",
+        "17,2",
+        "0,2",
+        "Azione",
+        "3,5",
+        "3,1",
+        "3,9",
+        "3,5",
+        "3,2",
+        "3,1",
+        "3,2",
+        "0,1",
+        "Italia viva - Il Centro",
+        "3",
+        "4,1",
+        "3",
+        "3,3",
+        "3",
+        "3,5",
+        "3,5",
+        "Qual è il suo livello",
+        "di gradimento nei confronti",
+        "del presidente del Consiglio,",
+        "Giorgia Meloni?",
+        "Azione-Italia viva",
+        "7,8",
+        "5,2",
+        "Italexit - Con Paragone",
+        "1,9",
+        "1,6",
+        "2,4",
+        "2",
+        "1,7",
+        "2,2",
+        "2",
+        "2",
+        "1,4",
+        "-0,6",
+        "Voti positivi",
+        "Voti negativi",
+        "Unione popolare",
+        "1,4",
+        "1,3",
+        "1,2",
+        "1,5",
+        "1,1",
+        "1,1",
+        "1,4",
+        "1,2",
+        "1,4",
+        "0,2",
+        "(6-10)",
+        "(1-5)",
+        "39%",
+        "49%",
+        "Democrazia sovrana popolare",
+        "1,2",
+        "1,2",
+        "0,9",
+        "0,7",
+        "0,8",
+        "1",
+        "0,9",
+        "1,2",
+        "1,0",
+        "-0,2",
+        "Altre liste",
+        "5,2",
+        "2,4",
+        "1,6",
+        "1,8",
+        "1,6",
+        "1,1",
+        "1,2",
+        "0,7",
+        "1,3",
+        "1,8",
+        "0,5",
+        "Indecisi/astensione/",
+        "48",
+        "39",
+        "39,3",
+        "39,5",
+        "39",
+        "42,5",
+        "42",
+        "42,8",
+        "41,5",
+        "42,2",
+        "0,7",
+        "bianche/nulle",
+        "(Non sanno, non indicano)",
+        "12%",
+        "Indice di gradimento",
+        "CENTRODESTRA",
+        "49,6",
+        "43,8",
+        "46,3",
+        "46,5",
+        "46,7",
+        "46",
+        "45,9",
+        "48",
+        "46,6",
+        "45,1",
+        "-1,5",
+        "presidente del Consiglio",
+        "(% voti positivi su voti espressi)",
+        "CENTROSINISTRA",
+        "28,1",
+        "26,1",
+        "26,3",
+        "25,7",
+        "24,1",
+        "26,1",
+        "25,4",
+        "23,9",
+        "24,1",
+        "25,4",
+        "1,3",
+        "44",
+        "Sondaggio realizzato da Ipsos per il Corriere della Sera presso un campione proporzionale della popolazione italiana maggiorenne per quote di genere, età, livello di scolarità, area geografica di residenza, dimensione del comune di residenza. Sono state realizzate",
+        "1.000 interviste (su 4.691 contatti) condotte mediante mixed mode (CATI/CAMI/CAWI) tra il 12 e il 14 dicembre 2023. Per dare stabilità alle stime di voto pubblicate, i risultati presentati sono il prodotto di un'elaborazione basata, oltre che sulle 1.000 interviste",
+        "prima citate, su un archivio di circa 5.000 interviste svolte tra il 12 novembre e l'11 dicembre 2023. Il documento informativo completo riguardante il sondaggio sarà inviato ai sensi di legge, per la sua pubblicazione, al sito www.sondaggipoliticoelettorali.it"
+      ]
+    }
+  },
+  {
+    "image": "inflazione_grafico.jpg",
+    "source": "https://tg24.sky.it/assets/images/9239cda8a7dde92edbf2a3a1cfcedb393488ec79/skytg24/it/economia/approfondimenti/inflazione-italia-aumento-prezzi/inflazione_grafico.png?im=Resize,width=1536",
+    "meta": {
+      "title": "L'andamento dell'inflazione in Italia e negli altri Paesi Ue",
+      "chart_type": [
+        "MultiLineChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": true,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [
+            "English"
+          ],
+          "secondary_scripts": [
+            "Latin"
+          ]
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": true,
+        "currency_symbol": null,
+        "currency_symbol_placement": [],
+        "currency_code": null,
+        "currency_code_placement": []
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "MD",
+        "separator": "/",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": true,
+        "unit_combinations": [
+          [
+            "100",
+            "index"
+          ]
+        ]
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 4,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "color",
+        "legend_placement": "inside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "Yes",
+        "logo_text_or_brand": "sky tg24"
+      },
+      "notes": [],
+      "extracted_text": [
+        "L'andamento dell'inflazione in Italia e negli altri Paesi Ue",
+        "Andamento dell'indice armonizzato dei prezzi al consumo (HICP)",
+        "2015=100",
+        "Italy",
+        "x",
+        "Austria",
+        "x",
+        "France",
+        "x",
+        "Germany",
+        "x",
+        "Spain",
+        "x",
+        "Scegli i Paesi (max 5)",
+        "Only 5 values can be added.",
+        "130",
+        "120",
+        "110",
+        "100",
+        "01/21",
+        "Fonte: Eurostat",
+        "Austria",
+        "Germany",
+        "Spain",
+        "France",
+        "Italy",
+        "01/22",
+        "01/23",
+        "01/24",
+        "sky tg24"
+      ]
+    }
+  },
+  {
+    "image": "02_RECESSIONE_RISCHIO_02_01.avif",
+    "source": "https://tg24.sky.it/assets/images/0716e9c477ccf45a8f23669e811a151105358be7/skytg24/it/economia/2023/01/02/2023-recessione-inflazione-grafici/02_RECESSIONE_RISCHIO_02_01.jpg",
+    "meta": {
+      "title": "RECESSIONE, RISCHIO SEMPRE PIÙ CONCRETO",
+      "chart_type": [
+        "HorizontalBar"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "NotPresent",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": false,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "M",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": false,
+        "x_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": false,
+          "value_type": "none",
+          "data_point_count": null,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": false,
+        "gridlines": false,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "RECESSIONE, RISCHIO SEMPRE PIÙ CONCRETO",
+        "Porzione dell'economia globale prevista in contrazione",
+        "Outlook di gennaio",
+        "4%",
+        "Outlook di aprile",
+        "5%",
+        "Outlook di luglio",
+        "13%",
+        "Outlook di ottobre",
+        "34%",
+        "Fonte: Fmi"
+      ]
+    }
+  },
+  {
+    "image": "01_CRESCITA_GLOBALE_02_01_-_Copia.jpg",
+    "source": "https://tg24.sky.it/assets/images/b43040ffa5fc37d31f2485da8400c2225c58624b/skytg24/it/economia/2023/01/02/2023-recessione-inflazione-grafici/01_CRESCITA_GLOBALE_02_01_-_Copia.jpg",
+    "meta": {
+      "title": "CHE 2023 SARÀ PER LA CRESCITA",
+      "chart_type": [
+        "BarChart"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Comma",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "category",
+          "data_point_count": 8,
+          "value_progression": "none",
+          "scale_type": "none"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": []
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": false,
+        "legend_type": "none",
+        "legend_placement": null,
+        "legend_mapping_explicit": false,
+        "annotation_present": true,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "Yes",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "CHE 2023 SARÀ PER LA CRESCITA",
+        "Previsioni più recenti per il Pil globale",
+        "+1,4%",
+        "Fitch",
+        "+1,6%",
+        "JP Morgan",
+        "+1,8%",
+        "Moody's",
+        "Goldman Sachs",
+        "+1,8%",
+        "Morgan Stanley",
+        "+2,2%",
+        "Ocse",
+        "+2,2%",
+        "FMI",
+        "+2,7%",
+        "Media",
+        "2011-2019",
+        "+3%"
+      ]
+    }
+  },
+    {
+    "image": "ccf6c8d19ab8cd3dd794f4321efc5b3f.png",
+    "source": "https://www.istat.it/dati/infografiche-e-grafici/grafici-interattivi/",
+    "meta": {
+      "title": "Indice dei prezzi al consumo per l'intera collettività (base 2025=100, mensile)",
+      "chart_type": [
+        "LineChart",
+        "BarChart",
+        "Area"
+      ],
+      "writing_and_reading_direction": {
+        "chart_text_writing_direction": "LTR",
+        "chart_reading_direction": "LTR",
+        "language_mix": {
+          "mixed": false,
+          "primary_language": "Italian",
+          "primary_script": "Latin",
+          "secondary_languages": [],
+          "secondary_scripts": []
+        }
+      },
+      "number": {
+        "related": true,
+        "numeral_system": "Indo Arabic",
+        "digit_grouping": "NotPresent",
+        "decimal_separator": "Dot",
+        "numeric_abbreviation": [
+          "none"
+        ],
+        "currency_format_related": false
+      },
+      "number_complexity": {
+        "mixed_format": false,
+        "mixed_format_note": null,
+        "decimal_usage": true,
+        "large_number_scaling": false
+      },
+      "datetime": {
+        "date_related": true,
+        "date_structure": "Y",
+        "separator": "none",
+        "time_related": false,
+        "time_format": "none"
+      },
+      "units": {
+        "related": false,
+        "unit_combinations": []
+      },
+      "color_semantics": {
+        "related": false,
+        "meaning_mappings": []
+      },
+      "axis_semantics": {
+        "has_axis": true,
+        "x_axis": {
+          "present": true,
+          "value_type": "time",
+          "data_point_count": null,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "y_axis": {
+          "present": true,
+          "value_type": "numeric",
+          "data_point_count": 7,
+          "value_progression": "increasing",
+          "scale_type": "linear"
+        },
+        "additional_axes": [
+          {
+            "present": true,
+            "value_type": "numeric",
+            "data_point_count": 7,
+            "value_progression": "increasing",
+            "scale_type": "linear"
+          }
+        ]
+      },
+      "layout_semantics": {
+        "title_position": "top",
+        "legend_present": true,
+        "legend_type": "text",
+        "legend_placement": "outside chart",
+        "legend_mapping_explicit": true,
+        "annotation_present": false,
+        "gridlines": true,
+        "label_overlap": false,
+        "facet_or_paneling": false
+      },
+      "visual_styling": {
+        "background": "No",
+        "decorative_illustration": "No",
+        "logo": "No",
+        "logo_text_or_brand": null
+      },
+      "notes": [],
+      "extracted_text": [
+        "Indice dei prezzi al consumo per l'intera collettività (base 2025=100, mensile)",
+        "var. tendenziali (scala dx)",
+        "var.",
+        "congiunturali (scala sx)",
+        "3.47",
+        "2.8",
+        "2.14",
+        "1.48",
+        "0.82",
+        "0.16",
+        "-0.5",
+        "12",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2",
+        "0",
+        "0"
+      ]
+    }
+  }
+]
