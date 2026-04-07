@@ -11,7 +11,7 @@
 <br/>
 
 - [images](images) - full image release for supplemental upload.
-	- [images/ChartImages_Full_LowRes](images/ChartImages_Full_LowRes) - 5,180 low-resolution chart images.
+	- [images/ChartImages_Full_LowRes](images/ChartImages_Full_LowRes) - 5,180 chart images.
 	- [images/README.md](images/README.md) - image package summary and usage notes.
 	- [images/annotated_examples_outline.md](images/annotated_examples_outline.md) - optional outline for an annotated examples appendix.
 
