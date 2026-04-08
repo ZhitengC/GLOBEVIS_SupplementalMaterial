@@ -1,34 +1,16 @@
-# GLOBEVIS Supplemental Material
+# Supplemental Material
+
+- For the paper titled, "GLOBEVIS: A Corpus of Charts Across Regions and Languages"
 
 ## Organization
-<br/>
 
-- [annotations](annotations) - full annotation release and schema documentation.
-	- [annotations/Annotations_Full](annotations/Annotations_Full) - 34 locale JSON files, 5,180 records in total.
-	- [annotations/README.md](annotations/README.md) - annotation package summary.
-	- [annotations/schema.md](annotations/schema.md) - annotation schema and field definitions.
+- [annotations/](annotations) - contains all materials related to the annotations, including the full annotation release and schema documentation. Read the local [README](annotations/README.md) for complete details.
 
-<br/>
 
-- [images](images) - full image release for supplemental upload.
-	- [images/ChartImages_Full_LowRes](images/ChartImages_Full_LowRes) - 5,180 chart images.
-	- [images/README.md](images/README.md) - image package summary and usage notes.
-	- [images/annotated_examples_outline.md](images/annotated_examples_outline.md) - optional outline for an annotated examples appendix.
+- [images/](images) - contains the watermarked, low-resolution chart images used to demonstrate the scale of the corpus without exposing the full-resolution dataset. Read the local [README](images/README.md) for complete details.
 
-<br/>
 
-- [chartSource](chartSource) - source provenance mappings for collected charts.
-	- [chartSource/README.md](chartSource/README.md) - format, provenance policy, and relation to other folders.
-	- 34 locale CSV files mapping `Image` to `URL`.
+- [chartSource/](chartSource) - contains the source provenance mappings for the collected charts, including the CSV files that map image filenames to source URLs. Read the local [README](chartSource/README.md) for complete details.
 
-<br/>
 
-- [statistics](statistics) - descriptive summary tables and figures organized into 8 groups.
-	- [statistics/README.md](statistics/README.md) - statistics structure, naming convention, and interpretation scope.
-
-## Package Summary
-
-- Annotation records: 5,180
-- Image files: 5,180
-- Languages: 28
-- Locales: 34 region-language combinations
+- [statistics/](statistics) - contains the descriptive summary tables and figures organized into 8 groups. Read the local [README](statistics/README.md) for complete details.

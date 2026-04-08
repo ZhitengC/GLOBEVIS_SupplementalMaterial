@@ -1,16 +1,6 @@
-# Images Folder
+# Images
 
 ## Organization
-<br/>
 
-- [ChartImages_Full_LowRes](ChartImages_Full_LowRes) - canonical image payload for supplemental upload.
-  - 34 locale directories.
-  - 5,180 image files aligned with annotation records.
+- [ChartImages_Watermarked/](ChartImages_Watermarked) - provides the watermarked, low-resolution chart images used to demonstrate collection scale without exposing the full-resolution dataset. This folder contains 34 locale directories and 5,180 image files in total.
 
-<br/>
-
-
-## Format Notes
-
-- Source image formats are preserved (PNG, JPG, JPEG, WEBP, AVIF, PDF).
-- Filename linkage is maintained through the `image` field in `annotations/Annotations_Full/*.json`.
